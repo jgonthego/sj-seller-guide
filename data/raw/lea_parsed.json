@@ -1,0 +1,1874 @@
+{
+ "0100": {
+  "code": "0100",
+  "name": "ATLANTIC CO FIRE MARSHAL",
+  "enf": "County",
+  "smoke_name": "NA",
+  "smoke_addr": "Addr:",
+  "smoke_phone": "",
+  "page": 2
+ },
+ "0101": {
+  "code": "0101",
+  "name": "Absecon City",
+  "enf": "Fire Dept",
+  "smoke_name": "Absecon City Bldg Dept",
+  "smoke_addr": "500 Mill Rd, Absecon NJ 8201",
+  "smoke_phone": "(609) 646-7382",
+  "page": 3
+ },
+ "0102": {
+  "code": "0102",
+  "name": "Atlantic City",
+  "enf": "Fire Dept",
+  "smoke_name": "Atlantic City Fire Dept",
+  "smoke_addr": "2715 Atlantic Av, Atlantic City NJ 08401",
+  "smoke_phone": "(609) 347-5595",
+  "page": 4
+ },
+ "0103": {
+  "code": "0103",
+  "name": "Brigantine City",
+  "enf": "Fire Dept",
+  "smoke_name": "Brigantine Fire Prev",
+  "smoke_addr": "1417 W Brigantine Av, Brigantine NJ 08203",
+  "smoke_phone": "(609) 266-3102",
+  "page": 5
+ },
+ "0104": {
+  "code": "0104",
+  "name": "Buena Borough",
+  "enf": "State",
+  "smoke_name": "NJ Division of Fire Safety",
+  "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+  "smoke_phone": "(609) 633-6132",
+  "page": 6
+ },
+ "0105": {
+  "code": "0105",
+  "name": "Buena Vista Township",
+  "enf": "State",
+  "smoke_name": "Buena Vista Twp",
+  "smoke_addr": "PO Box 605 - 890 Harding Highway Addr:            Supervisor Code Enforcement, Buena NJ 08310",
+  "smoke_phone": "(856) 697-2100",
+  "page": 9
+ },
+ "0106": {
+  "code": "0106",
+  "name": "Corbin City",
+  "enf": "State",
+  "smoke_name": "NJ Division Fire Safety",
+  "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+  "smoke_phone": "(609) 633-6132",
+  "page": 14
+ },
+ "0107": {
+  "code": "0107",
+  "name": "Egg Harbor City",
+  "enf": "Fire Dept",
+  "smoke_name": "Egg Harbor City Bldg Dept",
+  "smoke_addr": "500 London Av, Egg Harbor City NJ 08215",
+  "smoke_phone": "(609) 965-0081",
+  "page": 15
+ },
+ "0108": {
+  "code": "0108",
+  "name": "Egg Harbor Township",
+  "enf": "Municipal",
+  "smoke_name": "Egg Harbor Twp Inspections",
+  "smoke_addr": "3515 Bargaintown Rd, Egg Harbor NJ 08221",
+  "smoke_phone": "(609) 926-4070",
+  "page": 16
+ },
+ "0109": {
+  "code": "0109",
+  "name": "Estell Manor City",
+  "enf": "State",
+  "smoke_name": "NJ Division Fire Safety",
+  "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+  "smoke_phone": "(609) 633-6132",
+  "page": 22
+ },
+ "0110": {
+  "code": "0110",
+  "name": "Folsom Borough",
+  "enf": "State",
+  "smoke_name": "NJ Division Fire Safety",
+  "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+  "smoke_phone": "(609) 633-6132",
+  "page": 23
+ },
+ "0111": {
+  "code": "0111",
+  "name": "Galloway Township",
+  "enf": "Fire Dept",
+  "smoke_name": "Galloway Twp Fire Dept",
+  "smoke_addr": "300 E Jimmie Leeds Rd, Galloway NJ 08205",
+  "smoke_phone": "(609) 652-3720",
+  "page": 24
+ },
+ "0112": {
+  "code": "0112",
+  "name": "Hamilton Township",
+  "enf": "Municipal",
+  "smoke_name": "Hamilton Twp Fire Prev",
+  "smoke_addr": "6101 13th St, Mays Landing NJ 08330",
+  "smoke_phone": "(609) 625-1591",
+  "page": 29
+ },
+ "0113": {
+  "code": "0113",
+  "name": "Hammonton Town",
+  "enf": "Municipal",
+  "smoke_name": "Hammonton Boro Constr Office",
+  "smoke_addr": "100 Central Av, Hammonton NJ 08037",
+  "smoke_phone": "(609) 561-4000",
+  "page": 34
+ },
+ "0114": {
+  "code": "0114",
+  "name": "Linwood City",
+  "enf": "Fire Dept",
+  "smoke_name": "Linwood City Fire",
+  "smoke_addr": "750 Lincoln Av, Linwood NJ 08221",
+  "smoke_phone": "(609) 926-7953",
+  "page": 35
+ },
+ "0115": {
+  "code": "0115",
+  "name": "Longport Borough",
+  "enf": "Municipal",
+  "smoke_name": "Constr Code Housing Dept",
+  "smoke_addr": "2305 Atlantic Av, Longport NJ 08403",
+  "smoke_phone": "(609) 822-0569",
+  "page": 36
+ },
+ "0116": {
+  "code": "0116",
+  "name": "Margate City",
+  "enf": "Fire Dept",
+  "smoke_name": "Margate City Code Enf",
+  "smoke_addr": "101 N Washington Av, Margate City NJ 08402",
+  "smoke_phone": "(609) 822-1974",
+  "page": 37
+ },
+ "0117": {
+  "code": "0117",
+  "name": "Mullica Township",
+  "enf": "State",
+  "smoke_name": "NJ Division Fire Safety",
+  "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+  "smoke_phone": "(609) 633-6132",
+  "page": 38
+ },
+ "0118": {
+  "code": "0118",
+  "name": "Northfield City",
+  "enf": "State",
+  "smoke_name": "Northfield City Bldg Dept",
+  "smoke_addr": "1600 Shore Rd, Northfield NJ 08225",
+  "smoke_phone": "(609) 641-0601",
+  "page": 42
+ },
+ "0119": {
+  "code": "0119",
+  "name": "Pleasantville City",
+  "enf": "Fire Dept",
+  "smoke_name": "Pleasantville City Fire Prev",
+  "smoke_addr": "One North First St, Pleasantville NJ 08232",
+  "smoke_phone": "(609) 484-3670",
+  "page": 43
+ },
+ "0120": {
+  "code": "0120",
+  "name": "Port Republic City",
+  "enf": "State",
+  "smoke_name": "NJ Division Fire Safety",
+  "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+  "smoke_phone": "(609) 633-6132",
+  "page": 44
+ },
+ "0121": {
+  "code": "0121",
+  "name": "Somers Point City",
+  "enf": "State",
+  "smoke_name": "NJ Division of Fire Safety",
+  "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+  "smoke_phone": "(609) 633-6132",
+  "page": 45
+ },
+ "0122": {
+  "code": "0122",
+  "name": "Ventnor City",
+  "enf": "Fire Dept",
+  "smoke_name": "Ventnor City Bldg Dept",
+  "smoke_addr": "6201 Atlantic Av, Ventnor City NJ 08406",
+  "smoke_phone": "(609) 823-7943",
+  "page": 46
+ },
+ "0123": {
+  "code": "0123",
+  "name": "Weymouth Township",
+  "enf": "State",
+  "smoke_name": "NJ Division Fire Safety",
+  "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+  "smoke_phone": "(609) 633-6132",
+  "page": 47
+ },
+ "0300": {
+  "code": "0300",
+  "name": "BURLINGTON CO FIRE MARSHAL",
+  "enf": "County",
+  "smoke_name": "Burlington Co Fire Marshal",
+  "smoke_addr": "53 Academy Dr - PO Box 6000, Westampton NJ 08060",
+  "smoke_phone": "(609) 702-7158",
+  "page": 122
+ },
+ "0301": {
+  "code": "0301",
+  "name": "Bass River Township",
+  "enf": "State",
+  "smoke_name": "NJ Division Fire Safety",
+  "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+  "smoke_phone": "(609) 633-6132",
+  "page": 123
+ },
+ "0302": {
+  "code": "0302",
+  "name": "Beverly City",
+  "enf": "District",
+  "smoke_name": "Cinnaminson Twp Fire Dist #1",
+  "smoke_addr": "1621 Riverton Rd, Cinnaminson Twp NJ 08077",
+  "smoke_phone": "(856) 829-5220",
+  "page": 124
+ },
+ "0303": {
+  "code": "0303",
+  "name": "Bordentown City",
+  "enf": "District",
+  "smoke_name": "Bordentown City Inspection Dept",
+  "smoke_addr": "324 Farnswoth Av, Bordentown NJ 08505",
+  "smoke_phone": "(609) 298-9046",
+  "page": 125
+ },
+ "0304": {
+  "code": "0304",
+  "name": "Bordentown Township",
+  "enf": "District",
+  "smoke_name": "Bordentown Twp Dist #2 Constr O",
+  "smoke_addr": "1 Municipal Dr, Bordentown NJ 08505",
+  "smoke_phone": "(608) 298-2828",
+  "page": 127
+ },
+ "0305": {
+  "code": "0305",
+  "name": "Burlington City",
+  "enf": "Municipal",
+  "smoke_name": "Burlington City Fire Prev",
+  "smoke_addr": "525 High Street, Burlington City NJ 08016",
+  "smoke_phone": "(609) 386-0200",
+  "page": 129
+ },
+ "0306": {
+  "code": "0306",
+  "name": "Burlington Township",
+  "enf": "District",
+  "smoke_name": "Burlington Twp Inspections",
+  "smoke_addr": "851 Old York Rd, Burlington Twp NJ 08016",
+  "smoke_phone": "(609) 239-5847",
+  "page": 130
+ },
+ "0307": {
+  "code": "0307",
+  "name": "Chesterfield Township",
+  "enf": "State",
+  "smoke_name": "Chesterfield Twp Constr Office",
+  "smoke_addr": "300 Bordentown Chesterfield Rd, Chesterfield NJ 08515",
+  "smoke_phone": "(609) 298-0426",
+  "page": 131
+ },
+ "0308": {
+  "code": "0308",
+  "name": "Cinnaminson Township",
+  "enf": "District",
+  "smoke_name": "Cinnaminson Twp Fire Dist #1",
+  "smoke_addr": "1621 Riverton Rd, Cinnaminson Twp NJ 08077",
+  "smoke_phone": "(856) 829-5220",
+  "page": 132
+ },
+ "0309": {
+  "code": "0309",
+  "name": "Delanco Township",
+  "enf": "District",
+  "smoke_name": "Delanco Twp Fire Prev",
+  "smoke_addr": "PO Box 5021, Delanco NJ 08075",
+  "smoke_phone": "(856) 764-8176",
+  "page": 133
+ },
+ "0310": {
+  "code": "0310",
+  "name": "Delran Township",
+  "enf": "District",
+  "smoke_name": "Delran Twp Fire Prev",
+  "smoke_addr": "PO Box 1007, Delran NJ 08075",
+  "smoke_phone": "(856) 461-5474",
+  "page": 134
+ },
+ "0311": {
+  "code": "0311",
+  "name": "Eastampton Township",
+  "enf": "District",
+  "smoke_name": "Eastampton Twp Fire Prev",
+  "smoke_addr": "12 Manor House Court, Eastampton NJ 08060",
+  "smoke_phone": "(609) 267-5723",
+  "page": 135
+ },
+ "0312": {
+  "code": "0312",
+  "name": "Edgewater Park Twp FD#1",
+  "enf": "District",
+  "smoke_name": "Edgewater Park Twp Fire Prev",
+  "smoke_addr": "400 Delanco Rd, Edgewater Park NJ 08010",
+  "smoke_phone": "(609) 877-2050",
+  "page": 136
+ },
+ "0313": {
+  "code": "0313",
+  "name": "Evesham Township",
+  "enf": "District",
+  "smoke_name": "Evesham Fire Dist #1",
+  "smoke_addr": "PO Box 276, Evesham NJ 08053",
+  "smoke_phone": "(856) 983-2750",
+  "page": 137
+ },
+ "0314": {
+  "code": "0314",
+  "name": "Fieldsboro Borough",
+  "enf": "State",
+  "smoke_name": "Fieldsboro Boro Muni Bldg",
+  "smoke_addr": "204 Washington St, Fieldsboro NJ 08505",
+  "smoke_phone": "(609) 298-6344",
+  "page": 138
+ },
+ "0315": {
+  "code": "0315",
+  "name": "Florence Township",
+  "enf": "District",
+  "smoke_name": "Florence Twp Constr Dept",
+  "smoke_addr": "711 Broad Street, Florence NJ 08518",
+  "smoke_phone": "(609) 499-2130",
+  "page": 139
+ },
+ "0316": {
+  "code": "0316",
+  "name": "Hainesport Township",
+  "enf": "Municipal",
+  "smoke_name": "Hainesport Twp Fire Prev",
+  "smoke_addr": "Box 477 - 1 Hainesport Ctr, Hainesport NJ 08036",
+  "smoke_phone": "(609) 267-2730",
+  "page": 140
+ },
+ "0317": {
+  "code": "0317",
+  "name": "Lumberton Township",
+  "enf": "Municipal",
+  "smoke_name": "Lumberton Twp Fire Prev",
+  "smoke_addr": "35 Municipal Drive, Lumberton NJ 08048",
+  "smoke_phone": "(609) 267-3217",
+  "page": 141
+ },
+ "0318": {
+  "code": "0318",
+  "name": "Mansfield Township",
+  "enf": "Municipal",
+  "smoke_name": "Mansfield Twp Fire Prev",
+  "smoke_addr": "3135 Route 206 South Suite #1, Columbus NJ 08022",
+  "smoke_phone": "(856) 298-5325",
+  "page": 142
+ },
+ "0319": {
+  "code": "0319",
+  "name": "Maple Shade Township",
+  "enf": "Fire Dept",
+  "smoke_name": "Maple Shade Fire Prev",
+  "smoke_addr": "200 Stiles Ave, Maple Shade NJ 08052",
+  "smoke_phone": "(856) 779-1335",
+  "page": 143
+ },
+ "0320": {
+  "code": "0320",
+  "name": "Medford Township",
+  "enf": "Municipal",
+  "smoke_name": "Medford Twp Fire Prev",
+  "smoke_addr": "1 Firehouse La, Medford NJ 08055",
+  "smoke_phone": "(609) 953-3291",
+  "page": 144
+ },
+ "0321": {
+  "code": "0321",
+  "name": "Medford Lakes Borough",
+  "enf": "Municipal",
+  "smoke_name": "Medford Lakes Boro Fire Prev",
+  "smoke_addr": "1 Cabin Circle Dr, Medford Lakes NJ 08055",
+  "smoke_phone": "(609) 654-8898",
+  "page": 145
+ },
+ "0322": {
+  "code": "0322",
+  "name": "Moorestown Township",
+  "enf": "District",
+  "smoke_name": "Moorestown Twp Dist #2",
+  "smoke_addr": "225 N Lenola Rd, Moorestown NJ 08057",
+  "smoke_phone": "(856) 234-6660",
+  "page": 146
+ },
+ "0323": {
+  "code": "0323",
+  "name": "Mount Holly Township",
+  "enf": "District",
+  "smoke_name": "Mt Holly Twp Dist #1",
+  "smoke_addr": "17 Pine St, Mt Holly NJ 08060",
+  "smoke_phone": "(609) 261-7233",
+  "page": 148
+ },
+ "0324": {
+  "code": "0324",
+  "name": "Mount Laurel Township",
+  "enf": "District",
+  "smoke_name": "Mount Laurel Twp Dist #1",
+  "smoke_addr": "69 Elbo Ln, Mt Laurel NJ 08054",
+  "smoke_phone": "(856) 234-6053",
+  "page": 149
+ },
+ "0325": {
+  "code": "0325",
+  "name": "New Hanover Township",
+  "enf": "Municipal",
+  "smoke_name": "Wrightstown Boro",
+  "smoke_addr": "21 Saylors Pond Rd, Wrightstown NJ 08562",
+  "smoke_phone": "(609) 723-4450",
+  "page": 150
+ },
+ "0326": {
+  "code": "0326",
+  "name": "North Hanover Township",
+  "enf": "District",
+  "smoke_name": "Plumsted Twp Fire Dist #1",
+  "smoke_addr": "PO Box 267, New Egypt NJ 08533",
+  "smoke_phone": "(609) 758-3920",
+  "page": 153
+ },
+ "0327": {
+  "code": "0327",
+  "name": "Palmyra Borough",
+  "enf": "Municipal",
+  "smoke_name": "Palmyra Boro Fire Prev",
+  "smoke_addr": "20 W Broad St, Palmyra NJ 08065",
+  "smoke_phone": "(856) 829-1096",
+  "page": 154
+ },
+ "0328": {
+  "code": "0328",
+  "name": "Pemberton Borough",
+  "enf": "State",
+  "smoke_name": "NJ Division Fire Safety",
+  "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+  "smoke_phone": "(609) 633-6132",
+  "page": 155
+ },
+ "0329": {
+  "code": "0329",
+  "name": "Pemberton Township",
+  "enf": "State",
+  "smoke_name": "NJ Division Fire Safety",
+  "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+  "smoke_phone": "(609) 633-6132",
+  "page": 156
+ },
+ "0330": {
+  "code": "0330",
+  "name": "Riverside Township",
+  "enf": "Municipal",
+  "smoke_name": "Riverside Twp",
+  "smoke_addr": "PO Box 188 - 237 S. Pavilion Ave, Riverside NJ 08075",
+  "smoke_phone": "(856) 461-1460",
+  "page": 157
+ },
+ "0331": {
+  "code": "0331",
+  "name": "Riverton Borough",
+  "enf": "Fire Dept",
+  "smoke_name": "Riverton Boro Fire Prev",
+  "smoke_addr": "505 A Howard St, Riverton NJ 08077",
+  "smoke_phone": "(856) 829-0120",
+  "page": 158
+ },
+ "0332": {
+  "code": "0332",
+  "name": "Shamong Township",
+  "enf": "State",
+  "smoke_name": "Shamong Twp Constr Office",
+  "smoke_addr": "105 Willow Grove Rd, Shamong NJ 08088",
+  "smoke_phone": "(609) 268-2372",
+  "page": 159
+ },
+ "0333": {
+  "code": "0333",
+  "name": "Southampton Township",
+  "enf": "State",
+  "smoke_name": "Southhampton Twp Constr Office",
+  "smoke_addr": "5 Retreat Rd, Southhampton NJ 08088",
+  "smoke_phone": "(609) 859-2786",
+  "page": 160
+ },
+ "0334": {
+  "code": "0334",
+  "name": "Springfield Township",
+  "enf": "State",
+  "smoke_name": "Springfield Twp Constr Off",
+  "smoke_addr": "PO Box 119, Jobstown NJ 08041",
+  "smoke_phone": "(609) 723-2464",
+  "page": 162
+ },
+ "0335": {
+  "code": "0335",
+  "name": "Tabernacle Township",
+  "enf": "Municipal",
+  "smoke_name": "Tabernacle Constr Office",
+  "smoke_addr": "163 Casranza Rd, Tabernacle NJ 08088",
+  "smoke_phone": "(609) 268-1220",
+  "page": 165
+ },
+ "0336": {
+  "code": "0336",
+  "name": "Washington Township",
+  "enf": "State",
+  "smoke_name": "NJ Division Fire Safety",
+  "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+  "smoke_phone": "(609) 633-6132",
+  "page": 166
+ },
+ "0337": {
+  "code": "0337",
+  "name": "Westampton Township",
+  "enf": "Municipal",
+  "smoke_name": "Westampton Twp Fire Prev",
+  "smoke_addr": "780 Woodlane Rd, Westampton NJ 08060",
+  "smoke_phone": "(609) 267-2041",
+  "page": 168
+ },
+ "0338": {
+  "code": "0338",
+  "name": "Willingboro Township",
+  "enf": "State",
+  "smoke_name": "NJ Division of Fire Safety",
+  "smoke_addr": "PO Box 809, Trenton NJ 08625",
+  "smoke_phone": "(609) 633-6132",
+  "page": 169
+ },
+ "0339": {
+  "code": "0339",
+  "name": "Woodland Township",
+  "enf": "Municipal",
+  "smoke_name": "Woodland Twp Fire Prev",
+  "smoke_addr": "PO Box 388, Chatsworth NJ 08019",
+  "smoke_phone": "(609) 726-1700",
+  "page": 170
+ },
+ "0340": {
+  "code": "0340",
+  "name": "Wrightstown Borough",
+  "enf": "Municipal",
+  "smoke_name": "Wrightstown Boro Fire Preventon",
+  "smoke_addr": "21 Saylors Pond Rd, Wrightstown NJ 08562",
+  "smoke_phone": "(609) 723-4450",
+  "page": 171
+ },
+ "0400": {
+  "code": "0400",
+  "name": "CAMDEN CO FIRE MARSHAL",
+  "enf": "County",
+  "smoke_name": "NA",
+  "smoke_addr": "Addr:    2311 Egg Harbor Rd, Lindenwold NJ 08021",
+  "smoke_phone": "",
+  "page": 173
+ },
+ "0401": {
+  "code": "0401",
+  "name": "Audubon Borough",
+  "enf": "Municipal",
+  "smoke_name": "Audubon Boro Fire Prev",
+  "smoke_addr": "606 W. Nicholson Rd., Audubon NJ 08106",
+  "smoke_phone": "(856) 546-5399",
+  "page": 174
+ },
+ "0402": {
+  "code": "0402",
+  "name": "Audubon Park Borough",
+  "enf": "Municipal",
+  "smoke_name": "Audubon Park Boro",
+  "smoke_addr": "Addr:",
+  "smoke_phone": "",
+  "page": 175
+ },
+ "0403": {
+  "code": "0403",
+  "name": "Barrington Borough",
+  "enf": "Municipal",
+  "smoke_name": "Barrington Fire Dept",
+  "smoke_addr": "229 Trenton, Barrington NJ 08007",
+  "smoke_phone": "(856) 547-0706",
+  "page": 176
+ },
+ "0404": {
+  "code": "0404",
+  "name": "Bellmawr Borough",
+  "enf": "Municipal",
+  "smoke_name": "Bellmawr Boro Constr Office",
+  "smoke_addr": "21 E Browning Rd, Bellmawr NJ 08099",
+  "smoke_phone": "(856) 933-1286",
+  "page": 177
+ },
+ "0405": {
+  "code": "0405",
+  "name": "Berlin Borough",
+  "enf": "Fire Dept",
+  "smoke_name": "Berlin Boro Fire Prev",
+  "smoke_addr": "PO Box 226, Berlin NJ 08009",
+  "smoke_phone": "(856) 767-7777",
+  "page": 178
+ },
+ "0406": {
+  "code": "0406",
+  "name": "Berlin Township",
+  "enf": "District",
+  "smoke_name": "Berlin Twp Dist #1 Fire Prev",
+  "smoke_addr": "186 Haddon Av, West Berlin NJ 08091",
+  "smoke_phone": "(856) 767-1839",
+  "page": 179
+ },
+ "0407": {
+  "code": "0407",
+  "name": "Brooklawn Borough",
+  "enf": "Fire Dept",
+  "smoke_name": "Brooklawn Boro Constr",
+  "smoke_addr": "301 Christiana St, Brooklawn NJ 08030",
+  "smoke_phone": "(856) 456-0750",
+  "page": 180
+ },
+ "0408": {
+  "code": "0408",
+  "name": "Camden City",
+  "enf": "Fire Dept",
+  "smoke_name": "Camden City Fire Prev",
+  "smoke_addr": "4 N 3rd St, Camden NJ 08102",
+  "smoke_phone": "(856) 757-7531",
+  "page": 181
+ },
+ "0409": {
+  "code": "0409",
+  "name": "Cherry Hill Township",
+  "enf": "District",
+  "smoke_name": "Cherry Hill Dist #1 Fire Prev",
+  "smoke_addr": "1100 Marlkress Rd, Cherry Hill NJ 08003",
+  "smoke_phone": "(856) 795-1340",
+  "page": 182
+ },
+ "0410": {
+  "code": "0410",
+  "name": "Chesilhurst Borough",
+  "enf": "District",
+  "smoke_name": "Winslow Twp Fire Prev",
+  "smoke_addr": "9 Cedar Brook Rd, Sicklerville NJ 08081",
+  "smoke_phone": "(609) 561-4225",
+  "page": 183
+ },
+ "0411": {
+  "code": "0411",
+  "name": "Clementon Borough",
+  "enf": "Municipal",
+  "smoke_name": "Clementon Boro Fire Preventon",
+  "smoke_addr": "101 Gibbsboro Rd, Clementon NJ 08021",
+  "smoke_phone": "(856) 783-0284",
+  "page": 184
+ },
+ "0412": {
+  "code": "0412",
+  "name": "Collingswood Borough",
+  "enf": "Fire Dept",
+  "smoke_name": "Pennsauken/Collingswood Fire Pr",
+  "smoke_addr": "4700 Westfield Av, Pennsauken NJ 08110",
+  "smoke_phone": "(856) 665-0774",
+  "page": 185
+ },
+ "0413": {
+  "code": "0413",
+  "name": "Gibbsboro Borough",
+  "enf": "Municipal",
+  "smoke_name": "Gibbsboro Fire Prev",
+  "smoke_addr": "49 Kirkwood Rd, Gibbsboro NJ 08026",
+  "smoke_phone": "(856) 783-6655",
+  "page": 186
+ },
+ "0414": {
+  "code": "0414",
+  "name": "Gloucester City",
+  "enf": "Fire Dept",
+  "smoke_name": "Gloucester City Housing",
+  "smoke_addr": "512 Monmouth St, Gloucester City NJ 08030",
+  "smoke_phone": "(856) 456-7689",
+  "page": 187
+ },
+ "0415": {
+  "code": "0415",
+  "name": "Gloucester Township",
+  "enf": "State",
+  "smoke_name": "Gloucester Twp Dist #3",
+  "smoke_addr": "PO Box 1233 - Almonesson Rd, Blackwood NJ 08012",
+  "smoke_phone": "(856) 381-2052",
+  "page": 188
+ },
+ "0416": {
+  "code": "0416",
+  "name": "Haddon Township",
+  "enf": "Municipal",
+  "smoke_name": "Haddon Twp Constr",
+  "smoke_addr": "10 Reeve Av, Haddon Twp NJ 08108",
+  "smoke_phone": "(856) 854-1176",
+  "page": 194
+ },
+ "0417": {
+  "code": "0417",
+  "name": "Haddonfield Borough",
+  "enf": "Municipal",
+  "smoke_name": "Haddonfield Fire Co",
+  "smoke_addr": "15 N Haddon Av, Haddonfield NJ 08033",
+  "smoke_phone": "(856) 429-4308",
+  "page": 196
+ },
+ "0418": {
+  "code": "0418",
+  "name": "Haddon Heights Borough",
+  "enf": "Fire Dept",
+  "smoke_name": "Haddon Hgts Boro Fire Prev",
+  "smoke_addr": "Rear 608 Station Av, Haddon Heights NJ 08035",
+  "smoke_phone": "(856) 546-7135",
+  "page": 197
+ },
+ "0419": {
+  "code": "0419",
+  "name": "Hi-Nella Borough",
+  "enf": "Municipal",
+  "smoke_name": "Regional Fire Prev Alliance",
+  "smoke_addr": "229 Trenton Ave, Barrington NJ 08007",
+  "smoke_phone": "(856) 547-0991",
+  "page": 198
+ },
+ "0420": {
+  "code": "0420",
+  "name": "Laurel Springs Borough",
+  "enf": "Fire Dept",
+  "smoke_name": "Laurel Springs Boro",
+  "smoke_addr": "723 West Atlantic Av, Laurel Springs NJ 08021",
+  "smoke_phone": "(856) 784-0500",
+  "page": 199
+ },
+ "0421": {
+  "code": "0421",
+  "name": "Lawnside Borough",
+  "enf": "Municipal",
+  "smoke_name": "Regional Fire Prev Alliance",
+  "smoke_addr": "229 Trenton Ave, Barrington NJ 08007",
+  "smoke_phone": "(856) 547-0991",
+  "page": 200
+ },
+ "0422": {
+  "code": "0422",
+  "name": "Lindenwold Borough",
+  "enf": "District",
+  "smoke_name": "Lindenwold Boro",
+  "smoke_addr": "2001 Egg Harbor Rd., Lindenwold NJ 08021",
+  "smoke_phone": "(856) 783-2121",
+  "page": 201
+ },
+ "0423": {
+  "code": "0423",
+  "name": "Magnolia Borough",
+  "enf": "State",
+  "smoke_name": "Magnolia Boro Constr Office",
+  "smoke_addr": "438 West Evesham Av, Magnolia NJ 08049",
+  "smoke_phone": "(856) 783-1520",
+  "page": 202
+ },
+ "0424": {
+  "code": "0424",
+  "name": "Merchantville Borough",
+  "enf": "Fire Dept",
+  "smoke_name": "Merchantville Code Enf",
+  "smoke_addr": "1 West Maple Av, Merchantville NJ 08109",
+  "smoke_phone": "(856) 488-0404",
+  "page": 203
+ },
+ "0425": {
+  "code": "0425",
+  "name": "Mount Ephraim Borough",
+  "enf": "Municipal",
+  "smoke_name": "Regional Fire Prev Alliance",
+  "smoke_addr": "229 Trenton Ave, Barrington NJ 08007",
+  "smoke_phone": "(856) 547-0991",
+  "page": 204
+ },
+ "0426": {
+  "code": "0426",
+  "name": "Oaklyn Borough",
+  "enf": "Municipal",
+  "smoke_name": "Oaklyn Borough Constr",
+  "smoke_addr": "500 White Horse Pike, Oaklyn NJ 08107",
+  "smoke_phone": "(856) 854-0049",
+  "page": 205
+ },
+ "0427": {
+  "code": "0427",
+  "name": "Pennsauken Township",
+  "enf": "Municipal",
+  "smoke_name": "Pennsauken/Collingswood Fire Pr",
+  "smoke_addr": "4700 Westfield Ave., Pennsauken NJ 08110",
+  "smoke_phone": "(856) 665-0774",
+  "page": 206
+ },
+ "0428": {
+  "code": "0428",
+  "name": "Pine Hill Borough",
+  "enf": "District",
+  "smoke_name": "Pine Hill Boro Fire Dist #1",
+  "smoke_addr": "1109 Erial Rd, Pine Hill NJ 08021",
+  "smoke_phone": "(856) 784-3993",
+  "page": 207
+ },
+ "0429": {
+  "code": "0429",
+  "name": "Pine Valley Borough",
+  "enf": "Municipal",
+  "smoke_name": "Pine Valley Fire Prev",
+  "smoke_addr": "707 Kayser Av., Pine Hill NJ 08021",
+  "smoke_phone": "(609) 685-1249",
+  "page": 208
+ },
+ "0430": {
+  "code": "0430",
+  "name": "Runnemede Borough",
+  "enf": "Municipal",
+  "smoke_name": "Runnemede Boro Fire Prev",
+  "smoke_addr": "24 N Black Horse Pk, Runnemede NJ 08078",
+  "smoke_phone": "(856) 939-2817",
+  "page": 209
+ },
+ "0431": {
+  "code": "0431",
+  "name": "Somerdale Borough",
+  "enf": "Municipal",
+  "smoke_name": "Somerdale Boro Fire Prev",
+  "smoke_addr": "105 Kennedy Rd, Somerdale NJ 08083",
+  "smoke_phone": "(856) 207-9165",
+  "page": 210
+ },
+ "0432": {
+  "code": "0432",
+  "name": "Stratford Borough",
+  "enf": "State",
+  "smoke_name": "Stratford Boro Fire Prev",
+  "smoke_addr": "311 E Laurel Rd, Stratford NJ 08084",
+  "smoke_phone": "(856) 782-1933",
+  "page": 211
+ },
+ "0433": {
+  "code": "0433",
+  "name": "Tavistock Borough",
+  "enf": "Municipal",
+  "smoke_name": "Haddonfield Boro",
+  "smoke_addr": "242 Kings Hwy East Suite 205, Haddonfield NJ 08033",
+  "smoke_phone": "(856) 429-4700",
+  "page": 212
+ },
+ "0434": {
+  "code": "0434",
+  "name": "Voorhees Township",
+  "enf": "Fire Dept",
+  "smoke_name": "Voorhees Twp Zoning Dept",
+  "smoke_addr": "2002 S Burnt Mill Rd, Voorhees NJ 08043",
+  "smoke_phone": "(856) 429-0647",
+  "page": 213
+ },
+ "0435": {
+  "code": "0435",
+  "name": "Waterford Township",
+  "enf": "Fire Dept",
+  "smoke_name": "Berlin Boro Fire Prev",
+  "smoke_addr": "PO Box 226, Berlin NJ 08009",
+  "smoke_phone": "(856) 767-7777",
+  "page": 214
+ },
+ "0436": {
+  "code": "0436",
+  "name": "Winslow Township",
+  "enf": "District",
+  "smoke_name": "Winslow Twp Fire Prev",
+  "smoke_addr": "9 Cedar Brook Rd, Sicklerville NJ 08081",
+  "smoke_phone": "(609) 561-4225",
+  "page": 215
+ },
+ "0437": {
+  "code": "0437",
+  "name": "Woodlynne Borough",
+  "enf": "State",
+  "smoke_name": "Name:",
+  "smoke_addr": "Addr:",
+  "smoke_phone": "",
+  "page": 217
+ },
+ "0501": {
+  "code": "0501",
+  "name": "Avalon Borough",
+  "enf": "Municipal",
+  "smoke_name": "Avalon Boro Fire Prev",
+  "smoke_addr": "3100 Dune Dr, Avalon NJ 08202",
+  "smoke_phone": "(609) 967-5918",
+  "page": 219
+ },
+ "0502": {
+  "code": "0502",
+  "name": "Cape May City",
+  "enf": "Municipal",
+  "smoke_name": "Cape May City Fire Prev",
+  "smoke_addr": "643 Washington St, Cape May NJ 08204",
+  "smoke_phone": "(609) 884-9599",
+  "page": 220
+ },
+ "0503": {
+  "code": "0503",
+  "name": "Cape May Point Borough",
+  "enf": "State",
+  "smoke_name": "NJ Division Fire Safety",
+  "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+  "smoke_phone": "(609) 633-6132",
+  "page": 222
+ },
+ "0504": {
+  "code": "0504",
+  "name": "Dennis Township",
+  "enf": "State",
+  "smoke_name": "NJ Division Fire Safety",
+  "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+  "smoke_phone": "(609) 633-6132",
+  "page": 223
+ },
+ "0505": {
+  "code": "0505",
+  "name": "Lower Township",
+  "enf": "District",
+  "smoke_name": "Lower Twp Fire Prev",
+  "smoke_addr": "407 Breakwater Rd, Erma NJ 08204",
+  "smoke_phone": "(609) 889-0404",
+  "page": 226
+ },
+ "0506": {
+  "code": "0506",
+  "name": "Middle Township",
+  "enf": "District",
+  "smoke_name": "Middle Twp Dist #1",
+  "smoke_addr": "115 Mechanic St, Cape May Courthouse NJ 08210",
+  "smoke_phone": "(609) 465-8710",
+  "page": 229
+ },
+ "0507": {
+  "code": "0507",
+  "name": "North Wildwood City",
+  "enf": "Fire Dept",
+  "smoke_name": "City of North Wildwood Fire Prev",
+  "smoke_addr": "901 Atlantic Ave - City Hall, North Wildwood NJ 08260",
+  "smoke_phone": "(609) 522-2160",
+  "page": 233
+ },
+ "0508": {
+  "code": "0508",
+  "name": "Ocean City",
+  "enf": "State",
+  "smoke_name": "NJ Division Fire Safety",
+  "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+  "smoke_phone": "(609) 633-6132",
+  "page": 234
+ },
+ "0509": {
+  "code": "0509",
+  "name": "Sea Isle City",
+  "enf": "Municipal",
+  "smoke_name": "Sea Isle City Fire Prev",
+  "smoke_addr": "233 JFK Blvd, Sea Isle City NJ 08243",
+  "smoke_phone": "(609) 263-4461",
+  "page": 235
+ },
+ "0510": {
+  "code": "0510",
+  "name": "Stone Harbor City",
+  "enf": "Fire Dept",
+  "smoke_name": "Stone Harbor Boro Fire Prev",
+  "smoke_addr": "9508 2nd Av, Stone Harbor NJ 08247",
+  "smoke_phone": "(609) 368-5102",
+  "page": 236
+ },
+ "0511": {
+  "code": "0511",
+  "name": "Upper Township",
+  "enf": "State",
+  "smoke_name": "NJ Division Fire Safety",
+  "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+  "smoke_phone": "(609) 633-6132",
+  "page": 237
+ },
+ "0512": {
+  "code": "0512",
+  "name": "West Cape May Borough",
+  "enf": "State",
+  "smoke_name": "NJ Division Fire Safety",
+  "smoke_addr": "PO Box 809, Trenton, NJ 08625-0809",
+  "smoke_phone": "(609) 633-6132",
+  "page": 241
+ },
+ "0513": {
+  "code": "0513",
+  "name": "West Wildwood Borough",
+  "enf": "Fire Dept",
+  "smoke_name": "West Wildwood Boro",
+  "smoke_addr": "701 W Glenwood Av, West Wildwood NJ 08260",
+  "smoke_phone": "(609) 522-4845",
+  "page": 242
+ },
+ "0514": {
+  "code": "0514",
+  "name": "Wildwood City",
+  "enf": "Fire Dept",
+  "smoke_name": "Wildwood City Fire Prev",
+  "smoke_addr": "4400 New Jersey Av, Wildwood NJ 08260",
+  "smoke_phone": "(609) 522-2444",
+  "page": 243
+ },
+ "0515": {
+  "code": "0515",
+  "name": "Wildwood Crest Borough",
+  "enf": "Fire Dept",
+  "smoke_name": "Wildwood Crest Boro",
+  "smoke_addr": "6101 Pacific Ave, Wildwood Crest NJ 08260",
+  "smoke_phone": "(609) 729-5152",
+  "page": 244
+ },
+ "0516": {
+  "code": "0516",
+  "name": "Woodbine Borough",
+  "enf": "State",
+  "smoke_name": "NJ Division Fire Safety",
+  "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+  "smoke_phone": "(609) 633-6132",
+  "page": 245
+ },
+ "0601": {
+  "code": "0601",
+  "name": "Bridgeton City",
+  "enf": "Fire Dept",
+  "smoke_name": "Bridgeton City Fire Dept",
+  "smoke_addr": "181 E Commerce St, Birdgeton City NJ 08302",
+  "smoke_phone": "(856) 451-0091",
+  "page": 247
+ },
+ "0602": {
+  "code": "0602",
+  "name": "Commercial Township",
+  "enf": "State",
+  "smoke_name": "NJ Division Fire Safety",
+  "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+  "smoke_phone": "(609) 633-6132",
+  "page": 248
+ },
+ "0603": {
+  "code": "0603",
+  "name": "Deerfield Township",
+  "enf": "Fire Dept",
+  "smoke_name": "Deerfield Twp Fire Prev",
+  "smoke_addr": "PO Box 350, Rosenhayn NJ 08352",
+  "smoke_phone": "(856) 455-3200",
+  "page": 251
+ },
+ "0604": {
+  "code": "0604",
+  "name": "Downe Township",
+  "enf": "Fire Dept",
+  "smoke_name": "Bridgeton City Fire Dept",
+  "smoke_addr": "181 Commerce St, Bridgeton City NJ 08302",
+  "smoke_phone": "(856) 451-0091",
+  "page": 252
+ },
+ "0605": {
+  "code": "0605",
+  "name": "Fairfield Township",
+  "enf": "Fire Dept",
+  "smoke_name": "Fairfield Twp Fire Prev",
+  "smoke_addr": "PO Box 240, Fairton NJ 08320",
+  "smoke_phone": "(856) 451-9284",
+  "page": 254
+ },
+ "0606": {
+  "code": "0606",
+  "name": "Greenwich Township",
+  "enf": "Fire Dept",
+  "smoke_name": "Greenwich Twp Fire Prev",
+  "smoke_addr": "991 Ye Greate St - Box 261, Greenwich NJ 08323",
+  "smoke_phone": "(609) 633-6241",
+  "page": 256
+ },
+ "0607": {
+  "code": "0607",
+  "name": "Hopewell Township",
+  "enf": "Fire Dept",
+  "smoke_name": "Bridgeton City Fire Dept",
+  "smoke_addr": "181 E Commerce St, Bridgeton City NJ 08302",
+  "smoke_phone": "(856) 451-0091",
+  "page": 257
+ },
+ "0608": {
+  "code": "0608",
+  "name": "Lawrence Township",
+  "enf": "State",
+  "smoke_name": "NJ Division Fire Safety",
+  "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+  "smoke_phone": "(609) 633-6132",
+  "page": 258
+ },
+ "0609": {
+  "code": "0609",
+  "name": "Maurice River Township",
+  "enf": "Municipal",
+  "smoke_name": "Maurice River Twp Fire Prev",
+  "smoke_addr": "590 Main St - Box 218, Leesburg NJ 08327",
+  "smoke_phone": "(856) 785-1120",
+  "page": 259
+ },
+ "0610": {
+  "code": "0610",
+  "name": "Millville City",
+  "enf": "Fire Dept",
+  "smoke_name": "Millville Fire Dept",
+  "smoke_addr": "420 Buck St, Millville NJ 08332",
+  "smoke_phone": "(856) 327-3334",
+  "page": 263
+ },
+ "0611": {
+  "code": "0611",
+  "name": "Shiloh Borough",
+  "enf": "Fire Dept",
+  "smoke_name": "Bridgeton City Fire Dept",
+  "smoke_addr": "181 E Commerce St, Bridgeton City NJ 08302",
+  "smoke_phone": "(856) 451-0091",
+  "page": 264
+ },
+ "0612": {
+  "code": "0612",
+  "name": "Stow Creek Township",
+  "enf": "Fire Dept",
+  "smoke_name": "Bridgeton City Fire Dept",
+  "smoke_addr": "181 E Commerce St, Bridgeton City NJ 08302",
+  "smoke_phone": "(856) 451-0091",
+  "page": 266
+ },
+ "0613": {
+  "code": "0613",
+  "name": "Upper Deerfield Township",
+  "enf": "Municipal",
+  "smoke_name": "Upper Deerfield Twp Fire Prev",
+  "smoke_addr": "State Hwy 77, Seabrook NJ 08302",
+  "smoke_phone": "(856) 451-3811",
+  "page": 267
+ },
+ "0614": {
+  "code": "0614",
+  "name": "Vineland City",
+  "enf": "Fire Dept",
+  "smoke_name": "Vineland City Fire Prev",
+  "smoke_addr": "640 E Wood St - Box 1508, Vineland NJ 08362",
+  "smoke_phone": "(856) 794-4000",
+  "page": 270
+ },
+ "0800": {
+  "code": "0800",
+  "name": "GLOUCESTER CO FIRE MARSHAL",
+  "enf": "County",
+  "smoke_name": "NA",
+  "smoke_addr": "Addr:",
+  "smoke_phone": "",
+  "page": 295
+ },
+ "0801": {
+  "code": "0801",
+  "name": "Clayton Borough",
+  "enf": "County",
+  "smoke_name": "Clayton Boro Constr Office",
+  "smoke_addr": "125 N Delsea Dr, Clayton NJ 08312",
+  "smoke_phone": "(856) 881-2882",
+  "page": 296
+ },
+ "0802": {
+  "code": "0802",
+  "name": "Deptford Township",
+  "enf": "District",
+  "smoke_name": "Deptford Twp Constr Office",
+  "smoke_addr": "1011 Cooper St, Deptford NJ 08096",
+  "smoke_phone": "(856) 845-5300",
+  "page": 297
+ },
+ "0803": {
+  "code": "0803",
+  "name": "East Greenwich Township",
+  "enf": "County",
+  "smoke_name": "East Greenwich Constr Dept",
+  "smoke_addr": "159 Democrat Rd, Mickleton NJ 08056",
+  "smoke_phone": "(856) 423-0654",
+  "page": 298
+ },
+ "0804": {
+  "code": "0804",
+  "name": "Elk Township",
+  "enf": "County",
+  "smoke_name": "Elk Twp Constr Office",
+  "smoke_addr": "667 Whig Lane Rd, Monroeville NJ 08343",
+  "smoke_phone": "(856) 881-6525",
+  "page": 299
+ },
+ "0805": {
+  "code": "0805",
+  "name": "Franklin Township",
+  "enf": "Municipal",
+  "smoke_name": "Franklin Twp Fire Prev",
+  "smoke_addr": "1571 Delsea Dr, Franklinville NJ 08322",
+  "smoke_phone": "(856) 694-1234",
+  "page": 302
+ },
+ "0806": {
+  "code": "0806",
+  "name": "Glassboro Borough",
+  "enf": "Fire Dept",
+  "smoke_name": "Glassboro Boro Fire Prev",
+  "smoke_addr": "10 S Poplar St, Glassboro NJ 08028",
+  "smoke_phone": "(856) 881-5636",
+  "page": 307
+ },
+ "0807": {
+  "code": "0807",
+  "name": "Greenwich Township",
+  "enf": "Municipal",
+  "smoke_name": "Greenwich Twp Housing Authority",
+  "smoke_addr": "420 Washington St, Gibbstown NJ 08027",
+  "smoke_phone": "(856) 423-2314",
+  "page": 308
+ },
+ "0808": {
+  "code": "0808",
+  "name": "Harrison Township",
+  "enf": "District",
+  "smoke_name": "Harrison Twp Fire Prev",
+  "smoke_addr": "312 Ewan Rd, Mullica Hill NJ 08062",
+  "smoke_phone": "(609) 685-1643",
+  "page": 309
+ },
+ "0809": {
+  "code": "0809",
+  "name": "Logan Township",
+  "enf": "Municipal",
+  "smoke_name": "Logan Twp Constr Office",
+  "smoke_addr": "125 Main St - Box 314, Bridgeport NJ 08014",
+  "smoke_phone": "(856) 467-3626",
+  "page": 310
+ },
+ "0810": {
+  "code": "0810",
+  "name": "Mantua Township",
+  "enf": "Municipal",
+  "smoke_name": "Mantua Fire Dist #1",
+  "smoke_addr": "155 Union Av, Sewell NJ 08080",
+  "smoke_phone": "(856) 468-7222",
+  "page": 311
+ },
+ "0811": {
+  "code": "0811",
+  "name": "Monroe Township",
+  "enf": "Municipal",
+  "smoke_name": "Monroe Twp Zoning Office",
+  "smoke_addr": "125 Virgina Av - Ste 5, Williamstown NJ 08094",
+  "smoke_phone": "(856) 728-9800",
+  "page": 312
+ },
+ "0812": {
+  "code": "0812",
+  "name": "National Park Borough",
+  "enf": "County",
+  "smoke_name": "National Park Boro Fire Prev",
+  "smoke_addr": "7 S Grove Av, National Park NJ 08063",
+  "smoke_phone": "(856) 845-3891",
+  "page": 314
+ },
+ "0813": {
+  "code": "0813",
+  "name": "Newfield Borough",
+  "enf": "County",
+  "smoke_name": "Newfield Boro Constr",
+  "smoke_addr": "18 Catawba Av, Newfield NJ 08344",
+  "smoke_phone": "(856) 697-1100",
+  "page": 315
+ },
+ "0814": {
+  "code": "0814",
+  "name": "Paulsboro Borough",
+  "enf": "County",
+  "smoke_name": "County of Gloucester",
+  "smoke_addr": "212 County House Rd, Clarksboro NJ 08020",
+  "smoke_phone": "(856) 307-7100",
+  "page": 316
+ },
+ "0815": {
+  "code": "0815",
+  "name": "Pitman Borough",
+  "enf": "Fire Dept",
+  "smoke_name": "Pitman Boro Fire Prev",
+  "smoke_addr": "110 S Broadway, Pitman NJ 08071",
+  "smoke_phone": "(856) 589-2433",
+  "page": 318
+ },
+ "0816": {
+  "code": "0816",
+  "name": "South Harrison Township",
+  "enf": "County",
+  "smoke_name": "South Harrison Twp Constr",
+  "smoke_addr": "PO Box 113, Harrisonville NJ 08039",
+  "smoke_phone": "(856) 769-3737",
+  "page": 319
+ },
+ "0817": {
+  "code": "0817",
+  "name": "Swedesboro Borough",
+  "enf": "County",
+  "smoke_name": "Swedesboro Boro Fire Prev",
+  "smoke_addr": "Addr:",
+  "smoke_phone": "",
+  "page": 320
+ },
+ "0818": {
+  "code": "0818",
+  "name": "Washington Township",
+  "enf": "District",
+  "smoke_name": "Washington Twp",
+  "smoke_addr": "PO Box 1106, Turnersville NJ 08012",
+  "smoke_phone": "(856) 589-0520",
+  "page": 321
+ },
+ "0819": {
+  "code": "0819",
+  "name": "Wenonah Borough",
+  "enf": "Fire Dept",
+  "smoke_name": "City of Woodbury Fire Prev",
+  "smoke_addr": "1 South West Ave, Wenonah NJ 08090",
+  "smoke_phone": "(856) 845-0066",
+  "page": 322
+ },
+ "0820": {
+  "code": "0820",
+  "name": "West Deptford Township",
+  "enf": "Municipal",
+  "smoke_name": "West Deptford Twp Fire Prev",
+  "smoke_addr": "400 Crown Point Rd - PO Box 89, West Deptford NJ 08086-0089",
+  "smoke_phone": "(856) 845-4004",
+  "page": 323
+ },
+ "0821": {
+  "code": "0821",
+  "name": "Westville Borough",
+  "enf": "District",
+  "smoke_name": "Westville Boro",
+  "smoke_addr": "1035 Broadway, Westville NJ 08093",
+  "smoke_phone": "(856) 456-0030",
+  "page": 327
+ },
+ "0822": {
+  "code": "0822",
+  "name": "Woodbury City",
+  "enf": "Fire Dept",
+  "smoke_name": "City of Woodbury Bldg Constr",
+  "smoke_addr": "33 Delaware St, Woodbury NJ 08096",
+  "smoke_phone": "(856) 845-1300",
+  "page": 328
+ },
+ "0823": {
+  "code": "0823",
+  "name": "Woodbury Heights Borough",
+  "enf": "Fire Dept",
+  "smoke_name": "Woodbury City Bildg Constr",
+  "smoke_addr": "33 Delaware St, Woodbury NJ 08096",
+  "smoke_phone": "(856) 845-1300",
+  "page": 329
+ },
+ "0824": {
+  "code": "0824",
+  "name": "Woolwich Township",
+  "enf": "County",
+  "smoke_name": "Woolwich Twp Constr",
+  "smoke_addr": "120 Valley Green Drive, Woolwich NJ 08085",
+  "smoke_phone": "(856) 467-2666",
+  "page": 330
+ },
+ "1500": {
+  "code": "1500",
+  "name": "OCEAN CO FIRE MARSHAL",
+  "enf": "County",
+  "smoke_name": "Ocean County Fire Marshal",
+  "smoke_addr": "Box 2191 - Sheriff's Office - FM OfficeAddr:    Supervisor Code Enforcement, PO Box 810",
+  "smoke_phone": "(732) 341-3451",
+  "page": 600
+ },
+ "1501": {
+  "code": "1501",
+  "name": "Barnegat Light Borough",
+  "enf": "County",
+  "smoke_name": "Barnegat Light Zoning Office",
+  "smoke_addr": "1010 10th St, Barnegat Light NJ 08006",
+  "smoke_phone": "(732) 494-3522",
+  "page": 601
+ },
+ "1502": {
+  "code": "1502",
+  "name": "Bay Head Borough",
+  "enf": "County",
+  "smoke_name": "Ocean County Fire Marshal",
+  "smoke_addr": "Box 2191 - Sheriff's Dept - FM Office Addr:        Supervisor Code Enfocement, PO Box 810",
+  "smoke_phone": "(732) 331-8152",
+  "page": 602
+ },
+ "1503": {
+  "code": "1503",
+  "name": "Beach Haven Borough",
+  "enf": "County",
+  "smoke_name": "Beach Haven Boro",
+  "smoke_addr": "300 Engleside Av, Beach Haven NJ 08008",
+  "smoke_phone": "(732) 492-0111",
+  "page": 603
+ },
+ "1504": {
+  "code": "1504",
+  "name": "Beachwood Borough",
+  "enf": "Municipal",
+  "smoke_name": "Beachwood Boro Fire Prev",
+  "smoke_addr": "315 Atlantic City Blvd, Beachwood NJ 08722",
+  "smoke_phone": "(732) 286-6000",
+  "page": 604
+ },
+ "1505": {
+  "code": "1505",
+  "name": "Berkeley Township",
+  "enf": "Municipal",
+  "smoke_name": "Berkeley Twp Fire Prev",
+  "smoke_addr": "627 Pinewald-Keswick Rd - Box B, Bayville NJ 08721",
+  "smoke_phone": "(732) 244-7400",
+  "page": 605
+ },
+ "1506": {
+  "code": "1506",
+  "name": "Brick Township",
+  "enf": "District",
+  "smoke_name": "Brick Twp Dist #1,2,3",
+  "smoke_addr": "253 Brick Blvd, Brick Twp NJ 08723",
+  "smoke_phone": "(732) 458-4100",
+  "page": 608
+ },
+ "1507": {
+  "code": "1507",
+  "name": "Toms River Township",
+  "enf": "District",
+  "smoke_name": "Toms River Twp Dist 1 & 2",
+  "smoke_addr": "33 Washington St, Toms Rvier NJ 08753",
+  "smoke_phone": "(732) 240-5153",
+  "page": 609
+ },
+ "1508": {
+  "code": "1508",
+  "name": "Eagleswood Township",
+  "enf": "State",
+  "smoke_name": "NJ Division Fire Safety",
+  "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+  "smoke_phone": "(609) 633-6132",
+  "page": 610
+ },
+ "1509": {
+  "code": "1509",
+  "name": "Harvey Cedars Borough",
+  "enf": "County",
+  "smoke_name": "Boro of Harvey Cedars",
+  "smoke_addr": "7606 & Long Beach Blvd, Harvey Cedars NJ 08008",
+  "smoke_phone": "(732) 361-1616",
+  "page": 611
+ },
+ "1510": {
+  "code": "1510",
+  "name": "Island Heights Borough",
+  "enf": "Municipal",
+  "smoke_name": "Island Heights Boro Fire Prev",
+  "smoke_addr": "PO Box 797, Island Heights NJ 08752",
+  "smoke_phone": "(908) 270-0388",
+  "page": 612
+ },
+ "1511": {
+  "code": "1511",
+  "name": "Jackson Township",
+  "enf": "District",
+  "smoke_name": "Jackson Twp Bldg Dept",
+  "smoke_addr": "95 W Veteran's Hwy, Jackson NJ 08527",
+  "smoke_phone": "(732) 928-9100",
+  "page": 613
+ },
+ "1512": {
+  "code": "1512",
+  "name": "Lacey Township",
+  "enf": "State",
+  "smoke_name": "NJ Division Fire Safety",
+  "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+  "smoke_phone": "(609) 633-6132",
+  "page": 617
+ },
+ "1513": {
+  "code": "1513",
+  "name": "Lakehurst Borough",
+  "enf": "Municipal",
+  "smoke_name": "Lakehurst Boro Housing Office",
+  "smoke_addr": "5 Union Av, Lakehurst NJ 08733",
+  "smoke_phone": "(732) 657-4141",
+  "page": 620
+ },
+ "1514": {
+  "code": "1514",
+  "name": "Lakewood Township",
+  "enf": "County",
+  "smoke_name": "Lakewood Twp Insp Dept",
+  "smoke_addr": "231 Third St., Lakewood NJ 08701",
+  "smoke_phone": "(732) 364-3760",
+  "page": 621
+ },
+ "1515": {
+  "code": "1515",
+  "name": "Lavallette Borough",
+  "enf": "State",
+  "smoke_name": "NJ Division Fire Safety",
+  "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+  "smoke_phone": "(609) 633-6132",
+  "page": 622
+ },
+ "1516": {
+  "code": "1516",
+  "name": "Little Egg Harbor Township",
+  "enf": "State",
+  "smoke_name": "NJ Division Fire Safety",
+  "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+  "smoke_phone": "(609) 633-6132",
+  "page": 623
+ },
+ "1517": {
+  "code": "1517",
+  "name": "Long Beach Township",
+  "enf": "County",
+  "smoke_name": "Long Beach Twp Constr Office",
+  "smoke_addr": "6805 Long Beach Blvd, Brant Beach NJ 08008",
+  "smoke_phone": "(732) 361-1000",
+  "page": 626
+ },
+ "1518": {
+  "code": "1518",
+  "name": "Manchester Township",
+  "enf": "Municipal",
+  "smoke_name": "Manchester Twp Insp",
+  "smoke_addr": "1 Colonial Dr, Lakehurst NJ 08733",
+  "smoke_phone": "(732) 657-6700",
+  "page": 631
+ },
+ "1519": {
+  "code": "1519",
+  "name": "Mantoloking Borough",
+  "enf": "Municipal",
+  "smoke_name": "Mantoloking Boro Fire Prev",
+  "smoke_addr": "PO Box 247, Mantoloking NJ 08738",
+  "smoke_phone": "(732) 899-6601",
+  "page": 634
+ },
+ "1520": {
+  "code": "1520",
+  "name": "Ocean Township",
+  "enf": "State",
+  "smoke_name": "NJ Division Fire Safety",
+  "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+  "smoke_phone": "(609) 633-6132",
+  "page": 635
+ },
+ "1521": {
+  "code": "1521",
+  "name": "Ocean Gate Borough",
+  "enf": "State",
+  "smoke_name": "NJ Division Fire Safety",
+  "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+  "smoke_phone": "(609) 633-6132",
+  "page": 636
+ },
+ "1522": {
+  "code": "1522",
+  "name": "Pine Beach Borough",
+  "enf": "State",
+  "smoke_name": "NJ Division Fire Safety",
+  "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+  "smoke_phone": "(609) 633-6132",
+  "page": 637
+ },
+ "1523": {
+  "code": "1523",
+  "name": "Plumstead Township",
+  "enf": "District",
+  "smoke_name": "Plumsted Twp Constr Office",
+  "smoke_addr": "121 Evergreen Rd, New Egypt NJ 08533",
+  "smoke_phone": "(609) 758-2241",
+  "page": 638
+ },
+ "1524": {
+  "code": "1524",
+  "name": "Point Pleasant Borough",
+  "enf": "County",
+  "smoke_name": "Ocean County Fire Marshal",
+  "smoke_addr": "Ocean Co Sheriff's Dept, Office of the Fire Marshal",
+  "smoke_phone": "(732) 370-7360",
+  "page": 639
+ },
+ "1525": {
+  "code": "1525",
+  "name": "Point Pleasant Beach Borough",
+  "enf": "Municipal",
+  "smoke_name": "Pt Pleasant Beach Boro Fire Prev",
+  "smoke_addr": "416 New Jersey Av, Pt Pleasant Beach NJ 08742",
+  "smoke_phone": "(732) 892-1118",
+  "page": 640
+ },
+ "1526": {
+  "code": "1526",
+  "name": "Seaside Heights Borough",
+  "enf": "State",
+  "smoke_name": "Seaside Heights",
+  "smoke_addr": "PO Box 386, Seaside Heights NJ 08751",
+  "smoke_phone": "(732) 793-9100",
+  "page": 641
+ },
+ "1527": {
+  "code": "1527",
+  "name": "Seaside Park Borough",
+  "enf": "County",
+  "smoke_name": "Seaside Park Boro Fire Prev",
+  "smoke_addr": "Court House Sq - Box 2191, Toms River NJ 08754",
+  "smoke_phone": "(800) 331-8152",
+  "page": 642
+ },
+ "1528": {
+  "code": "1528",
+  "name": "Ship Bottom Borough",
+  "enf": "County",
+  "smoke_name": "Ocean County Fire Prev",
+  "smoke_addr": "1621 Long Beach Blvd., Ship Bottom NJ 08008",
+  "smoke_phone": "(732) 494-2171",
+  "page": 643
+ },
+ "1529": {
+  "code": "1529",
+  "name": "South Toms River Borough",
+  "enf": "County",
+  "smoke_name": "Ocean County Fire Marshal",
+  "smoke_addr": "144 Mill Street, Office of the Fire Marshal",
+  "smoke_phone": "(732) 370-7360",
+  "page": 644
+ },
+ "1530": {
+  "code": "1530",
+  "name": "Stafford Township",
+  "enf": "Municipal",
+  "smoke_name": "Stafford Twp Fire Prev",
+  "smoke_addr": "260 E. Bay Av, Manahawkin NJ 08050",
+  "smoke_phone": "(609) 597-1000",
+  "page": 645
+ },
+ "1531": {
+  "code": "1531",
+  "name": "Surf City Borough",
+  "enf": "County",
+  "smoke_name": "Ocean County Fire Marshal",
+  "smoke_addr": "813 Long Beach Blvd., Surf City NJ 08008",
+  "smoke_phone": "(732) 370-7360",
+  "page": 647
+ },
+ "1532": {
+  "code": "1532",
+  "name": "Tuckerton Borough",
+  "enf": "State",
+  "smoke_name": "NJ Division Fire Safety",
+  "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+  "smoke_phone": "(609) 633-6132",
+  "page": 648
+ },
+ "1533": {
+  "code": "1533",
+  "name": "Barnegat Township",
+  "enf": "State",
+  "smoke_name": "NJ Division Fire Safety",
+  "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+  "smoke_phone": "(609) 633-6132",
+  "page": 649
+ },
+ "1700": {
+  "code": "1700",
+  "name": "SALEM CO FIRE MARSHAL",
+  "enf": "County",
+  "smoke_name": "Salem County",
+  "smoke_addr": "135 Cemetery Rd, Woodstown NJ 08098",
+  "smoke_phone": "(856) 769-2900",
+  "page": 675
+ },
+ "1701": {
+  "code": "1701",
+  "name": "Alloway Township",
+  "enf": "Fire Dept",
+  "smoke_name": "Bridgeton City Fire Dept",
+  "smoke_addr": "181 E Commerce St, Bridgeton City NJ 08302",
+  "smoke_phone": "(856) 451-0091",
+  "page": 676
+ },
+ "1702": {
+  "code": "1702",
+  "name": "Elmer Borough",
+  "enf": "Fire Dept",
+  "smoke_name": "Elmer Boro Housing Office",
+  "smoke_addr": "120 S Main St - Box 882, Elmer NJ 08318",
+  "smoke_phone": "(856) 358-4010",
+  "page": 677
+ },
+ "1703": {
+  "code": "1703",
+  "name": "Elsinboro Township",
+  "enf": "State",
+  "smoke_name": "NJ Division Fire Safety",
+  "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+  "smoke_phone": "(609) 633-6132",
+  "page": 678
+ },
+ "1704": {
+  "code": "1704",
+  "name": "Lower Alloways Creek Township",
+  "enf": "State",
+  "smoke_name": "NJ Division of Fire Safety",
+  "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+  "smoke_phone": "(609) 633-6132",
+  "page": 679
+ },
+ "1705": {
+  "code": "1705",
+  "name": "Mannington Township",
+  "enf": "State",
+  "smoke_name": "NJ Division Fire Safety",
+  "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+  "smoke_phone": "(609) 633-6132",
+  "page": 680
+ },
+ "1706": {
+  "code": "1706",
+  "name": "Oldmans Township",
+  "enf": "State",
+  "smoke_name": "NJ Division Fire Safety",
+  "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+  "smoke_phone": "(609) 633-6132",
+  "page": 681
+ },
+ "1707": {
+  "code": "1707",
+  "name": "Penns Grove Township",
+  "enf": "State",
+  "smoke_name": "NJ Division Fire Safety",
+  "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+  "smoke_phone": "(609) 633-6132",
+  "page": 683
+ },
+ "1708": {
+  "code": "1708",
+  "name": "Pennsville Township",
+  "enf": "Municipal",
+  "smoke_name": "Pennsville Twp Fire Prev",
+  "smoke_addr": "90 N Broadway, Pennsville NJ 08070",
+  "smoke_phone": "(856) 678-3089",
+  "page": 684
+ },
+ "1709": {
+  "code": "1709",
+  "name": "Pilesgrove Township",
+  "enf": "State",
+  "smoke_name": "NJ Division Fire Safety",
+  "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+  "smoke_phone": "(609) 633-6132",
+  "page": 686
+ },
+ "1710": {
+  "code": "1710",
+  "name": "Pittsgrove Township",
+  "enf": "Municipal",
+  "smoke_name": "Pittsgrove Twp Zoning Office",
+  "smoke_addr": "989 Centerton Rd, Pittsgrove NJ 08318",
+  "smoke_phone": "(856) 207-2434",
+  "page": 687
+ },
+ "1711": {
+  "code": "1711",
+  "name": "Quinton Township",
+  "enf": "State",
+  "smoke_name": "NJ Division Fire Safety",
+  "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+  "smoke_phone": "(609) 633-6132",
+  "page": 690
+ },
+ "1712": {
+  "code": "1712",
+  "name": "Salem City",
+  "enf": "State",
+  "smoke_name": "NJ Division Fire Safety",
+  "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+  "smoke_phone": "(609) 633-6132",
+  "page": 691
+ },
+ "1713": {
+  "code": "1713",
+  "name": "Carneys Point Township",
+  "enf": "State",
+  "smoke_name": "NJ Division Fire Safety",
+  "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+  "smoke_phone": "(609) 633-6132",
+  "page": 692
+ },
+ "1714": {
+  "code": "1714",
+  "name": "Upper Pittsgrove Township",
+  "enf": "Municipal",
+  "smoke_name": "Upper Pittsgrove Twp",
+  "smoke_addr": "431 Rte 77, Elmer NJ 08318",
+  "smoke_phone": "(856) 358-8500",
+  "page": 693
+ },
+ "1715": {
+  "code": "1715",
+  "name": "Woodstown Borough",
+  "enf": "State",
+  "smoke_name": "Woodstown Boro Housing",
+  "smoke_addr": "25 West Avenue - PO Box 286, Woodstown NJ 08098",
+  "smoke_phone": "(856) 769-1375",
+  "page": 695
+ }
+}

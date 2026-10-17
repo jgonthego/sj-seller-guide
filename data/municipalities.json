@@ -1,0 +1,5981 @@
+[
+ {
+  "slug": "absecon-city",
+  "name": "Absecon City",
+  "census_name": "Absecon city",
+  "geoid": "3400100100",
+  "county": "Atlantic",
+  "tax": {
+   "name": "ABSECON CITY",
+   "general_rate": 3.517,
+   "effective_rate": 2.41
+  },
+  "eq": {
+   "name": "ABSECON CITY",
+   "ratio": 62.77,
+   "true_value": 1157000478
+  },
+  "website": {
+   "label": "Absecon",
+   "url": "https://www.abseconnj.gov/"
+  },
+  "lea": {
+   "code": "0101",
+   "dir_name": "Absecon City",
+   "enf": "Fire Dept",
+   "smoke_name": "Absecon City Bldg Dept",
+   "smoke_addr": "500 Mill Rd, Absecon NJ 8201",
+   "smoke_phone": "(609) 646-7382",
+   "page": 3
+  }
+ },
+ {
+  "slug": "atlantic-city",
+  "name": "Atlantic City",
+  "census_name": "Atlantic City city",
+  "geoid": "3400102080",
+  "county": "Atlantic",
+  "tax": {
+   "name": "ATLANTIC CITY CITY",
+   "general_rate": 3.38,
+   "effective_rate": 2.155
+  },
+  "eq": {
+   "name": "ATLANTIC CITY CITY",
+   "ratio": 57.95,
+   "true_value": 4144458404
+  },
+  "website": {
+   "label": "Atlantic City",
+   "url": "https://www.acnj.gov/"
+  },
+  "lea": {
+   "code": "0102",
+   "dir_name": "Atlantic City",
+   "enf": "Fire Dept",
+   "smoke_name": "Atlantic City Fire Dept",
+   "smoke_addr": "2715 Atlantic Av, Atlantic City NJ 08401",
+   "smoke_phone": "(609) 347-5595",
+   "page": 4
+  }
+ },
+ {
+  "slug": "brigantine-city",
+  "name": "Brigantine City",
+  "census_name": "Brigantine city",
+  "geoid": "3400107810",
+  "county": "Atlantic",
+  "tax": {
+   "name": "BRIGANTINE CITY",
+   "general_rate": 1.953,
+   "effective_rate": 1.084
+  },
+  "eq": {
+   "name": "BRIGANTINE CITY",
+   "ratio": 52.07,
+   "true_value": 6873996735
+  },
+  "website": {
+   "label": "Brigantine",
+   "url": "https://brigantinebeach.org/"
+  },
+  "lea": {
+   "code": "0103",
+   "dir_name": "Brigantine City",
+   "enf": "Fire Dept",
+   "smoke_name": "Brigantine Fire Prev",
+   "smoke_addr": "1417 W Brigantine Av, Brigantine NJ 08203",
+   "smoke_phone": "(609) 266-3102",
+   "page": 5
+  }
+ },
+ {
+  "slug": "buena-borough",
+  "name": "Buena Borough",
+  "census_name": "Buena borough",
+  "geoid": "3400108680",
+  "county": "Atlantic",
+  "tax": {
+   "name": "BUENA BORO",
+   "general_rate": 3.408,
+   "effective_rate": 2.708
+  },
+  "eq": {
+   "name": "BUENA BORO",
+   "ratio": 70.15,
+   "true_value": 421751532
+  },
+  "website": {
+   "label": "Buena Borough",
+   "url": "http://www.buenaboro.org/"
+  },
+  "lea": {
+   "code": "0104",
+   "dir_name": "Buena Borough",
+   "enf": "State",
+   "smoke_name": "NJ Division of Fire Safety",
+   "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+   "smoke_phone": "(609) 633-6132",
+   "page": 6
+  }
+ },
+ {
+  "slug": "buena-vista-township",
+  "name": "Buena Vista Township",
+  "census_name": "Buena Vista township",
+  "geoid": "3400108710",
+  "county": "Atlantic",
+  "tax": {
+   "name": "BUENA VISTA TWP",
+   "general_rate": 3.018,
+   "effective_rate": 2.187
+  },
+  "eq": {
+   "name": "BUENA VISTA TWP",
+   "ratio": 66.21,
+   "true_value": 986147567
+  },
+  "website": {
+   "label": "Buena Vista Township",
+   "url": "https://buenavistanj.com/"
+  },
+  "lea": {
+   "code": "0105",
+   "dir_name": "Buena Vista Township",
+   "enf": "State",
+   "smoke_name": "Buena Vista Twp",
+   "smoke_addr": "PO Box 605 - 890 Harding Highway Addr:            Supervisor Code Enforcement, Buena NJ 08310",
+   "smoke_phone": "(856) 697-2100",
+   "page": 9
+  }
+ },
+ {
+  "slug": "corbin-city",
+  "name": "Corbin City",
+  "census_name": "Corbin City city",
+  "geoid": "3400115160",
+  "county": "Atlantic",
+  "tax": {
+   "name": "CORBIN CITY CITY",
+   "general_rate": 2.247,
+   "effective_rate": 1.355
+  },
+  "eq": {
+   "name": "CORBIN CITY CITY",
+   "ratio": 60.39,
+   "true_value": 84546117
+  },
+  "website": {
+   "label": "Corbin City",
+   "url": "https://sites.google.com/view/corbincitynj/home"
+  },
+  "lea": {
+   "code": "0106",
+   "dir_name": "Corbin City",
+   "enf": "State",
+   "smoke_name": "NJ Division Fire Safety",
+   "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+   "smoke_phone": "(609) 633-6132",
+   "page": 14
+  }
+ },
+ {
+  "slug": "egg-harbor-township",
+  "name": "Egg Harbor Township",
+  "census_name": "Egg Harbor township",
+  "geoid": "3400120290",
+  "county": "Atlantic",
+  "tax": {
+   "name": "EGG HARBOR TWP",
+   "general_rate": 3.401,
+   "effective_rate": 2.284
+  },
+  "eq": {
+   "name": "EGG HARBOR TWP",
+   "ratio": 61.54,
+   "true_value": 6945920036
+  },
+  "website": {
+   "label": "Egg Harbor Township",
+   "url": "https://www.ehtgov.org/"
+  },
+  "lea": {
+   "code": "0108",
+   "dir_name": "Egg Harbor Township",
+   "enf": "Municipal",
+   "smoke_name": "Egg Harbor Twp Inspections",
+   "smoke_addr": "3515 Bargaintown Rd, Egg Harbor NJ 08221",
+   "smoke_phone": "(609) 926-4070",
+   "page": 16
+  }
+ },
+ {
+  "slug": "egg-harbor-city",
+  "name": "Egg Harbor City",
+  "census_name": "Egg Harbor City city",
+  "geoid": "3400120350",
+  "county": "Atlantic",
+  "tax": {
+   "name": "EGG HARBOR CITY",
+   "general_rate": 5.568,
+   "effective_rate": 3.124
+  },
+  "eq": {
+   "name": "EGG HARBOR CITY",
+   "ratio": 52.78,
+   "true_value": 398308261
+  },
+  "website": {
+   "label": "Egg Harbor City",
+   "url": "http://www.eggharborcity.org/"
+  },
+  "lea": {
+   "code": "0107",
+   "dir_name": "Egg Harbor City",
+   "enf": "Fire Dept",
+   "smoke_name": "Egg Harbor City Bldg Dept",
+   "smoke_addr": "500 London Av, Egg Harbor City NJ 08215",
+   "smoke_phone": "(609) 965-0081",
+   "page": 15
+  }
+ },
+ {
+  "slug": "estell-manor-city",
+  "name": "Estell Manor City",
+  "census_name": "Estell Manor city",
+  "geoid": "3400121870",
+  "county": "Atlantic",
+  "tax": {
+   "name": "ESTELL MANOR CITY",
+   "general_rate": 2.949,
+   "effective_rate": 1.89
+  },
+  "eq": {
+   "name": "ESTELL MANOR CITY",
+   "ratio": 55.51,
+   "true_value": 282589263
+  },
+  "website": {
+   "label": "Estell Manor City",
+   "url": "http://www.estellmanor.org/"
+  },
+  "lea": {
+   "code": "0109",
+   "dir_name": "Estell Manor City",
+   "enf": "State",
+   "smoke_name": "NJ Division Fire Safety",
+   "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+   "smoke_phone": "(609) 633-6132",
+   "page": 22
+  }
+ },
+ {
+  "slug": "folsom-borough",
+  "name": "Folsom Borough",
+  "census_name": "Folsom borough",
+  "geoid": "3400123940",
+  "county": "Atlantic",
+  "tax": {
+   "name": "FOLSOM BORO",
+   "general_rate": 2.349,
+   "effective_rate": 1.637
+  },
+  "eq": {
+   "name": "FOLSOM BORO",
+   "ratio": 61.68,
+   "true_value": 288265888
+  },
+  "website": {
+   "label": "Folsom Borough",
+   "url": "http://www.folsomborough.com/"
+  },
+  "lea": {
+   "code": "0110",
+   "dir_name": "Folsom Borough",
+   "enf": "State",
+   "smoke_name": "NJ Division Fire Safety",
+   "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+   "smoke_phone": "(609) 633-6132",
+   "page": 23
+  }
+ },
+ {
+  "slug": "galloway-township",
+  "name": "Galloway Township",
+  "census_name": "Galloway township",
+  "geoid": "3400125560",
+  "county": "Atlantic",
+  "tax": {
+   "name": "GALLOWAY TWP",
+   "general_rate": 3.39,
+   "effective_rate": 2.083
+  },
+  "eq": {
+   "name": "GALLOWAY TWP",
+   "ratio": 56.14,
+   "true_value": 5086003028
+  },
+  "website": {
+   "label": "Galloway Township",
+   "url": "https://www.gtnj.org/"
+  },
+  "lea": {
+   "code": "0111",
+   "dir_name": "Galloway Township",
+   "enf": "Fire Dept",
+   "smoke_name": "Galloway Twp Fire Dept",
+   "smoke_addr": "300 E Jimmie Leeds Rd, Galloway NJ 08205",
+   "smoke_phone": "(609) 652-3720",
+   "page": 24
+  }
+ },
+ {
+  "slug": "hamilton-township",
+  "name": "Hamilton Township",
+  "census_name": "Hamilton township",
+  "geoid": "3400129280",
+  "county": "Atlantic",
+  "tax": {
+   "name": "HAMILTON TWP",
+   "general_rate": 3.52,
+   "effective_rate": 2.179
+  },
+  "eq": {
+   "name": "HAMILTON TWP",
+   "ratio": 54.02,
+   "true_value": 3757927619
+  },
+  "website": {
+   "label": "Hamilton Township",
+   "url": "https://www.hamiltonatlnj.gov/"
+  },
+  "lea": {
+   "code": "0112",
+   "dir_name": "Hamilton Township",
+   "enf": "Municipal",
+   "smoke_name": "Hamilton Twp Fire Prev",
+   "smoke_addr": "6101 13th St, Mays Landing NJ 08330",
+   "smoke_phone": "(609) 625-1591",
+   "page": 29
+  }
+ },
+ {
+  "slug": "hammonton-town",
+  "name": "Hammonton Town",
+  "census_name": "Hammonton town",
+  "geoid": "3400129430",
+  "county": "Atlantic",
+  "tax": {
+   "name": "HAMMONTON TOWN",
+   "general_rate": 2.817,
+   "effective_rate": 2.066
+  },
+  "eq": {
+   "name": "HAMMONTON TOWN",
+   "ratio": 69.26,
+   "true_value": 2098168640
+  },
+  "website": {
+   "label": "Hammonton",
+   "url": "https://www.townofhammonton.org/"
+  },
+  "lea": {
+   "code": "0113",
+   "dir_name": "Hammonton Town",
+   "enf": "Municipal",
+   "smoke_name": "Hammonton Boro Constr Office",
+   "smoke_addr": "100 Central Av, Hammonton NJ 08037",
+   "smoke_phone": "(609) 561-4000",
+   "page": 34
+  }
+ },
+ {
+  "slug": "linwood-city",
+  "name": "Linwood City",
+  "census_name": "Linwood city",
+  "geoid": "3400140530",
+  "county": "Atlantic",
+  "tax": {
+   "name": "LINWOOD CITY",
+   "general_rate": 3.929,
+   "effective_rate": 2.746
+  },
+  "eq": {
+   "name": "LINWOOD CITY",
+   "ratio": 64.39,
+   "true_value": 1482909458
+  },
+  "website": {
+   "label": "Linwood City",
+   "url": "http://www.linwoodcity.org/"
+  },
+  "lea": {
+   "code": "0114",
+   "dir_name": "Linwood City",
+   "enf": "Fire Dept",
+   "smoke_name": "Linwood City Fire",
+   "smoke_addr": "750 Lincoln Av, Linwood NJ 08221",
+   "smoke_phone": "(609) 926-7953",
+   "page": 35
+  }
+ },
+ {
+  "slug": "longport-borough",
+  "name": "Longport Borough",
+  "census_name": "Longport borough",
+  "geoid": "3400141370",
+  "county": "Atlantic",
+  "tax": {
+   "name": "LONGPORT BORO",
+   "general_rate": 1.111,
+   "effective_rate": 0.698
+  },
+  "eq": {
+   "name": "LONGPORT BORO",
+   "ratio": 55.08,
+   "true_value": 3667505628
+  },
+  "website": {
+   "label": "Longport",
+   "url": "https://www.longportnj.gov/"
+  },
+  "lea": {
+   "code": "0115",
+   "dir_name": "Longport Borough",
+   "enf": "Municipal",
+   "smoke_name": "Constr Code Housing Dept",
+   "smoke_addr": "2305 Atlantic Av, Longport NJ 08403",
+   "smoke_phone": "(609) 822-0569",
+   "page": 36
+  }
+ },
+ {
+  "slug": "margate-city",
+  "name": "Margate City",
+  "census_name": "Margate City city",
+  "geoid": "3400143890",
+  "county": "Atlantic",
+  "tax": {
+   "name": "MARGATE CITY CITY",
+   "general_rate": 1.787,
+   "effective_rate": 0.92
+  },
+  "eq": {
+   "name": "MARGATE CITY CITY",
+   "ratio": 46.82,
+   "true_value": 8907431653
+  },
+  "website": {
+   "label": "Margate",
+   "url": "https://www.margate-nj.com/"
+  },
+  "lea": {
+   "code": "0116",
+   "dir_name": "Margate City",
+   "enf": "Fire Dept",
+   "smoke_name": "Margate City Code Enf",
+   "smoke_addr": "101 N Washington Av, Margate City NJ 08402",
+   "smoke_phone": "(609) 822-1974",
+   "page": 37
+  }
+ },
+ {
+  "slug": "mullica-township",
+  "name": "Mullica Township",
+  "census_name": "Mullica township",
+  "geoid": "3400149410",
+  "county": "Atlantic",
+  "tax": {
+   "name": "MULLICA TWP",
+   "general_rate": 3.966,
+   "effective_rate": 2.369
+  },
+  "eq": {
+   "name": "MULLICA TWP",
+   "ratio": 57.62,
+   "true_value": 806998091
+  },
+  "website": {
+   "label": "Mullica Township",
+   "url": "https://www.mullicatownship.org/"
+  },
+  "lea": {
+   "code": "0117",
+   "dir_name": "Mullica Township",
+   "enf": "State",
+   "smoke_name": "NJ Division Fire Safety",
+   "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+   "smoke_phone": "(609) 633-6132",
+   "page": 38
+  }
+ },
+ {
+  "slug": "northfield-city",
+  "name": "Northfield City",
+  "census_name": "Northfield city",
+  "geoid": "3400152950",
+  "county": "Atlantic",
+  "tax": {
+   "name": "NORTHFIELD CITY",
+   "general_rate": 3.778,
+   "effective_rate": 2.631
+  },
+  "eq": {
+   "name": "NORTHFIELD CITY",
+   "ratio": 61.13,
+   "true_value": 1450594634
+  },
+  "website": {
+   "label": "Northfield",
+   "url": "https://www.cityofnorthfield.org/"
+  },
+  "lea": {
+   "code": "0118",
+   "dir_name": "Northfield City",
+   "enf": "State",
+   "smoke_name": "Northfield City Bldg Dept",
+   "smoke_addr": "1600 Shore Rd, Northfield NJ 08225",
+   "smoke_phone": "(609) 641-0601",
+   "page": 42
+  }
+ },
+ {
+  "slug": "pleasantville-city",
+  "name": "Pleasantville City",
+  "census_name": "Pleasantville city",
+  "geoid": "3400159640",
+  "county": "Atlantic",
+  "tax": {
+   "name": "PLEASANTVILLE CITY",
+   "general_rate": 5.421,
+   "effective_rate": 3.392
+  },
+  "eq": {
+   "name": "PLEASANTVILLE CITY",
+   "ratio": 57.64,
+   "true_value": 1374331194
+  },
+  "website": {
+   "label": "Pleasantville",
+   "url": "https://www.pleasantville-nj.org/"
+  },
+  "lea": {
+   "code": "0119",
+   "dir_name": "Pleasantville City",
+   "enf": "Fire Dept",
+   "smoke_name": "Pleasantville City Fire Prev",
+   "smoke_addr": "One North First St, Pleasantville NJ 08232",
+   "smoke_phone": "(609) 484-3670",
+   "page": 43
+  }
+ },
+ {
+  "slug": "port-republic-city",
+  "name": "Port Republic City",
+  "census_name": "Port Republic city",
+  "geoid": "3400160600",
+  "county": "Atlantic",
+  "tax": {
+   "name": "PORT REPUBLIC CITY",
+   "general_rate": 3.804,
+   "effective_rate": 2.039
+  },
+  "eq": {
+   "name": "PORT REPUBLIC CITY",
+   "ratio": 49.9,
+   "true_value": 240751503
+  },
+  "website": {
+   "label": "Port Republic (NJ.gov directory lists as \"Port Republic Borough\")",
+   "url": "https://www.portrepublicnj.org/"
+  },
+  "lea": {
+   "code": "0120",
+   "dir_name": "Port Republic City",
+   "enf": "State",
+   "smoke_name": "NJ Division Fire Safety",
+   "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+   "smoke_phone": "(609) 633-6132",
+   "page": 44
+  }
+ },
+ {
+  "slug": "somers-point-city",
+  "name": "Somers Point City",
+  "census_name": "Somers Point city",
+  "geoid": "3400168430",
+  "county": "Atlantic",
+  "tax": {
+   "name": "SOMERS POINT CITY",
+   "general_rate": 3.722,
+   "effective_rate": 2.308
+  },
+  "eq": {
+   "name": "SOMERS POINT CITY",
+   "ratio": 56.13,
+   "true_value": 2072284874
+  },
+  "website": {
+   "label": "Somers Point",
+   "url": "http://www.somerspointgov.org/"
+  },
+  "lea": {
+   "code": "0121",
+   "dir_name": "Somers Point City",
+   "enf": "State",
+   "smoke_name": "NJ Division of Fire Safety",
+   "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+   "smoke_phone": "(609) 633-6132",
+   "page": 45
+  }
+ },
+ {
+  "slug": "ventnor-city",
+  "name": "Ventnor City",
+  "census_name": "Ventnor City city",
+  "geoid": "3400175620",
+  "county": "Atlantic",
+  "tax": {
+   "name": "VENTNOR CITY",
+   "general_rate": 2.824,
+   "effective_rate": 1.597
+  },
+  "eq": {
+   "name": "VENTNOR CITY",
+   "ratio": 49.54,
+   "true_value": 4524166734
+  },
+  "website": {
+   "label": "Ventnor City",
+   "url": "https://www.ventnorcity.org/"
+  },
+  "lea": {
+   "code": "0122",
+   "dir_name": "Ventnor City",
+   "enf": "Fire Dept",
+   "smoke_name": "Ventnor City Bldg Dept",
+   "smoke_addr": "6201 Atlantic Av, Ventnor City NJ 08406",
+   "smoke_phone": "(609) 823-7943",
+   "page": 46
+  }
+ },
+ {
+  "slug": "weymouth-township",
+  "name": "Weymouth Township",
+  "census_name": "Weymouth township",
+  "geoid": "3400180330",
+  "county": "Atlantic",
+  "tax": {
+   "name": "WEYMOUTH TWP",
+   "general_rate": 3.108,
+   "effective_rate": 1.916
+  },
+  "eq": {
+   "name": "WEYMOUTH TWP",
+   "ratio": 57.66,
+   "true_value": 287896462
+  },
+  "website": {
+   "label": "Weymouth",
+   "url": "https://www.weymouthnj.org/"
+  },
+  "lea": {
+   "code": "0123",
+   "dir_name": "Weymouth Township",
+   "enf": "State",
+   "smoke_name": "NJ Division Fire Safety",
+   "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+   "smoke_phone": "(609) 633-6132",
+   "page": 47
+  }
+ },
+ {
+  "slug": "avalon-borough",
+  "name": "Avalon Borough",
+  "census_name": "Avalon borough",
+  "geoid": "3400902320",
+  "county": "Cape May",
+  "tax": {
+   "name": "AVALON BORO",
+   "general_rate": 0.608,
+   "effective_rate": 0.348
+  },
+  "eq": {
+   "name": "AVALON BORO",
+   "ratio": 54.28,
+   "true_value": 18741539978
+  },
+  "website": {
+   "label": "Avalon (official site)",
+   "url": "https://avalonboro.net/"
+  },
+  "lea": {
+   "code": "0501",
+   "dir_name": "Avalon Borough",
+   "enf": "Municipal",
+   "smoke_name": "Avalon Boro Fire Prev",
+   "smoke_addr": "3100 Dune Dr, Avalon NJ 08202",
+   "smoke_phone": "(609) 967-5918",
+   "page": 219
+  }
+ },
+ {
+  "slug": "cape-may-city",
+  "name": "Cape May City",
+  "census_name": "Cape May city",
+  "geoid": "3400910270",
+  "county": "Cape May",
+  "tax": {
+   "name": "CAPE MAY CITY",
+   "general_rate": 1.093,
+   "effective_rate": 0.587
+  },
+  "eq": {
+   "name": "CAPE MAY CITY",
+   "ratio": 50.83,
+   "true_value": 5981729490
+  },
+  "website": {
+   "label": "Cape May",
+   "url": "https://www.capemaycity.com/"
+  },
+  "lea": {
+   "code": "0502",
+   "dir_name": "Cape May City",
+   "enf": "Municipal",
+   "smoke_name": "Cape May City Fire Prev",
+   "smoke_addr": "643 Washington St, Cape May NJ 08204",
+   "smoke_phone": "(609) 884-9599",
+   "page": 220
+  }
+ },
+ {
+  "slug": "cape-may-point-borough",
+  "name": "Cape May Point Borough",
+  "census_name": "Cape May Point borough",
+  "geoid": "3400910330",
+  "county": "Cape May",
+  "tax": {
+   "name": "CAPE MAY POINT BORO",
+   "general_rate": 0.766,
+   "effective_rate": 0.416
+  },
+  "eq": {
+   "name": "CAPE MAY POINT BORO",
+   "ratio": 53.5,
+   "true_value": 939475140
+  },
+  "website": {
+   "label": "Cape May Point (official site)",
+   "url": "https://www.capemaypoint.org/"
+  },
+  "lea": {
+   "code": "0503",
+   "dir_name": "Cape May Point Borough",
+   "enf": "State",
+   "smoke_name": "NJ Division Fire Safety",
+   "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+   "smoke_phone": "(609) 633-6132",
+   "page": 222
+  }
+ },
+ {
+  "slug": "dennis-township",
+  "name": "Dennis Township",
+  "census_name": "Dennis township",
+  "geoid": "3400917560",
+  "county": "Cape May",
+  "tax": {
+   "name": "DENNIS TWP",
+   "general_rate": 2.145,
+   "effective_rate": 1.395
+  },
+  "eq": {
+   "name": "DENNIS TWP",
+   "ratio": 66.28,
+   "true_value": 1383478576
+  },
+  "website": {
+   "label": "Dennis Township",
+   "url": "https://dennistwp.org/"
+  },
+  "lea": {
+   "code": "0504",
+   "dir_name": "Dennis Township",
+   "enf": "State",
+   "smoke_name": "NJ Division Fire Safety",
+   "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+   "smoke_phone": "(609) 633-6132",
+   "page": 223
+  }
+ },
+ {
+  "slug": "lower-township",
+  "name": "Lower Township",
+  "census_name": "Lower township",
+  "geoid": "3400941610",
+  "county": "Cape May",
+  "tax": {
+   "name": "LOWER TWP",
+   "general_rate": 2.018,
+   "effective_rate": 1.014
+  },
+  "eq": {
+   "name": "LOWER TWP",
+   "ratio": 47.17,
+   "true_value": 8043545898
+  },
+  "website": {
+   "label": "Lower Township",
+   "url": "https://townshipoflower.org/"
+  },
+  "lea": {
+   "code": "0505",
+   "dir_name": "Lower Township",
+   "enf": "District",
+   "smoke_name": "Lower Twp Fire Prev",
+   "smoke_addr": "407 Breakwater Rd, Erma NJ 08204",
+   "smoke_phone": "(609) 889-0404",
+   "page": 226
+  }
+ },
+ {
+  "slug": "middle-township",
+  "name": "Middle Township",
+  "census_name": "Middle township",
+  "geoid": "3400945810",
+  "county": "Cape May",
+  "tax": {
+   "name": "MIDDLE TWP",
+   "general_rate": 2.082,
+   "effective_rate": 1.388
+  },
+  "eq": {
+   "name": "MIDDLE TWP",
+   "ratio": 64.09,
+   "true_value": 4724411141
+  },
+  "website": {
+   "label": "Middle Township",
+   "url": "https://middletownship.com/"
+  },
+  "lea": {
+   "code": "0506",
+   "dir_name": "Middle Township",
+   "enf": "District",
+   "smoke_name": "Middle Twp Dist #1",
+   "smoke_addr": "115 Mechanic St, Cape May Courthouse NJ 08210",
+   "smoke_phone": "(609) 465-8710",
+   "page": 229
+  }
+ },
+ {
+  "slug": "north-wildwood-city",
+  "name": "North Wildwood City",
+  "census_name": "North Wildwood city",
+  "geoid": "3400953490",
+  "county": "Cape May",
+  "tax": {
+   "name": "NORTH WILDWOOD CITY",
+   "general_rate": 1.585,
+   "effective_rate": 0.878
+  },
+  "eq": {
+   "name": "NORTH WILDWOOD CITY",
+   "ratio": 51.04,
+   "true_value": 5356071708
+  },
+  "website": {
+   "label": "North Wildwood",
+   "url": "https://northwildwood.com/"
+  },
+  "lea": {
+   "code": "0507",
+   "dir_name": "North Wildwood City",
+   "enf": "Fire Dept",
+   "smoke_name": "City of North Wildwood Fire Prev",
+   "smoke_addr": "901 Atlantic Ave - City Hall, North Wildwood NJ 08260",
+   "smoke_phone": "(609) 522-2160",
+   "page": 233
+  }
+ },
+ {
+  "slug": "ocean-city",
+  "name": "Ocean City",
+  "census_name": "Ocean City city",
+  "geoid": "3400954360",
+  "county": "Cape May",
+  "tax": {
+   "name": "OCEAN CITY CITY",
+   "general_rate": 1.16,
+   "effective_rate": 0.64
+  },
+  "eq": {
+   "name": "OCEAN CITY CITY",
+   "ratio": 51.7,
+   "true_value": 25387006963
+  },
+  "website": {
+   "label": "Ocean City",
+   "url": "https://www.ocnj.us/"
+  },
+  "lea": {
+   "code": "0508",
+   "dir_name": "Ocean City",
+   "enf": "State",
+   "smoke_name": "NJ Division Fire Safety",
+   "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+   "smoke_phone": "(609) 633-6132",
+   "page": 234
+  }
+ },
+ {
+  "slug": "sea-isle-city",
+  "name": "Sea Isle City",
+  "census_name": "Sea Isle City city",
+  "geoid": "3400966390",
+  "county": "Cape May",
+  "tax": {
+   "name": "SEA ISLE CITY CITY",
+   "general_rate": 0.905,
+   "effective_rate": 0.453
+  },
+  "eq": {
+   "name": "SEA ISLE CITY CITY",
+   "ratio": 47.55,
+   "true_value": 10676087487
+  },
+  "website": {
+   "label": "Sea Isle City",
+   "url": "https://www.seaislecitynj.us/"
+  },
+  "lea": {
+   "code": "0509",
+   "dir_name": "Sea Isle City",
+   "enf": "Municipal",
+   "smoke_name": "Sea Isle City Fire Prev",
+   "smoke_addr": "233 JFK Blvd, Sea Isle City NJ 08243",
+   "smoke_phone": "(609) 263-4461",
+   "page": 235
+  }
+ },
+ {
+  "slug": "stone-harbor-borough",
+  "name": "Stone Harbor Borough",
+  "census_name": "Stone Harbor borough",
+  "geoid": "3400971010",
+  "county": "Cape May",
+  "tax": {
+   "name": "STONE HARBOR BORO",
+   "general_rate": 0.776,
+   "effective_rate": 0.413
+  },
+  "eq": {
+   "name": "STONE HARBOR BORO",
+   "ratio": 50.22,
+   "true_value": 10222616288
+  },
+  "website": {
+   "label": "Stone Harbor",
+   "url": "https://stoneharbornj.org/"
+  },
+  "lea": {
+   "code": "0510",
+   "dir_name": "Stone Harbor City",
+   "enf": "Fire Dept",
+   "smoke_name": "Stone Harbor Boro Fire Prev",
+   "smoke_addr": "9508 2nd Av, Stone Harbor NJ 08247",
+   "smoke_phone": "(609) 368-5102",
+   "page": 236
+  }
+ },
+ {
+  "slug": "upper-township",
+  "name": "Upper Township",
+  "census_name": "Upper township",
+  "geoid": "3400974810",
+  "county": "Cape May",
+  "tax": {
+   "name": "UPPER TWP",
+   "general_rate": 2.303,
+   "effective_rate": 1.437
+  },
+  "eq": {
+   "name": "UPPER TWP",
+   "ratio": 56.65,
+   "true_value": 3416264078
+  },
+  "website": {
+   "label": "Upper Township",
+   "url": "https://uppertownship.com/"
+  },
+  "lea": {
+   "code": "0511",
+   "dir_name": "Upper Township",
+   "enf": "State",
+   "smoke_name": "NJ Division Fire Safety",
+   "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+   "smoke_phone": "(609) 633-6132",
+   "page": 237
+  }
+ },
+ {
+  "slug": "west-cape-may-borough",
+  "name": "West Cape May Borough",
+  "census_name": "West Cape May borough",
+  "geoid": "3400978530",
+  "county": "Cape May",
+  "tax": {
+   "name": "WEST CAPE MAY BORO",
+   "general_rate": 1.444,
+   "effective_rate": 0.69
+  },
+  "eq": {
+   "name": "WEST CAPE MAY BORO",
+   "ratio": 44.36,
+   "true_value": 1249111812
+  },
+  "website": {
+   "label": "West Cape May Borough",
+   "url": "https://www.westcapemay.us/"
+  },
+  "lea": {
+   "code": "0512",
+   "dir_name": "West Cape May Borough",
+   "enf": "State",
+   "smoke_name": "NJ Division Fire Safety",
+   "smoke_addr": "PO Box 809, Trenton, NJ 08625-0809",
+   "smoke_phone": "(609) 633-6132",
+   "page": 241
+  }
+ },
+ {
+  "slug": "west-wildwood-borough",
+  "name": "West Wildwood Borough",
+  "census_name": "West Wildwood borough",
+  "geoid": "3400980210",
+  "county": "Cape May",
+  "tax": {
+   "name": "WEST WILDWOOD BORO",
+   "general_rate": 2.07,
+   "effective_rate": 1.036
+  },
+  "eq": {
+   "name": "WEST WILDWOOD BORO",
+   "ratio": 44.94,
+   "true_value": 517577882
+  },
+  "website": {
+   "label": "West Wildwood",
+   "url": "https://westwildwood.org/"
+  },
+  "lea": {
+   "code": "0513",
+   "dir_name": "West Wildwood Borough",
+   "enf": "Fire Dept",
+   "smoke_name": "West Wildwood Boro",
+   "smoke_addr": "701 W Glenwood Av, West Wildwood NJ 08260",
+   "smoke_phone": "(609) 522-4845",
+   "page": 242
+  }
+ },
+ {
+  "slug": "wildwood-city",
+  "name": "Wildwood City",
+  "census_name": "Wildwood city",
+  "geoid": "3400981170",
+  "county": "Cape May",
+  "tax": {
+   "name": "WILDWOOD CITY",
+   "general_rate": 3.084,
+   "effective_rate": 1.577
+  },
+  "eq": {
+   "name": "WILDWOOD CITY",
+   "ratio": 45.84,
+   "true_value": 3219842496
+  },
+  "website": {
+   "label": "Wildwood",
+   "url": "https://www.wildwoodnj.org/"
+  },
+  "lea": {
+   "code": "0514",
+   "dir_name": "Wildwood City",
+   "enf": "Fire Dept",
+   "smoke_name": "Wildwood City Fire Prev",
+   "smoke_addr": "4400 New Jersey Av, Wildwood NJ 08260",
+   "smoke_phone": "(609) 522-2444",
+   "page": 243
+  }
+ },
+ {
+  "slug": "wildwood-crest-borough",
+  "name": "Wildwood Crest Borough",
+  "census_name": "Wildwood Crest borough",
+  "geoid": "3400981200",
+  "county": "Cape May",
+  "tax": {
+   "name": "WILDWOOD CREST BORO",
+   "general_rate": 1.447,
+   "effective_rate": 0.863
+  },
+  "eq": {
+   "name": "WILDWOOD CREST BORO",
+   "ratio": 53.21,
+   "true_value": 4543721669
+  },
+  "website": {
+   "label": "Wildwood Crest Borough",
+   "url": "https://wildwoodcrest.org/"
+  },
+  "lea": {
+   "code": "0515",
+   "dir_name": "Wildwood Crest Borough",
+   "enf": "Fire Dept",
+   "smoke_name": "Wildwood Crest Boro",
+   "smoke_addr": "6101 Pacific Ave, Wildwood Crest NJ 08260",
+   "smoke_phone": "(609) 729-5152",
+   "page": 244
+  }
+ },
+ {
+  "slug": "woodbine-borough",
+  "name": "Woodbine Borough",
+  "census_name": "Woodbine borough",
+  "geoid": "3400981890",
+  "county": "Cape May",
+  "tax": {
+   "name": "WOODBINE BORO",
+   "general_rate": 1.712,
+   "effective_rate": 1.391
+  },
+  "eq": {
+   "name": "WOODBINE BORO",
+   "ratio": 77.58,
+   "true_value": 232198891
+  },
+  "website": {
+   "label": "Woodbine Borough",
+   "url": "https://www.boroughofwoodbine.net/"
+  },
+  "lea": {
+   "code": "0516",
+   "dir_name": "Woodbine Borough",
+   "enf": "State",
+   "smoke_name": "NJ Division Fire Safety",
+   "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+   "smoke_phone": "(609) 633-6132",
+   "page": 245
+  }
+ },
+ {
+  "slug": "bridgeton-city",
+  "name": "Bridgeton City",
+  "census_name": "Bridgeton city",
+  "geoid": "3401107600",
+  "county": "Cumberland",
+  "tax": {
+   "name": "BRIDGETON CITY",
+   "general_rate": 5.79,
+   "effective_rate": 3.625
+  },
+  "eq": {
+   "name": "BRIDGETON CITY",
+   "ratio": 56.56,
+   "true_value": 872542963
+  },
+  "website": {
+   "label": "Bridgeton",
+   "url": "https://www.cityofbridgetonnj.gov/"
+  },
+  "lea": {
+   "code": "0601",
+   "dir_name": "Bridgeton City",
+   "enf": "Fire Dept",
+   "smoke_name": "Bridgeton City Fire Dept",
+   "smoke_addr": "181 E Commerce St, Birdgeton City NJ 08302",
+   "smoke_phone": "(856) 451-0091",
+   "page": 247
+  }
+ },
+ {
+  "slug": "commercial-township",
+  "name": "Commercial Township",
+  "census_name": "Commercial township",
+  "geoid": "3401114710",
+  "county": "Cumberland",
+  "tax": {
+   "name": "COMMERCIAL TWP",
+   "general_rate": 2.758,
+   "effective_rate": 2.164
+  },
+  "eq": {
+   "name": "COMMERCIAL TWP",
+   "ratio": 80.53,
+   "true_value": 339413386
+  },
+  "website": {
+   "label": "Commercial Township",
+   "url": "https://commercialtwp.com/"
+  },
+  "lea": {
+   "code": "0602",
+   "dir_name": "Commercial Township",
+   "enf": "State",
+   "smoke_name": "NJ Division Fire Safety",
+   "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+   "smoke_phone": "(609) 633-6132",
+   "page": 248
+  }
+ },
+ {
+  "slug": "deerfield-township",
+  "name": "Deerfield Township",
+  "census_name": "Deerfield township",
+  "geoid": "3401116900",
+  "county": "Cumberland",
+  "tax": {
+   "name": "DEERFIELD TWP",
+   "general_rate": 3.894,
+   "effective_rate": 2.594
+  },
+  "eq": {
+   "name": "DEERFIELD TWP",
+   "ratio": 60.08,
+   "true_value": 330738848
+  },
+  "website": null,
+  "lea": {
+   "code": "0603",
+   "dir_name": "Deerfield Township",
+   "enf": "Fire Dept",
+   "smoke_name": "Deerfield Twp Fire Prev",
+   "smoke_addr": "PO Box 350, Rosenhayn NJ 08352",
+   "smoke_phone": "(856) 455-3200",
+   "page": 251
+  }
+ },
+ {
+  "slug": "downe-township",
+  "name": "Downe Township",
+  "census_name": "Downe township",
+  "geoid": "3401118220",
+  "county": "Cumberland",
+  "tax": {
+   "name": "DOWNE TWP",
+   "general_rate": 2.933,
+   "effective_rate": 2.453
+  },
+  "eq": {
+   "name": "DOWNE TWP",
+   "ratio": 78.4,
+   "true_value": 200817730
+  },
+  "website": {
+   "label": "Downe Township",
+   "url": "https://downetwpnj.org/"
+  },
+  "lea": {
+   "code": "0604",
+   "dir_name": "Downe Township",
+   "enf": "Fire Dept",
+   "smoke_name": "Bridgeton City Fire Dept",
+   "smoke_addr": "181 Commerce St, Bridgeton City NJ 08302",
+   "smoke_phone": "(856) 451-0091",
+   "page": 252
+  }
+ },
+ {
+  "slug": "fairfield-township",
+  "name": "Fairfield Township",
+  "census_name": "Fairfield township",
+  "geoid": "3401122350",
+  "county": "Cumberland",
+  "tax": {
+   "name": "FAIRFIELD TWP",
+   "general_rate": 2.975,
+   "effective_rate": 2.599
+  },
+  "eq": {
+   "name": "FAIRFIELD TWP",
+   "ratio": 83.33,
+   "true_value": 382069843
+  },
+  "website": null,
+  "lea": {
+   "code": "0605",
+   "dir_name": "Fairfield Township",
+   "enf": "Fire Dept",
+   "smoke_name": "Fairfield Twp Fire Prev",
+   "smoke_addr": "PO Box 240, Fairton NJ 08320",
+   "smoke_phone": "(856) 451-9284",
+   "page": 254
+  }
+ },
+ {
+  "slug": "greenwich-township-cumberland",
+  "name": "Greenwich Township",
+  "census_name": "Greenwich township",
+  "geoid": "3401128170",
+  "county": "Cumberland",
+  "tax": {
+   "name": "GREENWICH TWP",
+   "general_rate": 3.642,
+   "effective_rate": 2.807
+  },
+  "eq": {
+   "name": "GREENWICH TWP",
+   "ratio": 73.98,
+   "true_value": 101534063
+  },
+  "website": null,
+  "lea": {
+   "code": "0606",
+   "dir_name": "Greenwich Township",
+   "enf": "Fire Dept",
+   "smoke_name": "Greenwich Twp Fire Prev",
+   "smoke_addr": "991 Ye Greate St - Box 261, Greenwich NJ 08323",
+   "smoke_phone": "(609) 633-6241",
+   "page": 256
+  }
+ },
+ {
+  "slug": "hopewell-township",
+  "name": "Hopewell Township",
+  "census_name": "Hopewell township",
+  "geoid": "3401133120",
+  "county": "Cumberland",
+  "tax": {
+   "name": "HOPEWELL TWP",
+   "general_rate": 3.693,
+   "effective_rate": 2.501
+  },
+  "eq": {
+   "name": "HOPEWELL TWP",
+   "ratio": 61.16,
+   "true_value": 507146664
+  },
+  "website": {
+   "label": "Hopewell Township",
+   "url": "https://hopewelltwp-nj.com/"
+  },
+  "lea": {
+   "code": "0607",
+   "dir_name": "Hopewell Township",
+   "enf": "Fire Dept",
+   "smoke_name": "Bridgeton City Fire Dept",
+   "smoke_addr": "181 E Commerce St, Bridgeton City NJ 08302",
+   "smoke_phone": "(856) 451-0091",
+   "page": 257
+  }
+ },
+ {
+  "slug": "lawrence-township",
+  "name": "Lawrence Township",
+  "census_name": "Lawrence township",
+  "geoid": "3401139450",
+  "county": "Cumberland",
+  "tax": {
+   "name": "LAWRENCE TWP",
+   "general_rate": 2.98,
+   "effective_rate": 2.452
+  },
+  "eq": {
+   "name": "LAWRENCE TWP",
+   "ratio": 74.01,
+   "true_value": 312524253
+  },
+  "website": {
+   "label": "Lawrence Township",
+   "url": "https://www.lawrencetwpcumberlandnj.com/"
+  },
+  "lea": {
+   "code": "0608",
+   "dir_name": "Lawrence Township",
+   "enf": "State",
+   "smoke_name": "NJ Division Fire Safety",
+   "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+   "smoke_phone": "(609) 633-6132",
+   "page": 258
+  }
+ },
+ {
+  "slug": "maurice-river-township",
+  "name": "Maurice River Township",
+  "census_name": "Maurice River township",
+  "geoid": "3401144580",
+  "county": "Cumberland",
+  "tax": {
+   "name": "MAURICE RIVER TWP",
+   "general_rate": 2.668,
+   "effective_rate": 2.307
+  },
+  "eq": {
+   "name": "MAURICE RIVER TWP",
+   "ratio": 83.16,
+   "true_value": 353059043
+  },
+  "website": {
+   "label": "Maurice River Township",
+   "url": "https://www.mauricerivertwp.org/"
+  },
+  "lea": {
+   "code": "0609",
+   "dir_name": "Maurice River Township",
+   "enf": "Municipal",
+   "smoke_name": "Maurice River Twp Fire Prev",
+   "smoke_addr": "590 Main St - Box 218, Leesburg NJ 08327",
+   "smoke_phone": "(856) 785-1120",
+   "page": 259
+  }
+ },
+ {
+  "slug": "millville-city",
+  "name": "Millville City",
+  "census_name": "Millville city",
+  "geoid": "3401146680",
+  "county": "Cumberland",
+  "tax": {
+   "name": "MILLVILLE CITY **RAD",
+   "general_rate": 4.056,
+   "effective_rate": 2.427
+  },
+  "eq": {
+   "name": "MILLVILLE CITY",
+   "ratio": 57.44,
+   "true_value": 2577747911
+  },
+  "website": {
+   "label": "Millville",
+   "url": "https://www.millvillenj.gov/"
+  },
+  "lea": {
+   "code": "0610",
+   "dir_name": "Millville City",
+   "enf": "Fire Dept",
+   "smoke_name": "Millville Fire Dept",
+   "smoke_addr": "420 Buck St, Millville NJ 08332",
+   "smoke_phone": "(856) 327-3334",
+   "page": 263
+  }
+ },
+ {
+  "slug": "shiloh-borough",
+  "name": "Shiloh Borough",
+  "census_name": "Shiloh borough",
+  "geoid": "3401167020",
+  "county": "Cumberland",
+  "tax": {
+   "name": "SHILOH BORO",
+   "general_rate": 3.147,
+   "effective_rate": 2.638
+  },
+  "eq": {
+   "name": "SHILOH BORO",
+   "ratio": 73.24,
+   "true_value": 45261742
+  },
+  "website": {
+   "label": "Shiloh Borough",
+   "url": "https://shilohborough.com/"
+  },
+  "lea": {
+   "code": "0611",
+   "dir_name": "Shiloh Borough",
+   "enf": "Fire Dept",
+   "smoke_name": "Bridgeton City Fire Dept",
+   "smoke_addr": "181 E Commerce St, Bridgeton City NJ 08302",
+   "smoke_phone": "(856) 451-0091",
+   "page": 264
+  }
+ },
+ {
+  "slug": "stow-creek-township",
+  "name": "Stow Creek Township",
+  "census_name": "Stow Creek township",
+  "geoid": "3401171160",
+  "county": "Cumberland",
+  "tax": {
+   "name": "STOW CREEK TWP",
+   "general_rate": 2.995,
+   "effective_rate": 2.612
+  },
+  "eq": {
+   "name": "STOW CREEK TWP",
+   "ratio": 80.57,
+   "true_value": 138624922
+  },
+  "website": {
+   "label": "Stow Creek Township",
+   "url": "https://stowcreektwp.org/"
+  },
+  "lea": {
+   "code": "0612",
+   "dir_name": "Stow Creek Township",
+   "enf": "Fire Dept",
+   "smoke_name": "Bridgeton City Fire Dept",
+   "smoke_addr": "181 E Commerce St, Bridgeton City NJ 08302",
+   "smoke_phone": "(856) 451-0091",
+   "page": 266
+  }
+ },
+ {
+  "slug": "upper-deerfield-township",
+  "name": "Upper Deerfield Township",
+  "census_name": "Upper Deerfield township",
+  "geoid": "3401174870",
+  "county": "Cumberland",
+  "tax": {
+   "name": "UPPER DEERFIELD TWP",
+   "general_rate": 3.293,
+   "effective_rate": 2.511
+  },
+  "eq": {
+   "name": "UPPER DEERFIELD TWP",
+   "ratio": 69.3,
+   "true_value": 959197691
+  },
+  "website": {
+   "label": "Upper Deerfield Township",
+   "url": "https://upperdeerfield.com/"
+  },
+  "lea": {
+   "code": "0613",
+   "dir_name": "Upper Deerfield Township",
+   "enf": "Municipal",
+   "smoke_name": "Upper Deerfield Twp Fire Prev",
+   "smoke_addr": "State Hwy 77, Seabrook NJ 08302",
+   "smoke_phone": "(856) 451-3811",
+   "page": 267
+  }
+ },
+ {
+  "slug": "vineland-city",
+  "name": "Vineland City",
+  "census_name": "Vineland city",
+  "geoid": "3401176070",
+  "county": "Cumberland",
+  "tax": {
+   "name": "VINELAND CITY",
+   "general_rate": 3.309,
+   "effective_rate": 2.193
+  },
+  "eq": {
+   "name": "VINELAND CITY",
+   "ratio": 62.1,
+   "true_value": 6465585990
+  },
+  "website": {
+   "label": "Vineland",
+   "url": "https://www.vinelandcity.org/"
+  },
+  "lea": {
+   "code": "0614",
+   "dir_name": "Vineland City",
+   "enf": "Fire Dept",
+   "smoke_name": "Vineland City Fire Prev",
+   "smoke_addr": "640 E Wood St - Box 1508, Vineland NJ 08362",
+   "smoke_phone": "(856) 794-4000",
+   "page": 270
+  }
+ },
+ {
+  "slug": "alloway-township",
+  "name": "Alloway Township",
+  "census_name": "Alloway township",
+  "geoid": "3403300880",
+  "county": "Salem",
+  "tax": {
+   "name": "ALLOWAY TOWNSHIP",
+   "general_rate": 3.627,
+   "effective_rate": 2.562
+  },
+  "eq": {
+   "name": "ALLOWAY TOWNSHIP",
+   "ratio": 66.97,
+   "true_value": 432757055
+  },
+  "website": {
+   "label": "Alloway Township",
+   "url": "https://allowaytownship.com/"
+  },
+  "lea": {
+   "code": "1701",
+   "dir_name": "Alloway Township",
+   "enf": "Fire Dept",
+   "smoke_name": "Bridgeton City Fire Dept",
+   "smoke_addr": "181 E Commerce St, Bridgeton City NJ 08302",
+   "smoke_phone": "(856) 451-0091",
+   "page": 676
+  }
+ },
+ {
+  "slug": "carneys-point-township",
+  "name": "Carneys Point Township",
+  "census_name": "Carneys Point township",
+  "geoid": "3403310610",
+  "county": "Salem",
+  "tax": {
+   "name": "CARNEYS POINT TOWNSHIP",
+   "general_rate": 2.41,
+   "effective_rate": 2.482
+  },
+  "eq": {
+   "name": "CARNEYS POINT TOWNSHIP",
+   "ratio": 107.29,
+   "true_value": 1014361264
+  },
+  "website": {
+   "label": "Carney's Point Township",
+   "url": "https://www.carneyspointtwp.org/"
+  },
+  "lea": {
+   "code": "1713",
+   "dir_name": "Carneys Point Township",
+   "enf": "State",
+   "smoke_name": "NJ Division Fire Safety",
+   "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+   "smoke_phone": "(609) 633-6132",
+   "page": 692
+  }
+ },
+ {
+  "slug": "elmer-borough",
+  "name": "Elmer Borough",
+  "census_name": "Elmer borough",
+  "geoid": "3403321240",
+  "county": "Salem",
+  "tax": {
+   "name": "ELMER BORO",
+   "general_rate": 4.102,
+   "effective_rate": 2.999
+  },
+  "eq": {
+   "name": "ELMER BORO",
+   "ratio": 70.88,
+   "true_value": 147623307
+  },
+  "website": {
+   "label": "Elmer Borough",
+   "url": "http://www.elmerboroughnj.com/"
+  },
+  "lea": {
+   "code": "1702",
+   "dir_name": "Elmer Borough",
+   "enf": "Fire Dept",
+   "smoke_name": "Elmer Boro Housing Office",
+   "smoke_addr": "120 S Main St - Box 882, Elmer NJ 08318",
+   "smoke_phone": "(856) 358-4010",
+   "page": 677
+  }
+ },
+ {
+  "slug": "elsinboro-township",
+  "name": "Elsinboro Township",
+  "census_name": "Elsinboro township",
+  "geoid": "3403321330",
+  "county": "Salem",
+  "tax": {
+   "name": "ELSINBORO TWP",
+   "general_rate": 3.172,
+   "effective_rate": 2.581
+  },
+  "eq": {
+   "name": "ELSINBORO TWP",
+   "ratio": 76.97,
+   "true_value": 150510718
+  },
+  "website": {
+   "label": "Elsinboro Township",
+   "url": "https://elsinborotownship.com/"
+  },
+  "lea": {
+   "code": "1703",
+   "dir_name": "Elsinboro Township",
+   "enf": "State",
+   "smoke_name": "NJ Division Fire Safety",
+   "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+   "smoke_phone": "(609) 633-6132",
+   "page": 678
+  }
+ },
+ {
+  "slug": "lower-alloways-creek-township",
+  "name": "Lower Alloways Creek Township",
+  "census_name": "Lower Alloways Creek township",
+  "geoid": "3403341640",
+  "county": "Salem",
+  "tax": {
+   "name": "LOWER ALLOWAY CREEK TWP",
+   "general_rate": 2.004,
+   "effective_rate": 1.058
+  },
+  "eq": {
+   "name": "LOWER ALLOWAY CREEK TWP",
+   "ratio": 100,
+   "true_value": 1044221400
+  },
+  "website": {
+   "label": "Lower Alloways Creek Township",
+   "url": "https://www.lowerallowayscreek-nj.gov/"
+  },
+  "lea": {
+   "code": "1704",
+   "dir_name": "Lower Alloways Creek Township",
+   "enf": "State",
+   "smoke_name": "NJ Division of Fire Safety",
+   "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+   "smoke_phone": "(609) 633-6132",
+   "page": 679
+  }
+ },
+ {
+  "slug": "mannington-township",
+  "name": "Mannington Township",
+  "census_name": "Mannington township",
+  "geoid": "3403343200",
+  "county": "Salem",
+  "tax": {
+   "name": "MANNINGTON TWP",
+   "general_rate": 3.604,
+   "effective_rate": 2.984
+  },
+  "eq": {
+   "name": "MANNINGTON TWP",
+   "ratio": 80.22,
+   "true_value": 217313014
+  },
+  "website": {
+   "label": "Mannington Township",
+   "url": "https://manningtontwp.com/"
+  },
+  "lea": {
+   "code": "1705",
+   "dir_name": "Mannington Township",
+   "enf": "State",
+   "smoke_name": "NJ Division Fire Safety",
+   "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+   "smoke_phone": "(609) 633-6132",
+   "page": 680
+  }
+ },
+ {
+  "slug": "oldmans-township",
+  "name": "Oldmans Township",
+  "census_name": "Oldmans township",
+  "geoid": "3403354810",
+  "county": "Salem",
+  "tax": {
+   "name": "OLDMANS TWP",
+   "general_rate": 2.699,
+   "effective_rate": 2.23
+  },
+  "eq": {
+   "name": "OLDMANS TWP",
+   "ratio": 80.69,
+   "true_value": 364554963
+  },
+  "website": {
+   "label": "Oldmans Township",
+   "url": "https://oldmanstownship.com/"
+  },
+  "lea": {
+   "code": "1706",
+   "dir_name": "Oldmans Township",
+   "enf": "State",
+   "smoke_name": "NJ Division Fire Safety",
+   "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+   "smoke_phone": "(609) 633-6132",
+   "page": 681
+  }
+ },
+ {
+  "slug": "penns-grove-borough",
+  "name": "Penns Grove Borough",
+  "census_name": "Penns Grove borough",
+  "geoid": "3403357750",
+  "county": "Salem",
+  "tax": {
+   "name": "PENNS GROVE BORO",
+   "general_rate": 5.649,
+   "effective_rate": 3.748
+  },
+  "eq": {
+   "name": "PENNS GROVE BORO",
+   "ratio": 59.15,
+   "true_value": 231921978
+  },
+  "website": {
+   "label": "Penns Grove Borough",
+   "url": "https://pennsgrove-nj.org/"
+  },
+  "lea": {
+   "code": "1707",
+   "dir_name": "Penns Grove Township",
+   "enf": "State",
+   "smoke_name": "NJ Division Fire Safety",
+   "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+   "smoke_phone": "(609) 633-6132",
+   "page": 683
+  }
+ },
+ {
+  "slug": "pennsville-township",
+  "name": "Pennsville Township",
+  "census_name": "Pennsville township",
+  "geoid": "3403357870",
+  "county": "Salem",
+  "tax": {
+   "name": "PENNSVILLE TWP",
+   "general_rate": 5.199,
+   "effective_rate": 3.714
+  },
+  "eq": {
+   "name": "PENNSVILLE TWP",
+   "ratio": 64.71,
+   "true_value": 1505290779
+  },
+  "website": {
+   "label": "Pennsville",
+   "url": "https://www.pennsville.org/"
+  },
+  "lea": {
+   "code": "1708",
+   "dir_name": "Pennsville Township",
+   "enf": "Municipal",
+   "smoke_name": "Pennsville Twp Fire Prev",
+   "smoke_addr": "90 N Broadway, Pennsville NJ 08070",
+   "smoke_phone": "(856) 678-3089",
+   "page": 684
+  }
+ },
+ {
+  "slug": "pilesgrove-township",
+  "name": "Pilesgrove Township",
+  "census_name": "Pilesgrove township",
+  "geoid": "3403358530",
+  "county": "Salem",
+  "tax": {
+   "name": "PILESGROVE TWP",
+   "general_rate": 3.746,
+   "effective_rate": 2.74
+  },
+  "eq": {
+   "name": "PILESGROVE TWP",
+   "ratio": 68,
+   "true_value": 815899412
+  },
+  "website": {
+   "label": "Pilesgrove Township",
+   "url": "https://www.pilesgrovenj.org/"
+  },
+  "lea": {
+   "code": "1709",
+   "dir_name": "Pilesgrove Township",
+   "enf": "State",
+   "smoke_name": "NJ Division Fire Safety",
+   "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+   "smoke_phone": "(609) 633-6132",
+   "page": 686
+  }
+ },
+ {
+  "slug": "pittsgrove-township",
+  "name": "Pittsgrove Township",
+  "census_name": "Pittsgrove township",
+  "geoid": "3403359130",
+  "county": "Salem",
+  "tax": {
+   "name": "PITTSGROVE TWP",
+   "general_rate": 4.123,
+   "effective_rate": 2.773
+  },
+  "eq": {
+   "name": "PITTSGROVE TWP",
+   "ratio": 61.59,
+   "true_value": 999503653
+  },
+  "website": {
+   "label": "Pittsgrove",
+   "url": "https://www.pittsgrovetownship.com/"
+  },
+  "lea": {
+   "code": "1710",
+   "dir_name": "Pittsgrove Township",
+   "enf": "Municipal",
+   "smoke_name": "Pittsgrove Twp Zoning Office",
+   "smoke_addr": "989 Centerton Rd, Pittsgrove NJ 08318",
+   "smoke_phone": "(856) 207-2434",
+   "page": 687
+  }
+ },
+ {
+  "slug": "quinton-township",
+  "name": "Quinton Township",
+  "census_name": "Quinton township",
+  "geoid": "3403361470",
+  "county": "Salem",
+  "tax": {
+   "name": "QUINTON TWP",
+   "general_rate": 3.841,
+   "effective_rate": 2.656
+  },
+  "eq": {
+   "name": "QUINTON TWP",
+   "ratio": 72.9,
+   "true_value": 249250069
+  },
+  "website": null,
+  "lea": {
+   "code": "1711",
+   "dir_name": "Quinton Township",
+   "enf": "State",
+   "smoke_name": "NJ Division Fire Safety",
+   "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+   "smoke_phone": "(609) 633-6132",
+   "page": 690
+  }
+ },
+ {
+  "slug": "salem-city",
+  "name": "Salem City",
+  "census_name": "Salem city",
+  "geoid": "3403365490",
+  "county": "Salem",
+  "tax": {
+   "name": "SALEM CITY",
+   "general_rate": 8.628,
+   "effective_rate": 4.505
+  },
+  "eq": {
+   "name": "SALEM CITY",
+   "ratio": 49.82,
+   "true_value": 216400582
+  },
+  "website": {
+   "label": "Salem City",
+   "url": "https://cityofsalemnj.gov/"
+  },
+  "lea": {
+   "code": "1712",
+   "dir_name": "Salem City",
+   "enf": "State",
+   "smoke_name": "NJ Division Fire Safety",
+   "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+   "smoke_phone": "(609) 633-6132",
+   "page": 691
+  }
+ },
+ {
+  "slug": "upper-pittsgrove-township",
+  "name": "Upper Pittsgrove Township",
+  "census_name": "Upper Pittsgrove township",
+  "geoid": "3403375110",
+  "county": "Salem",
+  "tax": {
+   "name": "UPPER PITTSGROVE TWP",
+   "general_rate": 3.098,
+   "effective_rate": 2.395
+  },
+  "eq": {
+   "name": "UPPER PITTSGROVE TWP",
+   "ratio": 74.38,
+   "true_value": 463185399
+  },
+  "website": {
+   "label": "Upper Pittsgrove Township",
+   "url": "https://upperpittsgrovenj.org/"
+  },
+  "lea": {
+   "code": "1714",
+   "dir_name": "Upper Pittsgrove Township",
+   "enf": "Municipal",
+   "smoke_name": "Upper Pittsgrove Twp",
+   "smoke_addr": "431 Rte 77, Elmer NJ 08318",
+   "smoke_phone": "(856) 358-8500",
+   "page": 693
+  }
+ },
+ {
+  "slug": "woodstown-borough",
+  "name": "Woodstown Borough",
+  "census_name": "Woodstown borough",
+  "geoid": "3403382720",
+  "county": "Salem",
+  "tax": {
+   "name": "WOODSTOWN BORO",
+   "general_rate": 4.153,
+   "effective_rate": 3.184
+  },
+  "eq": {
+   "name": "WOODSTOWN BORO",
+   "ratio": 70.08,
+   "true_value": 418761130
+  },
+  "website": {
+   "label": "Woodstown Borough",
+   "url": "https://historicwoodstown.org/"
+  },
+  "lea": {
+   "code": "1715",
+   "dir_name": "Woodstown Borough",
+   "enf": "State",
+   "smoke_name": "Woodstown Boro Housing",
+   "smoke_addr": "25 West Avenue - PO Box 286, Woodstown NJ 08098",
+   "smoke_phone": "(856) 769-1375",
+   "page": 695
+  }
+ },
+ {
+  "slug": "clayton-borough",
+  "name": "Clayton Borough",
+  "census_name": "Clayton borough",
+  "geoid": "3401513360",
+  "county": "Gloucester",
+  "tax": {
+   "name": "CLAYTON BORO",
+   "general_rate": 2.569,
+   "effective_rate": 2.586
+  },
+  "eq": {
+   "name": "CLAYTON BORO",
+   "ratio": 100,
+   "true_value": 925235900
+  },
+  "website": {
+   "label": "Clayton Borough",
+   "url": "https://www.claytonnj.com/"
+  },
+  "lea": {
+   "code": "0801",
+   "dir_name": "Clayton Borough",
+   "enf": "County",
+   "smoke_name": "Clayton Boro Constr Office",
+   "smoke_addr": "125 N Delsea Dr, Clayton NJ 08312",
+   "smoke_phone": "(856) 881-2882",
+   "page": 296
+  }
+ },
+ {
+  "slug": "deptford-township",
+  "name": "Deptford Township",
+  "census_name": "Deptford township",
+  "geoid": "3401517710",
+  "county": "Gloucester",
+  "tax": {
+   "name": "DEPTFORD TWP",
+   "general_rate": 3.44,
+   "effective_rate": 2.309
+  },
+  "eq": {
+   "name": "DEPTFORD TWP",
+   "ratio": 63.42,
+   "true_value": 4431279722
+  },
+  "website": {
+   "label": "Deptford Township",
+   "url": "https://www.deptford-nj.org/"
+  },
+  "lea": {
+   "code": "0802",
+   "dir_name": "Deptford Township",
+   "enf": "District",
+   "smoke_name": "Deptford Twp Constr Office",
+   "smoke_addr": "1011 Cooper St, Deptford NJ 08096",
+   "smoke_phone": "(856) 845-5300",
+   "page": 297
+  }
+ },
+ {
+  "slug": "east-greenwich-township",
+  "name": "East Greenwich Township",
+  "census_name": "East Greenwich township",
+  "geoid": "3401519180",
+  "county": "Gloucester",
+  "tax": {
+   "name": "EAST GREENWICH TWP",
+   "general_rate": 3.187,
+   "effective_rate": 2.141
+  },
+  "eq": {
+   "name": "EAST GREENWICH TWP",
+   "ratio": 62.29,
+   "true_value": 2129862257
+  },
+  "website": {
+   "label": "East Greenwich Township",
+   "url": "https://www.eastgreenwichnj.com/"
+  },
+  "lea": {
+   "code": "0803",
+   "dir_name": "East Greenwich Township",
+   "enf": "County",
+   "smoke_name": "East Greenwich Constr Dept",
+   "smoke_addr": "159 Democrat Rd, Mickleton NJ 08056",
+   "smoke_phone": "(856) 423-0654",
+   "page": 298
+  }
+ },
+ {
+  "slug": "elk-township",
+  "name": "Elk Township",
+  "census_name": "Elk township",
+  "geoid": "3401521060",
+  "county": "Gloucester",
+  "tax": {
+   "name": "ELK TWP",
+   "general_rate": 3.688,
+   "effective_rate": 2.361
+  },
+  "eq": {
+   "name": "ELK TWP",
+   "ratio": 60.42,
+   "true_value": 688044522
+  },
+  "website": {
+   "label": "Elk Township",
+   "url": "https://elktownshipnj.gov/"
+  },
+  "lea": {
+   "code": "0804",
+   "dir_name": "Elk Township",
+   "enf": "County",
+   "smoke_name": "Elk Twp Constr Office",
+   "smoke_addr": "667 Whig Lane Rd, Monroeville NJ 08343",
+   "smoke_phone": "(856) 881-6525",
+   "page": 299
+  }
+ },
+ {
+  "slug": "franklin-township",
+  "name": "Franklin Township",
+  "census_name": "Franklin township",
+  "geoid": "3401524840",
+  "county": "Gloucester",
+  "tax": {
+   "name": "FRANKLIN TWP",
+   "general_rate": 3.741,
+   "effective_rate": 2.328
+  },
+  "eq": {
+   "name": "FRANKLIN TWP",
+   "ratio": 58.44,
+   "true_value": 2163860712
+  },
+  "website": {
+   "label": "Franklin Township",
+   "url": "https://www.franklintownshipnj.org/"
+  },
+  "lea": {
+   "code": "0805",
+   "dir_name": "Franklin Township",
+   "enf": "Municipal",
+   "smoke_name": "Franklin Twp Fire Prev",
+   "smoke_addr": "1571 Delsea Dr, Franklinville NJ 08322",
+   "smoke_phone": "(856) 694-1234",
+   "page": 302
+  }
+ },
+ {
+  "slug": "glassboro-borough",
+  "name": "Glassboro Borough",
+  "census_name": "Glassboro borough",
+  "geoid": "3401526340",
+  "county": "Gloucester",
+  "tax": {
+   "name": "GLASSBORO BORO",
+   "general_rate": 3.637,
+   "effective_rate": 2.341
+  },
+  "eq": {
+   "name": "GLASSBORO BORO",
+   "ratio": 56.97,
+   "true_value": 2397977009
+  },
+  "website": {
+   "label": "Glassboro",
+   "url": "https://www.glassboro.org/"
+  },
+  "lea": {
+   "code": "0806",
+   "dir_name": "Glassboro Borough",
+   "enf": "Fire Dept",
+   "smoke_name": "Glassboro Boro Fire Prev",
+   "smoke_addr": "10 S Poplar St, Glassboro NJ 08028",
+   "smoke_phone": "(856) 881-5636",
+   "page": 307
+  }
+ },
+ {
+  "slug": "greenwich-township-gloucester",
+  "name": "Greenwich Township",
+  "census_name": "Greenwich township",
+  "geoid": "3401528185",
+  "county": "Gloucester",
+  "tax": {
+   "name": "GREENWICH TWP",
+   "general_rate": 3.566,
+   "effective_rate": 2.337
+  },
+  "eq": {
+   "name": "GREENWICH TWP",
+   "ratio": 57.69,
+   "true_value": 1185082312
+  },
+  "website": null,
+  "lea": {
+   "code": "0807",
+   "dir_name": "Greenwich Township",
+   "enf": "Municipal",
+   "smoke_name": "Greenwich Twp Housing Authority",
+   "smoke_addr": "420 Washington St, Gibbstown NJ 08027",
+   "smoke_phone": "(856) 423-2314",
+   "page": 308
+  }
+ },
+ {
+  "slug": "harrison-township",
+  "name": "Harrison Township",
+  "census_name": "Harrison township",
+  "geoid": "3401530180",
+  "county": "Gloucester",
+  "tax": {
+   "name": "HARRISON TWP",
+   "general_rate": 3.3,
+   "effective_rate": 2.138
+  },
+  "eq": {
+   "name": "HARRISON TWP",
+   "ratio": 60.14,
+   "true_value": 2656588959
+  },
+  "website": {
+   "label": "Harrison Township",
+   "url": "https://harrisontwp.us/"
+  },
+  "lea": {
+   "code": "0808",
+   "dir_name": "Harrison Township",
+   "enf": "District",
+   "smoke_name": "Harrison Twp Fire Prev",
+   "smoke_addr": "312 Ewan Rd, Mullica Hill NJ 08062",
+   "smoke_phone": "(609) 685-1643",
+   "page": 309
+  }
+ },
+ {
+  "slug": "logan-township",
+  "name": "Logan Township",
+  "census_name": "Logan township",
+  "geoid": "3401541160",
+  "county": "Gloucester",
+  "tax": {
+   "name": "LOGAN TWP",
+   "general_rate": 1.445,
+   "effective_rate": 1.487
+  },
+  "eq": {
+   "name": "LOGAN TWP",
+   "ratio": 100,
+   "true_value": 3313587140
+  },
+  "website": {
+   "label": "Logan Township",
+   "url": "https://www.logan-twp.org/"
+  },
+  "lea": {
+   "code": "0809",
+   "dir_name": "Logan Township",
+   "enf": "Municipal",
+   "smoke_name": "Logan Twp Constr Office",
+   "smoke_addr": "125 Main St - Box 314, Bridgeport NJ 08014",
+   "smoke_phone": "(856) 467-3626",
+   "page": 310
+  }
+ },
+ {
+  "slug": "mantua-township",
+  "name": "Mantua Township",
+  "census_name": "Mantua township",
+  "geoid": "3401543440",
+  "county": "Gloucester",
+  "tax": {
+   "name": "MANTUA TWP",
+   "general_rate": 2.516,
+   "effective_rate": 2.287
+  },
+  "eq": {
+   "name": "MANTUA TWP",
+   "ratio": 85.33,
+   "true_value": 2344591351
+  },
+  "website": {
+   "label": "Mantua Township",
+   "url": "https://mantuatownship.com/"
+  },
+  "lea": {
+   "code": "0810",
+   "dir_name": "Mantua Township",
+   "enf": "Municipal",
+   "smoke_name": "Mantua Fire Dist #1",
+   "smoke_addr": "155 Union Av, Sewell NJ 08080",
+   "smoke_phone": "(856) 468-7222",
+   "page": 311
+  }
+ },
+ {
+  "slug": "monroe-township",
+  "name": "Monroe Township",
+  "census_name": "Monroe township",
+  "geoid": "3401547250",
+  "county": "Gloucester",
+  "tax": {
+   "name": "MONROE TWP",
+   "general_rate": 3.769,
+   "effective_rate": 2.473
+  },
+  "eq": {
+   "name": "MONROE TWP",
+   "ratio": 59.47,
+   "true_value": 4860086262
+  },
+  "website": {
+   "label": "Monroe Township",
+   "url": "https://monroetownshipnj.org/"
+  },
+  "lea": {
+   "code": "0811",
+   "dir_name": "Monroe Township",
+   "enf": "Municipal",
+   "smoke_name": "Monroe Twp Zoning Office",
+   "smoke_addr": "125 Virgina Av - Ste 5, Williamstown NJ 08094",
+   "smoke_phone": "(856) 728-9800",
+   "page": 312
+  }
+ },
+ {
+  "slug": "national-park-borough",
+  "name": "National Park Borough",
+  "census_name": "National Park borough",
+  "geoid": "3401549680",
+  "county": "Gloucester",
+  "tax": {
+   "name": "NATIONAL PARK BORO",
+   "general_rate": 4.783,
+   "effective_rate": 3.111
+  },
+  "eq": {
+   "name": "NATIONAL PARK BORO",
+   "ratio": 59.44,
+   "true_value": 273731999
+  },
+  "website": {
+   "label": "National Park Borough",
+   "url": "https://www.nationalparknj.com/"
+  },
+  "lea": {
+   "code": "0812",
+   "dir_name": "National Park Borough",
+   "enf": "County",
+   "smoke_name": "National Park Boro Fire Prev",
+   "smoke_addr": "7 S Grove Av, National Park NJ 08063",
+   "smoke_phone": "(856) 845-3891",
+   "page": 314
+  }
+ },
+ {
+  "slug": "newfield-borough",
+  "name": "Newfield Borough",
+  "census_name": "Newfield borough",
+  "geoid": "3401551390",
+  "county": "Gloucester",
+  "tax": {
+   "name": "NEWFIELD BORO",
+   "general_rate": 3.743,
+   "effective_rate": 2.441
+  },
+  "eq": {
+   "name": "NEWFIELD BORO",
+   "ratio": 60.86,
+   "true_value": 226086428
+  },
+  "website": {
+   "label": "Newfield Borough",
+   "url": "https://www.newfieldborough.org/"
+  },
+  "lea": {
+   "code": "0813",
+   "dir_name": "Newfield Borough",
+   "enf": "County",
+   "smoke_name": "Newfield Boro Constr",
+   "smoke_addr": "18 Catawba Av, Newfield NJ 08344",
+   "smoke_phone": "(856) 697-1100",
+   "page": 315
+  }
+ },
+ {
+  "slug": "paulsboro-borough",
+  "name": "Paulsboro Borough",
+  "census_name": "Paulsboro borough",
+  "geoid": "3401557150",
+  "county": "Gloucester",
+  "tax": {
+   "name": "PAULSBORO BORO",
+   "general_rate": 4.854,
+   "effective_rate": 3.225
+  },
+  "eq": {
+   "name": "PAULSBORO BORO",
+   "ratio": 58.83,
+   "true_value": 567359680
+  },
+  "website": {
+   "label": "Paulsboro",
+   "url": "https://paulsboronj.org/"
+  },
+  "lea": {
+   "code": "0814",
+   "dir_name": "Paulsboro Borough",
+   "enf": "County",
+   "smoke_name": "County of Gloucester",
+   "smoke_addr": "212 County House Rd, Clarksboro NJ 08020",
+   "smoke_phone": "(856) 307-7100",
+   "page": 316
+  }
+ },
+ {
+  "slug": "pitman-borough",
+  "name": "Pitman Borough",
+  "census_name": "Pitman borough",
+  "geoid": "3401559070",
+  "county": "Gloucester",
+  "tax": {
+   "name": "PITMAN BORO",
+   "general_rate": 3.596,
+   "effective_rate": 2.817
+  },
+  "eq": {
+   "name": "PITMAN BORO",
+   "ratio": 73.31,
+   "true_value": 1083596590
+  },
+  "website": {
+   "label": "Pitman",
+   "url": "https://www.pitman.org/"
+  },
+  "lea": {
+   "code": "0815",
+   "dir_name": "Pitman Borough",
+   "enf": "Fire Dept",
+   "smoke_name": "Pitman Boro Fire Prev",
+   "smoke_addr": "110 S Broadway, Pitman NJ 08071",
+   "smoke_phone": "(856) 589-2433",
+   "page": 318
+  }
+ },
+ {
+  "slug": "south-harrison-township",
+  "name": "South Harrison Township",
+  "census_name": "South Harrison township",
+  "geoid": "3401569030",
+  "county": "Gloucester",
+  "tax": {
+   "name": "SO HARRISON TWP",
+   "general_rate": 3.306,
+   "effective_rate": 2.049
+  },
+  "eq": {
+   "name": "SO HARRISON TWP",
+   "ratio": 59.13,
+   "true_value": 703425334
+  },
+  "website": {
+   "label": "South Harrison Township",
+   "url": "https://www.southharrison-nj.org/"
+  },
+  "lea": {
+   "code": "0816",
+   "dir_name": "South Harrison Township",
+   "enf": "County",
+   "smoke_name": "South Harrison Twp Constr",
+   "smoke_addr": "PO Box 113, Harrisonville NJ 08039",
+   "smoke_phone": "(856) 769-3737",
+   "page": 319
+  }
+ },
+ {
+  "slug": "swedesboro-borough",
+  "name": "Swedesboro Borough",
+  "census_name": "Swedesboro borough",
+  "geoid": "3401571850",
+  "county": "Gloucester",
+  "tax": {
+   "name": "SWEDESBORO BORO",
+   "general_rate": 4.358,
+   "effective_rate": 2.672
+  },
+  "eq": {
+   "name": "SWEDESBORO BORO",
+   "ratio": 57.73,
+   "true_value": 307106011
+  },
+  "website": {
+   "label": "Swedesboro",
+   "url": "https://www.historicswedesboro.com/"
+  },
+  "lea": {
+   "code": "0817",
+   "dir_name": "Swedesboro Borough",
+   "enf": "County",
+   "smoke_name": "Swedesboro Boro Fire Prev",
+   "smoke_addr": "Addr:",
+   "smoke_phone": "",
+   "page": 320
+  }
+ },
+ {
+  "slug": "washington-township-gloucester",
+  "name": "Washington Township",
+  "census_name": "Washington township",
+  "geoid": "3401577180",
+  "county": "Gloucester",
+  "tax": {
+   "name": "WASHINGTON TWP",
+   "general_rate": 3.665,
+   "effective_rate": 2.412
+  },
+  "eq": {
+   "name": "WASHINGTON TWP",
+   "ratio": 59.41,
+   "true_value": 7921816386
+  },
+  "website": null,
+  "lea": {
+   "code": "0818",
+   "dir_name": "Washington Township",
+   "enf": "District",
+   "smoke_name": "Washington Twp",
+   "smoke_addr": "PO Box 1106, Turnersville NJ 08012",
+   "smoke_phone": "(856) 589-0520",
+   "page": 321
+  }
+ },
+ {
+  "slug": "wenonah-borough",
+  "name": "Wenonah Borough",
+  "census_name": "Wenonah borough",
+  "geoid": "3401578110",
+  "county": "Gloucester",
+  "tax": {
+   "name": "WENONAH BORO",
+   "general_rate": 4.481,
+   "effective_rate": 3.02
+  },
+  "eq": {
+   "name": "WENONAH BORO",
+   "ratio": 61.89,
+   "true_value": 349557764
+  },
+  "website": {
+   "label": "Wenonah Borough",
+   "url": "https://boroughofwenonah.com/"
+  },
+  "lea": {
+   "code": "0819",
+   "dir_name": "Wenonah Borough",
+   "enf": "Fire Dept",
+   "smoke_name": "City of Woodbury Fire Prev",
+   "smoke_addr": "1 South West Ave, Wenonah NJ 08090",
+   "smoke_phone": "(856) 845-0066",
+   "page": 322
+  }
+ },
+ {
+  "slug": "west-deptford-township",
+  "name": "West Deptford Township",
+  "census_name": "West Deptford township",
+  "geoid": "3401578800",
+  "county": "Gloucester",
+  "tax": {
+   "name": "WEST DEPTFORD TWP",
+   "general_rate": 3.483,
+   "effective_rate": 2.279
+  },
+  "eq": {
+   "name": "WEST DEPTFORD TWP",
+   "ratio": 100,
+   "true_value": 3974394600
+  },
+  "website": {
+   "label": "West Deptford Township",
+   "url": "https://www.westdeptford.com/"
+  },
+  "lea": {
+   "code": "0820",
+   "dir_name": "West Deptford Township",
+   "enf": "Municipal",
+   "smoke_name": "West Deptford Twp Fire Prev",
+   "smoke_addr": "400 Crown Point Rd - PO Box 89, West Deptford NJ 08086-0089",
+   "smoke_phone": "(856) 845-4004",
+   "page": 323
+  }
+ },
+ {
+  "slug": "westville-borough",
+  "name": "Westville Borough",
+  "census_name": "Westville borough",
+  "geoid": "3401580120",
+  "county": "Gloucester",
+  "tax": {
+   "name": "WESTVILLE BORO",
+   "general_rate": 5.387,
+   "effective_rate": 3.169
+  },
+  "eq": {
+   "name": "WESTVILLE BORO",
+   "ratio": 100,
+   "true_value": 486269950
+  },
+  "website": {
+   "label": "Westville",
+   "url": "https://westville-nj.com/"
+  },
+  "lea": {
+   "code": "0821",
+   "dir_name": "Westville Borough",
+   "enf": "District",
+   "smoke_name": "Westville Boro",
+   "smoke_addr": "1035 Broadway, Westville NJ 08093",
+   "smoke_phone": "(856) 456-0030",
+   "page": 327
+  }
+ },
+ {
+  "slug": "woodbury-city",
+  "name": "Woodbury City",
+  "census_name": "Woodbury city",
+  "geoid": "3401582120",
+  "county": "Gloucester",
+  "tax": {
+   "name": "WOODBURY CITY",
+   "general_rate": 4.865,
+   "effective_rate": 3.254
+  },
+  "eq": {
+   "name": "WOODBURY CITY",
+   "ratio": 61.62,
+   "true_value": 1015080761
+  },
+  "website": {
+   "label": "Woodbury",
+   "url": "https://woodbury.nj.us/"
+  },
+  "lea": {
+   "code": "0822",
+   "dir_name": "Woodbury City",
+   "enf": "Fire Dept",
+   "smoke_name": "City of Woodbury Bldg Constr",
+   "smoke_addr": "33 Delaware St, Woodbury NJ 08096",
+   "smoke_phone": "(856) 845-1300",
+   "page": 328
+  }
+ },
+ {
+  "slug": "woodbury-heights-borough",
+  "name": "Woodbury Heights Borough",
+  "census_name": "Woodbury Heights borough",
+  "geoid": "3401582180",
+  "county": "Gloucester",
+  "tax": {
+   "name": "WOODBURY HEIGHTS BORO",
+   "general_rate": 4.832,
+   "effective_rate": 3.217
+  },
+  "eq": {
+   "name": "WOODBURY HEIGHTS BORO",
+   "ratio": 62.28,
+   "true_value": 398684168
+  },
+  "website": {
+   "label": "Woodbury Heights Borough",
+   "url": "https://bwhnj.com/"
+  },
+  "lea": {
+   "code": "0823",
+   "dir_name": "Woodbury Heights Borough",
+   "enf": "Fire Dept",
+   "smoke_name": "Woodbury City Bildg Constr",
+   "smoke_addr": "33 Delaware St, Woodbury NJ 08096",
+   "smoke_phone": "(856) 845-1300",
+   "page": 329
+  }
+ },
+ {
+  "slug": "woolwich-township",
+  "name": "Woolwich Township",
+  "census_name": "Woolwich township",
+  "geoid": "3401582840",
+  "county": "Gloucester",
+  "tax": {
+   "name": "WOOLWICH TWP",
+   "general_rate": 3.377,
+   "effective_rate": 2.314
+  },
+  "eq": {
+   "name": "WOOLWICH TWP",
+   "ratio": 64.34,
+   "true_value": 2663410647
+  },
+  "website": {
+   "label": "Woolwich Township",
+   "url": "https://woolwichtwp.org/"
+  },
+  "lea": {
+   "code": "0824",
+   "dir_name": "Woolwich Township",
+   "enf": "County",
+   "smoke_name": "Woolwich Twp Constr",
+   "smoke_addr": "120 Valley Green Drive, Woolwich NJ 08085",
+   "smoke_phone": "(856) 467-2666",
+   "page": 330
+  }
+ },
+ {
+  "slug": "audubon-borough",
+  "name": "Audubon Borough",
+  "census_name": "Audubon borough",
+  "geoid": "3400702200",
+  "county": "Camden",
+  "tax": {
+   "name": "AUDUBON BORO",
+   "general_rate": 4.2,
+   "effective_rate": 2.825
+  },
+  "eq": {
+   "name": "AUDUBON BORO",
+   "ratio": 61.01,
+   "true_value": 1172367317
+  },
+  "website": null,
+  "lea": {
+   "code": "0401",
+   "dir_name": "Audubon Borough",
+   "enf": "Municipal",
+   "smoke_name": "Audubon Boro Fire Prev",
+   "smoke_addr": "606 W. Nicholson Rd., Audubon NJ 08106",
+   "smoke_phone": "(856) 546-5399",
+   "page": 174
+  }
+ },
+ {
+  "slug": "audubon-park-borough",
+  "name": "Audubon Park Borough",
+  "census_name": "Audubon Park borough",
+  "geoid": "3400702230",
+  "county": "Camden",
+  "tax": {
+   "name": "AUDUBON PARK BORO",
+   "general_rate": 6.918,
+   "effective_rate": 6.867
+  },
+  "eq": {
+   "name": "AUDUBON PARK BORO",
+   "ratio": 99.89,
+   "true_value": 20722795
+  },
+  "website": null,
+  "lea": {
+   "code": "0402",
+   "dir_name": "Audubon Park Borough",
+   "enf": "Municipal",
+   "smoke_name": "Audubon Park Boro",
+   "smoke_addr": "Addr:",
+   "smoke_phone": "",
+   "page": 175
+  }
+ },
+ {
+  "slug": "barrington-borough",
+  "name": "Barrington Borough",
+  "census_name": "Barrington borough",
+  "geoid": "3400703250",
+  "county": "Camden",
+  "tax": {
+   "name": "BARRINGTON BORO",
+   "general_rate": 4.999,
+   "effective_rate": 3.006
+  },
+  "eq": {
+   "name": "BARRINGTON BORO",
+   "ratio": 56.47,
+   "true_value": 911545954
+  },
+  "website": {
+   "label": "Barrington Borough",
+   "url": "https://barringtonboro.com/"
+  },
+  "lea": {
+   "code": "0403",
+   "dir_name": "Barrington Borough",
+   "enf": "Municipal",
+   "smoke_name": "Barrington Fire Dept",
+   "smoke_addr": "229 Trenton, Barrington NJ 08007",
+   "smoke_phone": "(856) 547-0706",
+   "page": 176
+  }
+ },
+ {
+  "slug": "bellmawr-borough",
+  "name": "Bellmawr Borough",
+  "census_name": "Bellmawr borough",
+  "geoid": "3400704750",
+  "county": "Camden",
+  "tax": {
+   "name": "BELLMAWR BORO",
+   "general_rate": 3.844,
+   "effective_rate": 2.892
+  },
+  "eq": {
+   "name": "BELLMAWR BORO",
+   "ratio": 63.37,
+   "true_value": 1317228341
+  },
+  "website": {
+   "label": "Bellmawr",
+   "url": "https://www.bellmawr.com/"
+  },
+  "lea": {
+   "code": "0404",
+   "dir_name": "Bellmawr Borough",
+   "enf": "Municipal",
+   "smoke_name": "Bellmawr Boro Constr Office",
+   "smoke_addr": "21 E Browning Rd, Bellmawr NJ 08099",
+   "smoke_phone": "(856) 933-1286",
+   "page": 177
+  }
+ },
+ {
+  "slug": "berlin-borough",
+  "name": "Berlin Borough",
+  "census_name": "Berlin borough",
+  "geoid": "3400705440",
+  "county": "Camden",
+  "tax": {
+   "name": "BERLIN BORO",
+   "general_rate": 3.472,
+   "effective_rate": 2.519
+  },
+  "eq": {
+   "name": "BERLIN BORO",
+   "ratio": 66.55,
+   "true_value": 1213439669
+  },
+  "website": {
+   "label": "Berlin",
+   "url": "https://www.berlinnj.org/"
+  },
+  "lea": {
+   "code": "0405",
+   "dir_name": "Berlin Borough",
+   "enf": "Fire Dept",
+   "smoke_name": "Berlin Boro Fire Prev",
+   "smoke_addr": "PO Box 226, Berlin NJ 08009",
+   "smoke_phone": "(856) 767-7777",
+   "page": 178
+  }
+ },
+ {
+  "slug": "berlin-township",
+  "name": "Berlin Township",
+  "census_name": "Berlin township",
+  "geoid": "3400705470",
+  "county": "Camden",
+  "tax": {
+   "name": "BERLIN TWP",
+   "general_rate": 3.942,
+   "effective_rate": 2.545
+  },
+  "eq": {
+   "name": "BERLIN TWP",
+   "ratio": 58.26,
+   "true_value": 1116861826
+  },
+  "website": {
+   "label": "Berlin Township",
+   "url": "https://berlintwp.com/"
+  },
+  "lea": {
+   "code": "0406",
+   "dir_name": "Berlin Township",
+   "enf": "District",
+   "smoke_name": "Berlin Twp Dist #1 Fire Prev",
+   "smoke_addr": "186 Haddon Av, West Berlin NJ 08091",
+   "smoke_phone": "(856) 767-1839",
+   "page": 179
+  }
+ },
+ {
+  "slug": "brooklawn-borough",
+  "name": "Brooklawn Borough",
+  "census_name": "Brooklawn borough",
+  "geoid": "3400708170",
+  "county": "Camden",
+  "tax": {
+   "name": "BROOKLAWN BORO",
+   "general_rate": 4.434,
+   "effective_rate": 2.859
+  },
+  "eq": {
+   "name": "BROOKLAWN BORO",
+   "ratio": 53.45,
+   "true_value": 224046586
+  },
+  "website": {
+   "label": "Brooklawn",
+   "url": "https://brooklawn-nj.com/"
+  },
+  "lea": {
+   "code": "0407",
+   "dir_name": "Brooklawn Borough",
+   "enf": "Fire Dept",
+   "smoke_name": "Brooklawn Boro Constr",
+   "smoke_addr": "301 Christiana St, Brooklawn NJ 08030",
+   "smoke_phone": "(856) 456-0750",
+   "page": 180
+  }
+ },
+ {
+  "slug": "camden-city",
+  "name": "Camden City",
+  "census_name": "Camden city",
+  "geoid": "3400710000",
+  "county": "Camden",
+  "tax": {
+   "name": "CAMDEN CITY",
+   "general_rate": 3.687,
+   "effective_rate": 2.329
+  },
+  "eq": {
+   "name": "CAMDEN CITY",
+   "ratio": 57.82,
+   "true_value": 2938124524
+  },
+  "website": {
+   "label": "Camden",
+   "url": "https://camdennj.gov/"
+  },
+  "lea": {
+   "code": "0408",
+   "dir_name": "Camden City",
+   "enf": "Fire Dept",
+   "smoke_name": "Camden City Fire Prev",
+   "smoke_addr": "4 N 3rd St, Camden NJ 08102",
+   "smoke_phone": "(856) 757-7531",
+   "page": 181
+  }
+ },
+ {
+  "slug": "cherry-hill-township",
+  "name": "Cherry Hill Township",
+  "census_name": "Cherry Hill township",
+  "geoid": "3400712280",
+  "county": "Camden",
+  "tax": {
+   "name": "CHERRY HILL TWNSHP",
+   "general_rate": 4.348,
+   "effective_rate": 2.598
+  },
+  "eq": {
+   "name": "CHERRY HILL TWP",
+   "ratio": 54.32,
+   "true_value": 14483150589
+  },
+  "website": {
+   "label": "Cherry Hill",
+   "url": "https://www.chnj.gov/"
+  },
+  "lea": {
+   "code": "0409",
+   "dir_name": "Cherry Hill Township",
+   "enf": "District",
+   "smoke_name": "Cherry Hill Dist #1 Fire Prev",
+   "smoke_addr": "1100 Marlkress Rd, Cherry Hill NJ 08003",
+   "smoke_phone": "(856) 795-1340",
+   "page": 182
+  }
+ },
+ {
+  "slug": "chesilhurst-borough",
+  "name": "Chesilhurst Borough",
+  "census_name": "Chesilhurst borough",
+  "geoid": "3400712550",
+  "county": "Camden",
+  "tax": {
+   "name": "CHESILHURST BORO",
+   "general_rate": 4.724,
+   "effective_rate": 3.391
+  },
+  "eq": {
+   "name": "CHESILHURST BORO",
+   "ratio": 64.07,
+   "true_value": 138193694
+  },
+  "website": {
+   "label": "Chesilhurst Borough",
+   "url": "https://chesilhurstboro.org/"
+  },
+  "lea": {
+   "code": "0410",
+   "dir_name": "Chesilhurst Borough",
+   "enf": "District",
+   "smoke_name": "Winslow Twp Fire Prev",
+   "smoke_addr": "9 Cedar Brook Rd, Sicklerville NJ 08081",
+   "smoke_phone": "(609) 561-4225",
+   "page": 183
+  }
+ },
+ {
+  "slug": "clementon-borough",
+  "name": "Clementon Borough",
+  "census_name": "Clementon borough",
+  "geoid": "3400713420",
+  "county": "Camden",
+  "tax": {
+   "name": "CLEMENTON BORO",
+   "general_rate": 4.776,
+   "effective_rate": 3.162
+  },
+  "eq": {
+   "name": "CLEMENTON BORO",
+   "ratio": 62.4,
+   "true_value": 412134455
+  },
+  "website": {
+   "label": "Clementon Borough",
+   "url": "https://clementon-nj.com/"
+  },
+  "lea": {
+   "code": "0411",
+   "dir_name": "Clementon Borough",
+   "enf": "Municipal",
+   "smoke_name": "Clementon Boro Fire Preventon",
+   "smoke_addr": "101 Gibbsboro Rd, Clementon NJ 08021",
+   "smoke_phone": "(856) 783-0284",
+   "page": 184
+  }
+ },
+ {
+  "slug": "collingswood-borough",
+  "name": "Collingswood Borough",
+  "census_name": "Collingswood borough",
+  "geoid": "3400714260",
+  "county": "Camden",
+  "tax": {
+   "name": "COLLINGSWOOD BORO",
+   "general_rate": 2.231,
+   "effective_rate": 2.438
+  },
+  "eq": {
+   "name": "COLLINGSWOOD BORO",
+   "ratio": 109.22,
+   "true_value": 1886086248
+  },
+  "website": {
+   "label": "Collingswood Borough",
+   "url": "https://www.collingswood.com/"
+  },
+  "lea": {
+   "code": "0412",
+   "dir_name": "Collingswood Borough",
+   "enf": "Fire Dept",
+   "smoke_name": "Pennsauken/Collingswood Fire Pr",
+   "smoke_addr": "4700 Westfield Av, Pennsauken NJ 08110",
+   "smoke_phone": "(856) 665-0774",
+   "page": 185
+  }
+ },
+ {
+  "slug": "gibbsboro-borough",
+  "name": "Gibbsboro Borough",
+  "census_name": "Gibbsboro borough",
+  "geoid": "3400726070",
+  "county": "Camden",
+  "tax": {
+   "name": "GIBBSBORO BORO",
+   "general_rate": 4.663,
+   "effective_rate": 3.48
+  },
+  "eq": {
+   "name": "GIBBSBORO BORO",
+   "ratio": 66.63,
+   "true_value": 345657812
+  },
+  "website": {
+   "label": "Gibbsboro",
+   "url": "https://gibbsborotownhall.com/"
+  },
+  "lea": {
+   "code": "0413",
+   "dir_name": "Gibbsboro Borough",
+   "enf": "Municipal",
+   "smoke_name": "Gibbsboro Fire Prev",
+   "smoke_addr": "49 Kirkwood Rd, Gibbsboro NJ 08026",
+   "smoke_phone": "(856) 783-6655",
+   "page": 186
+  }
+ },
+ {
+  "slug": "gloucester-township",
+  "name": "Gloucester Township",
+  "census_name": "Gloucester township",
+  "geoid": "3400726760",
+  "county": "Camden",
+  "tax": {
+   "name": "GLOUCESTER TWP",
+   "general_rate": 4.179,
+   "effective_rate": 2.703
+  },
+  "eq": {
+   "name": "GLOUCESTER TWP",
+   "ratio": 56.95,
+   "true_value": 8159135803
+  },
+  "website": {
+   "label": "Gloucester Township",
+   "url": "https://glotwp.com/"
+  },
+  "lea": {
+   "code": "0415",
+   "dir_name": "Gloucester Township",
+   "enf": "State",
+   "smoke_name": "Gloucester Twp Dist #3",
+   "smoke_addr": "PO Box 1233 - Almonesson Rd, Blackwood NJ 08012",
+   "smoke_phone": "(856) 381-2052",
+   "page": 188
+  }
+ },
+ {
+  "slug": "gloucester-city",
+  "name": "Gloucester City",
+  "census_name": "Gloucester City city",
+  "geoid": "3400726820",
+  "county": "Camden",
+  "tax": {
+   "name": "GLOUCESTER CITY",
+   "general_rate": 5.293,
+   "effective_rate": 3.251
+  },
+  "eq": {
+   "name": "GLOUCESTER CITY",
+   "ratio": 56.8,
+   "true_value": 930217782
+  },
+  "website": {
+   "label": "Gloucester City",
+   "url": "https://www.cityofgloucester.org/"
+  },
+  "lea": {
+   "code": "0414",
+   "dir_name": "Gloucester City",
+   "enf": "Fire Dept",
+   "smoke_name": "Gloucester City Housing",
+   "smoke_addr": "512 Monmouth St, Gloucester City NJ 08030",
+   "smoke_phone": "(856) 456-7689",
+   "page": 187
+  }
+ },
+ {
+  "slug": "haddon-township",
+  "name": "Haddon Township",
+  "census_name": "Haddon township",
+  "geoid": "3400728740",
+  "county": "Camden",
+  "tax": {
+   "name": "HADDON TWP",
+   "general_rate": 2.179,
+   "effective_rate": 2.4
+  },
+  "eq": {
+   "name": "HADDON TWP",
+   "ratio": 104.64,
+   "true_value": 2487377771
+  },
+  "website": {
+   "label": "Haddon Township",
+   "url": "https://www.haddontwp.com/"
+  },
+  "lea": {
+   "code": "0416",
+   "dir_name": "Haddon Township",
+   "enf": "Municipal",
+   "smoke_name": "Haddon Twp Constr",
+   "smoke_addr": "10 Reeve Av, Haddon Twp NJ 08108",
+   "smoke_phone": "(856) 854-1176",
+   "page": 194
+  }
+ },
+ {
+  "slug": "haddonfield-borough",
+  "name": "Haddonfield Borough",
+  "census_name": "Haddonfield borough",
+  "geoid": "3400728770",
+  "county": "Camden",
+  "tax": {
+   "name": "HADDONFIELD BORO",
+   "general_rate": 3.315,
+   "effective_rate": 2.563
+  },
+  "eq": {
+   "name": "HADDONFIELD BORO",
+   "ratio": 70.95,
+   "true_value": 3447743481
+  },
+  "website": {
+   "label": "Haddonfield",
+   "url": "https://www.haddonfieldnj.org/"
+  },
+  "lea": {
+   "code": "0417",
+   "dir_name": "Haddonfield Borough",
+   "enf": "Municipal",
+   "smoke_name": "Haddonfield Fire Co",
+   "smoke_addr": "15 N Haddon Av, Haddonfield NJ 08033",
+   "smoke_phone": "(856) 429-4308",
+   "page": 196
+  }
+ },
+ {
+  "slug": "haddon-heights-borough",
+  "name": "Haddon Heights Borough",
+  "census_name": "Haddon Heights borough",
+  "geoid": "3400728800",
+  "county": "Camden",
+  "tax": {
+   "name": "HADDON HEIGHTS BORO",
+   "general_rate": 3.492,
+   "effective_rate": 2.996
+  },
+  "eq": {
+   "name": "HADDON HEIGHTS BORO",
+   "ratio": 80.81,
+   "true_value": 1074537557
+  },
+  "website": {
+   "label": "Haddon Heights Borough",
+   "url": "https://haddonhts.com/"
+  },
+  "lea": {
+   "code": "0418",
+   "dir_name": "Haddon Heights Borough",
+   "enf": "Fire Dept",
+   "smoke_name": "Haddon Hgts Boro Fire Prev",
+   "smoke_addr": "Rear 608 Station Av, Haddon Heights NJ 08035",
+   "smoke_phone": "(856) 546-7135",
+   "page": 197
+  }
+ },
+ {
+  "slug": "hi-nella-borough",
+  "name": "Hi-Nella Borough",
+  "census_name": "Hi-Nella borough",
+  "geoid": "3400732220",
+  "county": "Camden",
+  "tax": {
+   "name": "HI NELLA BORO",
+   "general_rate": 6.764,
+   "effective_rate": 4.276
+  },
+  "eq": {
+   "name": "HI NELLA BORO",
+   "ratio": 56.74,
+   "true_value": 67585478
+  },
+  "website": {
+   "label": "Hi-nella",
+   "url": "https://www.hinellaboro.org/"
+  },
+  "lea": {
+   "code": "0419",
+   "dir_name": "Hi-Nella Borough",
+   "enf": "Municipal",
+   "smoke_name": "Regional Fire Prev Alliance",
+   "smoke_addr": "229 Trenton Ave, Barrington NJ 08007",
+   "smoke_phone": "(856) 547-0991",
+   "page": 198
+  }
+ },
+ {
+  "slug": "laurel-springs-borough",
+  "name": "Laurel Springs Borough",
+  "census_name": "Laurel Springs borough",
+  "geoid": "3400739210",
+  "county": "Camden",
+  "tax": {
+   "name": "LAUREL SPRINGS BORO",
+   "general_rate": 5.729,
+   "effective_rate": 3.793
+  },
+  "eq": {
+   "name": "LAUREL SPRINGS BORO",
+   "ratio": 57.13,
+   "true_value": 204765972
+  },
+  "website": {
+   "label": "Laurel Springs",
+   "url": "https://www.laurelsprings-nj.com/"
+  },
+  "lea": {
+   "code": "0420",
+   "dir_name": "Laurel Springs Borough",
+   "enf": "Fire Dept",
+   "smoke_name": "Laurel Springs Boro",
+   "smoke_addr": "723 West Atlantic Av, Laurel Springs NJ 08021",
+   "smoke_phone": "(856) 784-0500",
+   "page": 199
+  }
+ },
+ {
+  "slug": "lawnside-borough",
+  "name": "Lawnside Borough",
+  "census_name": "Lawnside borough",
+  "geoid": "3400739420",
+  "county": "Camden",
+  "tax": {
+   "name": "LAWNSIDE BORO",
+   "general_rate": 4.876,
+   "effective_rate": 3.103
+  },
+  "eq": {
+   "name": "LAWNSIDE BORO",
+   "ratio": 60.99,
+   "true_value": 352054927
+  },
+  "website": {
+   "label": "Lawnside",
+   "url": "https://www.lawnside.net/"
+  },
+  "lea": {
+   "code": "0421",
+   "dir_name": "Lawnside Borough",
+   "enf": "Municipal",
+   "smoke_name": "Regional Fire Prev Alliance",
+   "smoke_addr": "229 Trenton Ave, Barrington NJ 08007",
+   "smoke_phone": "(856) 547-0991",
+   "page": 200
+  }
+ },
+ {
+  "slug": "lindenwold-borough",
+  "name": "Lindenwold Borough",
+  "census_name": "Lindenwold borough",
+  "geoid": "3400740440",
+  "county": "Camden",
+  "tax": {
+   "name": "LINDENWOLD BORO",
+   "general_rate": 4.769,
+   "effective_rate": 3.287
+  },
+  "eq": {
+   "name": "LINDENWOLD BORO",
+   "ratio": 111.15,
+   "true_value": 1192565272
+  },
+  "website": {
+   "label": "Lindenwold",
+   "url": "https://www.lindenwoldnj.gov/"
+  },
+  "lea": {
+   "code": "0422",
+   "dir_name": "Lindenwold Borough",
+   "enf": "District",
+   "smoke_name": "Lindenwold Boro",
+   "smoke_addr": "2001 Egg Harbor Rd., Lindenwold NJ 08021",
+   "smoke_phone": "(856) 783-2121",
+   "page": 201
+  }
+ },
+ {
+  "slug": "magnolia-borough",
+  "name": "Magnolia Borough",
+  "census_name": "Magnolia borough",
+  "geoid": "3400742630",
+  "county": "Camden",
+  "tax": {
+   "name": "MAGNOLIA BORO",
+   "general_rate": 4.967,
+   "effective_rate": 2.961
+  },
+  "eq": {
+   "name": "MAGNOLIA BORO",
+   "ratio": 60.04,
+   "true_value": 446622252
+  },
+  "website": {
+   "label": "Magnolia",
+   "url": "https://magnolia-nj.org/"
+  },
+  "lea": {
+   "code": "0423",
+   "dir_name": "Magnolia Borough",
+   "enf": "State",
+   "smoke_name": "Magnolia Boro Constr Office",
+   "smoke_addr": "438 West Evesham Av, Magnolia NJ 08049",
+   "smoke_phone": "(856) 783-1520",
+   "page": 202
+  }
+ },
+ {
+  "slug": "merchantville-borough",
+  "name": "Merchantville Borough",
+  "census_name": "Merchantville borough",
+  "geoid": "3400745510",
+  "county": "Camden",
+  "tax": {
+   "name": "MERCHANTVILLE BORO",
+   "general_rate": 5.502,
+   "effective_rate": 3.559
+  },
+  "eq": {
+   "name": "MERCHANTVILLE BORO",
+   "ratio": 55.76,
+   "true_value": 431432209
+  },
+  "website": null,
+  "lea": {
+   "code": "0424",
+   "dir_name": "Merchantville Borough",
+   "enf": "Fire Dept",
+   "smoke_name": "Merchantville Code Enf",
+   "smoke_addr": "1 West Maple Av, Merchantville NJ 08109",
+   "smoke_phone": "(856) 488-0404",
+   "page": 203
+  }
+ },
+ {
+  "slug": "mount-ephraim-borough",
+  "name": "Mount Ephraim Borough",
+  "census_name": "Mount Ephraim borough",
+  "geoid": "3400748750",
+  "county": "Camden",
+  "tax": {
+   "name": "MOUNT EPHRAIM BORO",
+   "general_rate": 5.349,
+   "effective_rate": 3.341
+  },
+  "eq": {
+   "name": "MOUNT EPHRAIM BORO",
+   "ratio": 56.15,
+   "true_value": 497267498
+  },
+  "website": {
+   "label": "Mount Ephraim Borough",
+   "url": "https://www.mountephraim-nj.com/"
+  },
+  "lea": {
+   "code": "0425",
+   "dir_name": "Mount Ephraim Borough",
+   "enf": "Municipal",
+   "smoke_name": "Regional Fire Prev Alliance",
+   "smoke_addr": "229 Trenton Ave, Barrington NJ 08007",
+   "smoke_phone": "(856) 547-0991",
+   "page": 204
+  }
+ },
+ {
+  "slug": "oaklyn-borough",
+  "name": "Oaklyn Borough",
+  "census_name": "Oaklyn borough",
+  "geoid": "3400753880",
+  "county": "Camden",
+  "tax": {
+   "name": "OAKLYN BORO",
+   "general_rate": 5.625,
+   "effective_rate": 3.296
+  },
+  "eq": {
+   "name": "OAKLYN BORO",
+   "ratio": 55.26,
+   "true_value": 466408071
+  },
+  "website": {
+   "label": "Oaklyn",
+   "url": "http://www.oaklyn-nj.net/"
+  },
+  "lea": {
+   "code": "0426",
+   "dir_name": "Oaklyn Borough",
+   "enf": "Municipal",
+   "smoke_name": "Oaklyn Borough Constr",
+   "smoke_addr": "500 White Horse Pike, Oaklyn NJ 08107",
+   "smoke_phone": "(856) 854-0049",
+   "page": 205
+  }
+ },
+ {
+  "slug": "pennsauken-township",
+  "name": "Pennsauken Township",
+  "census_name": "Pennsauken township",
+  "geoid": "3400757660",
+  "county": "Camden",
+  "tax": {
+   "name": "PENNSAUKEN TWP",
+   "general_rate": 2.172,
+   "effective_rate": 2.396
+  },
+  "eq": {
+   "name": "PENNSAUKEN TWP",
+   "ratio": 109.7,
+   "true_value": 4474651686
+  },
+  "website": {
+   "label": "Pennsauken Township",
+   "url": "https://www.twp.pennsauken.nj.us/"
+  },
+  "lea": {
+   "code": "0427",
+   "dir_name": "Pennsauken Township",
+   "enf": "Municipal",
+   "smoke_name": "Pennsauken/Collingswood Fire Pr",
+   "smoke_addr": "4700 Westfield Ave., Pennsauken NJ 08110",
+   "smoke_phone": "(856) 665-0774",
+   "page": 206
+  }
+ },
+ {
+  "slug": "pine-hill-borough",
+  "name": "Pine Hill Borough",
+  "census_name": "Pine Hill borough",
+  "geoid": "3400758770",
+  "county": "Camden",
+  "tax": {
+   "name": "PINE HILL BORO",
+   "general_rate": 5.508,
+   "effective_rate": 3.07
+  },
+  "eq": {
+   "name": "PINE HILL BORO",
+   "ratio": 109.35,
+   "true_value": 950448102
+  },
+  "website": {
+   "label": "Pine Hill Borough",
+   "url": "https://www.pinehillboronj.com/"
+  },
+  "lea": {
+   "code": "0428",
+   "dir_name": "Pine Hill Borough",
+   "enf": "District",
+   "smoke_name": "Pine Hill Boro Fire Dist #1",
+   "smoke_addr": "1109 Erial Rd, Pine Hill NJ 08021",
+   "smoke_phone": "(856) 784-3993",
+   "page": 207
+  }
+ },
+ {
+  "slug": "runnemede-borough",
+  "name": "Runnemede Borough",
+  "census_name": "Runnemede borough",
+  "geoid": "3400765160",
+  "county": "Camden",
+  "tax": {
+   "name": "RUNNEMEDE BORO",
+   "general_rate": 4.781,
+   "effective_rate": 2.856
+  },
+  "eq": {
+   "name": "RUNNEMEDE BORO",
+   "ratio": 54.95,
+   "true_value": 931713376
+  },
+  "website": {
+   "label": "Runnemede Borough",
+   "url": "https://runnemedenj.org/"
+  },
+  "lea": {
+   "code": "0430",
+   "dir_name": "Runnemede Borough",
+   "enf": "Municipal",
+   "smoke_name": "Runnemede Boro Fire Prev",
+   "smoke_addr": "24 N Black Horse Pk, Runnemede NJ 08078",
+   "smoke_phone": "(856) 939-2817",
+   "page": 209
+  }
+ },
+ {
+  "slug": "somerdale-borough",
+  "name": "Somerdale Borough",
+  "census_name": "Somerdale borough",
+  "geoid": "3400768340",
+  "county": "Camden",
+  "tax": {
+   "name": "SOMERDALE BORO",
+   "general_rate": 4.798,
+   "effective_rate": 2.873
+  },
+  "eq": {
+   "name": "SOMERDALE BORO",
+   "ratio": 56.5,
+   "true_value": 602875752
+  },
+  "website": {
+   "label": "Somerdale Borough",
+   "url": "https://somerdale-nj.com/"
+  },
+  "lea": {
+   "code": "0431",
+   "dir_name": "Somerdale Borough",
+   "enf": "Municipal",
+   "smoke_name": "Somerdale Boro Fire Prev",
+   "smoke_addr": "105 Kennedy Rd, Somerdale NJ 08083",
+   "smoke_phone": "(856) 207-9165",
+   "page": 210
+  }
+ },
+ {
+  "slug": "stratford-borough",
+  "name": "Stratford Borough",
+  "census_name": "Stratford borough",
+  "geoid": "3400771220",
+  "county": "Camden",
+  "tax": {
+   "name": "STRATFORD BORO",
+   "general_rate": 5.001,
+   "effective_rate": 3.01
+  },
+  "eq": {
+   "name": "STRATFORD BORO",
+   "ratio": 57.7,
+   "true_value": 710359445
+  },
+  "website": {
+   "label": "Stratford",
+   "url": "https://stratfordnj.org/"
+  },
+  "lea": {
+   "code": "0432",
+   "dir_name": "Stratford Borough",
+   "enf": "State",
+   "smoke_name": "Stratford Boro Fire Prev",
+   "smoke_addr": "311 E Laurel Rd, Stratford NJ 08084",
+   "smoke_phone": "(856) 782-1933",
+   "page": 211
+  }
+ },
+ {
+  "slug": "tavistock-borough",
+  "name": "Tavistock Borough",
+  "census_name": "Tavistock borough",
+  "geoid": "3400772240",
+  "county": "Camden",
+  "tax": {
+   "name": "TAVISTOCK BORO",
+   "general_rate": 1.454,
+   "effective_rate": 1.445
+  },
+  "eq": {
+   "name": "TAVISTOCK BORO",
+   "ratio": 100,
+   "true_value": 25918600
+  },
+  "website": {
+   "label": "Tavistock Borough",
+   "url": "https://tavistocknj.org/"
+  },
+  "lea": {
+   "code": "0433",
+   "dir_name": "Tavistock Borough",
+   "enf": "Municipal",
+   "smoke_name": "Haddonfield Boro",
+   "smoke_addr": "242 Kings Hwy East Suite 205, Haddonfield NJ 08033",
+   "smoke_phone": "(856) 429-4700",
+   "page": 212
+  }
+ },
+ {
+  "slug": "voorhees-township",
+  "name": "Voorhees Township",
+  "census_name": "Voorhees township",
+  "geoid": "3400776220",
+  "county": "Camden",
+  "tax": {
+   "name": "VOORHEES TWP",
+   "general_rate": 2.574,
+   "effective_rate": 2.765
+  },
+  "eq": {
+   "name": "VOORHEES TWP",
+   "ratio": 105.49,
+   "true_value": 5350352071
+  },
+  "website": {
+   "label": "Voorhees",
+   "url": "https://voorheesnj.com/"
+  },
+  "lea": {
+   "code": "0434",
+   "dir_name": "Voorhees Township",
+   "enf": "Fire Dept",
+   "smoke_name": "Voorhees Twp Zoning Dept",
+   "smoke_addr": "2002 S Burnt Mill Rd, Voorhees NJ 08043",
+   "smoke_phone": "(856) 429-0647",
+   "page": 213
+  }
+ },
+ {
+  "slug": "waterford-township",
+  "name": "Waterford Township",
+  "census_name": "Waterford township",
+  "geoid": "3400777630",
+  "county": "Camden",
+  "tax": {
+   "name": "WATERFORD TWP",
+   "general_rate": 4.56,
+   "effective_rate": 2.724
+  },
+  "eq": {
+   "name": "WATERFORD TWP",
+   "ratio": 53.68,
+   "true_value": 1318586438
+  },
+  "website": {
+   "label": "Waterford Township",
+   "url": "https://waterfordtwp.org/"
+  },
+  "lea": {
+   "code": "0435",
+   "dir_name": "Waterford Township",
+   "enf": "Fire Dept",
+   "smoke_name": "Berlin Boro Fire Prev",
+   "smoke_addr": "PO Box 226, Berlin NJ 08009",
+   "smoke_phone": "(856) 767-7777",
+   "page": 214
+  }
+ },
+ {
+  "slug": "winslow-township",
+  "name": "Winslow Township",
+  "census_name": "Winslow township",
+  "geoid": "3400781740",
+  "county": "Camden",
+  "tax": {
+   "name": "WINSLOW TWP",
+   "general_rate": 3.695,
+   "effective_rate": 2.293
+  },
+  "eq": {
+   "name": "WINSLOW TWP",
+   "ratio": 58,
+   "true_value": 4780305690
+  },
+  "website": {
+   "label": "Winslow Township",
+   "url": "http://www.winslowtownship.com/"
+  },
+  "lea": {
+   "code": "0436",
+   "dir_name": "Winslow Township",
+   "enf": "District",
+   "smoke_name": "Winslow Twp Fire Prev",
+   "smoke_addr": "9 Cedar Brook Rd, Sicklerville NJ 08081",
+   "smoke_phone": "(609) 561-4225",
+   "page": 215
+  }
+ },
+ {
+  "slug": "woodlynne-borough",
+  "name": "Woodlynne Borough",
+  "census_name": "Woodlynne borough",
+  "geoid": "3400782450",
+  "county": "Camden",
+  "tax": {
+   "name": "WOODLYNNE BORO",
+   "general_rate": 8.103,
+   "effective_rate": 4.334
+  },
+  "eq": {
+   "name": "WOODLYNNE BORO",
+   "ratio": 46.31,
+   "true_value": 147237746
+  },
+  "website": {
+   "label": "Woodlynne",
+   "url": "https://www.woodlynnenj.org/"
+  },
+  "lea": {
+   "code": "0437",
+   "dir_name": "Woodlynne Borough",
+   "enf": "State",
+   "smoke_name": "Name:",
+   "smoke_addr": "Addr:",
+   "smoke_phone": "",
+   "page": 217
+  }
+ },
+ {
+  "slug": "bass-river-township",
+  "name": "Bass River Township",
+  "census_name": "Bass River township",
+  "geoid": "3400503370",
+  "county": "Burlington",
+  "tax": {
+   "name": "BASS RIVER TWP",
+   "general_rate": 2.237,
+   "effective_rate": 1.576
+  },
+  "eq": {
+   "name": "BASS RIVER TWP",
+   "ratio": 68.16,
+   "true_value": 258924883
+  },
+  "website": {
+   "label": "Bass River Township",
+   "url": "https://bassriver-nj.org/"
+  },
+  "lea": {
+   "code": "0301",
+   "dir_name": "Bass River Township",
+   "enf": "State",
+   "smoke_name": "NJ Division Fire Safety",
+   "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+   "smoke_phone": "(609) 633-6132",
+   "page": 123
+  }
+ },
+ {
+  "slug": "beverly-city",
+  "name": "Beverly City",
+  "census_name": "Beverly city",
+  "geoid": "3400505740",
+  "county": "Burlington",
+  "tax": {
+   "name": "BEVERLY CITY",
+   "general_rate": 4.957,
+   "effective_rate": 3.18
+  },
+  "eq": {
+   "name": "BEVERLY CITY",
+   "ratio": 58.93,
+   "true_value": 208365858
+  },
+  "website": {
+   "label": "Beverly City",
+   "url": "https://thecityofbeverly.com/"
+  },
+  "lea": {
+   "code": "0302",
+   "dir_name": "Beverly City",
+   "enf": "District",
+   "smoke_name": "Cinnaminson Twp Fire Dist #1",
+   "smoke_addr": "1621 Riverton Rd, Cinnaminson Twp NJ 08077",
+   "smoke_phone": "(856) 829-5220",
+   "page": 124
+  }
+ },
+ {
+  "slug": "bordentown-city",
+  "name": "Bordentown City",
+  "census_name": "Bordentown city",
+  "geoid": "3400506670",
+  "county": "Burlington",
+  "tax": {
+   "name": "BORDENTOWN CITY",
+   "general_rate": 3.888,
+   "effective_rate": 2.543
+  },
+  "eq": {
+   "name": "BORDENTOWN CITY",
+   "ratio": 60.17,
+   "true_value": 582913611
+  },
+  "website": {
+   "label": "Bordentown, City of",
+   "url": "https://www.cityofbordentown.com/"
+  },
+  "lea": {
+   "code": "0303",
+   "dir_name": "Bordentown City",
+   "enf": "District",
+   "smoke_name": "Bordentown City Inspection Dept",
+   "smoke_addr": "324 Farnswoth Av, Bordentown NJ 08505",
+   "smoke_phone": "(609) 298-9046",
+   "page": 125
+  }
+ },
+ {
+  "slug": "bordentown-township",
+  "name": "Bordentown Township",
+  "census_name": "Bordentown township",
+  "geoid": "3400506700",
+  "county": "Burlington",
+  "tax": {
+   "name": "BORDENTOWN TWP",
+   "general_rate": 3.469,
+   "effective_rate": 2.022
+  },
+  "eq": {
+   "name": "BORDENTOWN TWP",
+   "ratio": 57.08,
+   "true_value": 2485467535
+  },
+  "website": {
+   "label": "Bordentown Township",
+   "url": "https://www.bordentowntownship.com/"
+  },
+  "lea": {
+   "code": "0304",
+   "dir_name": "Bordentown Township",
+   "enf": "District",
+   "smoke_name": "Bordentown Twp Dist #2 Constr O",
+   "smoke_addr": "1 Municipal Dr, Bordentown NJ 08505",
+   "smoke_phone": "(608) 298-2828",
+   "page": 127
+  }
+ },
+ {
+  "slug": "burlington-city",
+  "name": "Burlington City",
+  "census_name": "Burlington city",
+  "geoid": "3400508920",
+  "county": "Burlington",
+  "tax": {
+   "name": "BURLINGTON CITY",
+   "general_rate": 4.441,
+   "effective_rate": 2.978
+  },
+  "eq": {
+   "name": "BURLINGTON CITY",
+   "ratio": 63.18,
+   "true_value": 959299145
+  },
+  "website": {
+   "label": "Burlington City",
+   "url": "https://www.burlingtonnj.us/"
+  },
+  "lea": {
+   "code": "0305",
+   "dir_name": "Burlington City",
+   "enf": "Municipal",
+   "smoke_name": "Burlington City Fire Prev",
+   "smoke_addr": "525 High Street, Burlington City NJ 08016",
+   "smoke_phone": "(609) 386-0200",
+   "page": 129
+  }
+ },
+ {
+  "slug": "burlington-township",
+  "name": "Burlington Township",
+  "census_name": "Burlington township",
+  "geoid": "3400508950",
+  "county": "Burlington",
+  "tax": {
+   "name": "BURLINGTON TWP",
+   "general_rate": 2.944,
+   "effective_rate": 2.017
+  },
+  "eq": {
+   "name": "BURLINGTON TWP",
+   "ratio": 60.33,
+   "true_value": 4593894663
+  },
+  "website": {
+   "label": "Burlington Township",
+   "url": "http://twp.burlington.nj.us/"
+  },
+  "lea": {
+   "code": "0306",
+   "dir_name": "Burlington Township",
+   "enf": "District",
+   "smoke_name": "Burlington Twp Inspections",
+   "smoke_addr": "851 Old York Rd, Burlington Twp NJ 08016",
+   "smoke_phone": "(609) 239-5847",
+   "page": 130
+  }
+ },
+ {
+  "slug": "chesterfield-township",
+  "name": "Chesterfield Township",
+  "census_name": "Chesterfield township",
+  "geoid": "3400512670",
+  "county": "Burlington",
+  "tax": {
+   "name": "CHESTERFIELD TWP",
+   "general_rate": 3.41,
+   "effective_rate": 2.305
+  },
+  "eq": {
+   "name": "CHESTERFIELD TWP",
+   "ratio": 62.4,
+   "true_value": 1354917013
+  },
+  "website": {
+   "label": "Chesterfield Township",
+   "url": "https://www.chesterfieldtwpnj.gov/"
+  },
+  "lea": {
+   "code": "0307",
+   "dir_name": "Chesterfield Township",
+   "enf": "State",
+   "smoke_name": "Chesterfield Twp Constr Office",
+   "smoke_addr": "300 Bordentown Chesterfield Rd, Chesterfield NJ 08515",
+   "smoke_phone": "(609) 298-0426",
+   "page": 131
+  }
+ },
+ {
+  "slug": "cinnaminson-township",
+  "name": "Cinnaminson Township",
+  "census_name": "Cinnaminson township",
+  "geoid": "3400512940",
+  "county": "Burlington",
+  "tax": {
+   "name": "CINNAMINSON TWP",
+   "general_rate": 3.669,
+   "effective_rate": 2.141
+  },
+  "eq": {
+   "name": "CINNAMINSON TWP",
+   "ratio": 55.13,
+   "true_value": 3001327136
+  },
+  "website": {
+   "label": "Cinnaminson Township",
+   "url": "https://cinnaminsonnj.org/"
+  },
+  "lea": {
+   "code": "0308",
+   "dir_name": "Cinnaminson Township",
+   "enf": "District",
+   "smoke_name": "Cinnaminson Twp Fire Dist #1",
+   "smoke_addr": "1621 Riverton Rd, Cinnaminson Twp NJ 08077",
+   "smoke_phone": "(856) 829-5220",
+   "page": 132
+  }
+ },
+ {
+  "slug": "delanco-township",
+  "name": "Delanco Township",
+  "census_name": "Delanco township",
+  "geoid": "3400517080",
+  "county": "Burlington",
+  "tax": {
+   "name": "DELANCO TWP",
+   "general_rate": 3.583,
+   "effective_rate": 2.3
+  },
+  "eq": {
+   "name": "DELANCO TWP",
+   "ratio": 61.01,
+   "true_value": 733952959
+  },
+  "website": null,
+  "lea": {
+   "code": "0309",
+   "dir_name": "Delanco Township",
+   "enf": "District",
+   "smoke_name": "Delanco Twp Fire Prev",
+   "smoke_addr": "PO Box 5021, Delanco NJ 08075",
+   "smoke_phone": "(856) 764-8176",
+   "page": 133
+  }
+ },
+ {
+  "slug": "delran-township",
+  "name": "Delran Township",
+  "census_name": "Delran township",
+  "geoid": "3400517440",
+  "county": "Burlington",
+  "tax": {
+   "name": "DELRAN TWP",
+   "general_rate": 3.845,
+   "effective_rate": 2.341
+  },
+  "eq": {
+   "name": "DELRAN TWP",
+   "ratio": 52.56,
+   "true_value": 2869039003
+  },
+  "website": null,
+  "lea": {
+   "code": "0310",
+   "dir_name": "Delran Township",
+   "enf": "District",
+   "smoke_name": "Delran Twp Fire Prev",
+   "smoke_addr": "PO Box 1007, Delran NJ 08075",
+   "smoke_phone": "(856) 461-5474",
+   "page": 134
+  }
+ },
+ {
+  "slug": "eastampton-township",
+  "name": "Eastampton Township",
+  "census_name": "Eastampton township",
+  "geoid": "3400518790",
+  "county": "Burlington",
+  "tax": {
+   "name": "EASTAMPTON TWP",
+   "general_rate": 3.459,
+   "effective_rate": 2.168
+  },
+  "eq": {
+   "name": "EASTAMPTON TWP",
+   "ratio": 57.07,
+   "true_value": 1069433503
+  },
+  "website": {
+   "label": "Eastampton",
+   "url": "https://www.eastampton.com/"
+  },
+  "lea": {
+   "code": "0311",
+   "dir_name": "Eastampton Township",
+   "enf": "District",
+   "smoke_name": "Eastampton Twp Fire Prev",
+   "smoke_addr": "12 Manor House Court, Eastampton NJ 08060",
+   "smoke_phone": "(609) 267-5723",
+   "page": 135
+  }
+ },
+ {
+  "slug": "edgewater-park-township",
+  "name": "Edgewater Park Township",
+  "census_name": "Edgewater Park township",
+  "geoid": "3400520050",
+  "county": "Burlington",
+  "tax": {
+   "name": "EDGEWATER PARK TWP",
+   "general_rate": 3.345,
+   "effective_rate": 2.42
+  },
+  "eq": {
+   "name": "EDGEWATER PARK TWP",
+   "ratio": 64.86,
+   "true_value": 1079307277
+  },
+  "website": {
+   "label": "Edgewater Park Township",
+   "url": "http://edgewaterpark-nj.com/"
+  },
+  "lea": {
+   "code": "0312",
+   "dir_name": "Edgewater Park Twp FD#1",
+   "enf": "District",
+   "smoke_name": "Edgewater Park Twp Fire Prev",
+   "smoke_addr": "400 Delanco Rd, Edgewater Park NJ 08010",
+   "smoke_phone": "(609) 877-2050",
+   "page": 136
+  }
+ },
+ {
+  "slug": "evesham-township",
+  "name": "Evesham Township",
+  "census_name": "Evesham township",
+  "geoid": "3400522110",
+  "county": "Burlington",
+  "tax": {
+   "name": "EVESHAM TWP",
+   "general_rate": 3.451,
+   "effective_rate": 2.288
+  },
+  "eq": {
+   "name": "EVESHAM TWP",
+   "ratio": 60.98,
+   "true_value": 8718184075
+  },
+  "website": {
+   "label": "Evesham Township",
+   "url": "https://evesham-nj.org/"
+  },
+  "lea": {
+   "code": "0313",
+   "dir_name": "Evesham Township",
+   "enf": "District",
+   "smoke_name": "Evesham Fire Dist #1",
+   "smoke_addr": "PO Box 276, Evesham NJ 08053",
+   "smoke_phone": "(856) 983-2750",
+   "page": 137
+  }
+ },
+ {
+  "slug": "fieldsboro-borough",
+  "name": "Fieldsboro Borough",
+  "census_name": "Fieldsboro borough",
+  "geoid": "3400523250",
+  "county": "Burlington",
+  "tax": {
+   "name": "FIELDSBORO BORO",
+   "general_rate": 3.02,
+   "effective_rate": 2.178
+  },
+  "eq": {
+   "name": "FIELDSBORO BORO",
+   "ratio": 61.85,
+   "true_value": 87139208
+  },
+  "website": null,
+  "lea": {
+   "code": "0314",
+   "dir_name": "Fieldsboro Borough",
+   "enf": "State",
+   "smoke_name": "Fieldsboro Boro Muni Bldg",
+   "smoke_addr": "204 Washington St, Fieldsboro NJ 08505",
+   "smoke_phone": "(609) 298-6344",
+   "page": 138
+  }
+ },
+ {
+  "slug": "florence-township",
+  "name": "Florence Township",
+  "census_name": "Florence township",
+  "geoid": "3400523850",
+  "county": "Burlington",
+  "tax": {
+   "name": "FLORENCE TWP",
+   "general_rate": 2.79,
+   "effective_rate": 2.381
+  },
+  "eq": {
+   "name": "FLORENCE TWP",
+   "ratio": 77.4,
+   "true_value": 1742741344
+  },
+  "website": {
+   "label": "Florence",
+   "url": "https://www.florence-nj.gov/"
+  },
+  "lea": {
+   "code": "0315",
+   "dir_name": "Florence Township",
+   "enf": "District",
+   "smoke_name": "Florence Twp Constr Dept",
+   "smoke_addr": "711 Broad Street, Florence NJ 08518",
+   "smoke_phone": "(609) 499-2130",
+   "page": 139
+  }
+ },
+ {
+  "slug": "hainesport-township",
+  "name": "Hainesport Township",
+  "census_name": "Hainesport township",
+  "geoid": "3400529010",
+  "county": "Burlington",
+  "tax": {
+   "name": "HAINESPORT TWP",
+   "general_rate": 2.948,
+   "effective_rate": 1.924
+  },
+  "eq": {
+   "name": "HAINESPORT TWP",
+   "ratio": 60.57,
+   "true_value": 1309734357
+  },
+  "website": {
+   "label": "Hainesport",
+   "url": "https://www.hainesporttownship.com/"
+  },
+  "lea": {
+   "code": "0316",
+   "dir_name": "Hainesport Township",
+   "enf": "Municipal",
+   "smoke_name": "Hainesport Twp Fire Prev",
+   "smoke_addr": "Box 477 - 1 Hainesport Ctr, Hainesport NJ 08036",
+   "smoke_phone": "(609) 267-2730",
+   "page": 140
+  }
+ },
+ {
+  "slug": "lumberton-township",
+  "name": "Lumberton Township",
+  "census_name": "Lumberton township",
+  "geoid": "3400542060",
+  "county": "Burlington",
+  "tax": {
+   "name": "LUMBERTON TWP",
+   "general_rate": 3.039,
+   "effective_rate": 2.106
+  },
+  "eq": {
+   "name": "LUMBERTON TWP",
+   "ratio": 65.45,
+   "true_value": 2243605230
+  },
+  "website": {
+   "label": "Lumberton",
+   "url": "https://www.lumbertontwp.com/"
+  },
+  "lea": {
+   "code": "0317",
+   "dir_name": "Lumberton Township",
+   "enf": "Municipal",
+   "smoke_name": "Lumberton Twp Fire Prev",
+   "smoke_addr": "35 Municipal Drive, Lumberton NJ 08048",
+   "smoke_phone": "(609) 267-3217",
+   "page": 141
+  }
+ },
+ {
+  "slug": "mansfield-township",
+  "name": "Mansfield Township",
+  "census_name": "Mansfield township",
+  "geoid": "3400543290",
+  "county": "Burlington",
+  "tax": {
+   "name": "MANSFIELD TWP",
+   "general_rate": 3.222,
+   "effective_rate": 2.229
+  },
+  "eq": {
+   "name": "MANSFIELD TWP",
+   "ratio": 56.72,
+   "true_value": 1827884697
+  },
+  "website": {
+   "label": "Mansfield Township",
+   "url": "https://www.mansfieldtwp.com/"
+  },
+  "lea": {
+   "code": "0318",
+   "dir_name": "Mansfield Township",
+   "enf": "Municipal",
+   "smoke_name": "Mansfield Twp Fire Prev",
+   "smoke_addr": "3135 Route 206 South Suite #1, Columbus NJ 08022",
+   "smoke_phone": "(856) 298-5325",
+   "page": 142
+  }
+ },
+ {
+  "slug": "maple-shade-township",
+  "name": "Maple Shade Township",
+  "census_name": "Maple Shade township",
+  "geoid": "3400543740",
+  "county": "Burlington",
+  "tax": {
+   "name": "MAPLE SHADE TWP",
+   "general_rate": 3.958,
+   "effective_rate": 2.441
+  },
+  "eq": {
+   "name": "MAPLE SHADE TWP",
+   "ratio": 57.36,
+   "true_value": 2314331782
+  },
+  "website": {
+   "label": "Maple Shade Township",
+   "url": "https://mapleshade.com/"
+  },
+  "lea": {
+   "code": "0319",
+   "dir_name": "Maple Shade Township",
+   "enf": "Fire Dept",
+   "smoke_name": "Maple Shade Fire Prev",
+   "smoke_addr": "200 Stiles Ave, Maple Shade NJ 08052",
+   "smoke_phone": "(856) 779-1335",
+   "page": 143
+  }
+ },
+ {
+  "slug": "medford-township",
+  "name": "Medford Township",
+  "census_name": "Medford township",
+  "geoid": "3400545120",
+  "county": "Burlington",
+  "tax": {
+   "name": "MEDFORD TWP",
+   "general_rate": 3.754,
+   "effective_rate": 2.311
+  },
+  "eq": {
+   "name": "MEDFORD TWP",
+   "ratio": 57.82,
+   "true_value": 5460778104
+  },
+  "website": {
+   "label": "Medford",
+   "url": "https://medfordtownship.com/"
+  },
+  "lea": {
+   "code": "0320",
+   "dir_name": "Medford Township",
+   "enf": "Municipal",
+   "smoke_name": "Medford Twp Fire Prev",
+   "smoke_addr": "1 Firehouse La, Medford NJ 08055",
+   "smoke_phone": "(609) 953-3291",
+   "page": 144
+  }
+ },
+ {
+  "slug": "medford-lakes-borough",
+  "name": "Medford Lakes Borough",
+  "census_name": "Medford Lakes borough",
+  "geoid": "3400545210",
+  "county": "Burlington",
+  "tax": {
+   "name": "MEDFORD LAKES BORO",
+   "general_rate": 4.023,
+   "effective_rate": 2.443
+  },
+  "eq": {
+   "name": "MEDFORD LAKES BORO",
+   "ratio": 54.68,
+   "true_value": 827078822
+  },
+  "website": {
+   "label": "Medford Lakes",
+   "url": "https://www.medfordlakes.com/"
+  },
+  "lea": {
+   "code": "0321",
+   "dir_name": "Medford Lakes Borough",
+   "enf": "Municipal",
+   "smoke_name": "Medford Lakes Boro Fire Prev",
+   "smoke_addr": "1 Cabin Circle Dr, Medford Lakes NJ 08055",
+   "smoke_phone": "(609) 654-8898",
+   "page": 145
+  }
+ },
+ {
+  "slug": "moorestown-township",
+  "name": "Moorestown Township",
+  "census_name": "Moorestown township",
+  "geoid": "3400547880",
+  "county": "Burlington",
+  "tax": {
+   "name": "MOORESTOWN TWP",
+   "general_rate": 2.813,
+   "effective_rate": 1.842
+  },
+  "eq": {
+   "name": "MOORESTOWN TWP",
+   "ratio": 61.44,
+   "true_value": 6788079756
+  },
+  "website": {
+   "label": "Moorestown",
+   "url": "https://www.moorestown.nj.us/"
+  },
+  "lea": {
+   "code": "0322",
+   "dir_name": "Moorestown Township",
+   "enf": "District",
+   "smoke_name": "Moorestown Twp Dist #2",
+   "smoke_addr": "225 N Lenola Rd, Moorestown NJ 08057",
+   "smoke_phone": "(856) 234-6660",
+   "page": 146
+  }
+ },
+ {
+  "slug": "mount-holly-township",
+  "name": "Mount Holly Township",
+  "census_name": "Mount Holly township",
+  "geoid": "3400548900",
+  "county": "Burlington",
+  "tax": {
+   "name": "MT HOLLY TWP",
+   "general_rate": 3.49,
+   "effective_rate": 2.258
+  },
+  "eq": {
+   "name": "MT HOLLY TWP",
+   "ratio": 60.89,
+   "true_value": 1063611759
+  },
+  "website": {
+   "label": "Mount Holly",
+   "url": "http://twp.mountholly.nj.us/"
+  },
+  "lea": {
+   "code": "0323",
+   "dir_name": "Mount Holly Township",
+   "enf": "District",
+   "smoke_name": "Mt Holly Twp Dist #1",
+   "smoke_addr": "17 Pine St, Mt Holly NJ 08060",
+   "smoke_phone": "(609) 261-7233",
+   "page": 148
+  }
+ },
+ {
+  "slug": "mount-laurel-township",
+  "name": "Mount Laurel Township",
+  "census_name": "Mount Laurel township",
+  "geoid": "3400549020",
+  "county": "Burlington",
+  "tax": {
+   "name": "MT LAUREL TWP",
+   "general_rate": 3.129,
+   "effective_rate": 2.017
+  },
+  "eq": {
+   "name": "MT LAUREL TWP",
+   "ratio": 60.04,
+   "true_value": 9840675217
+  },
+  "website": {
+   "label": "Mount Laurel",
+   "url": "https://www.mountlaurel.com/"
+  },
+  "lea": {
+   "code": "0324",
+   "dir_name": "Mount Laurel Township",
+   "enf": "District",
+   "smoke_name": "Mount Laurel Twp Dist #1",
+   "smoke_addr": "69 Elbo Ln, Mt Laurel NJ 08054",
+   "smoke_phone": "(856) 234-6053",
+   "page": 149
+  }
+ },
+ {
+  "slug": "new-hanover-township",
+  "name": "New Hanover Township",
+  "census_name": "New Hanover township",
+  "geoid": "3400551510",
+  "county": "Burlington",
+  "tax": {
+   "name": "NEW HANOVER TWP",
+   "general_rate": 3.22,
+   "effective_rate": 1.584
+  },
+  "eq": {
+   "name": "NEW HANOVER TWP",
+   "ratio": 42.87,
+   "true_value": 148473058
+  },
+  "website": {
+   "label": "New Hanover Township",
+   "url": "https://www.newhanovertwp.com/"
+  },
+  "lea": {
+   "code": "0325",
+   "dir_name": "New Hanover Township",
+   "enf": "Municipal",
+   "smoke_name": "Wrightstown Boro",
+   "smoke_addr": "21 Saylors Pond Rd, Wrightstown NJ 08562",
+   "smoke_phone": "(609) 723-4450",
+   "page": 150
+  }
+ },
+ {
+  "slug": "north-hanover-township",
+  "name": "North Hanover Township",
+  "census_name": "North Hanover township",
+  "geoid": "3400553070",
+  "county": "Burlington",
+  "tax": {
+   "name": "NO HANOVER TWP",
+   "general_rate": 2.488,
+   "effective_rate": 1.753
+  },
+  "eq": {
+   "name": "NO HANOVER TWP",
+   "ratio": 65.18,
+   "true_value": 673659098
+  },
+  "website": {
+   "label": "North Hanover Township",
+   "url": "https://www.northhanovertwp.com/"
+  },
+  "lea": {
+   "code": "0326",
+   "dir_name": "North Hanover Township",
+   "enf": "District",
+   "smoke_name": "Plumsted Twp Fire Dist #1",
+   "smoke_addr": "PO Box 267, New Egypt NJ 08533",
+   "smoke_phone": "(609) 758-3920",
+   "page": 153
+  }
+ },
+ {
+  "slug": "palmyra-borough",
+  "name": "Palmyra Borough",
+  "census_name": "Palmyra borough",
+  "geoid": "3400555800",
+  "county": "Burlington",
+  "tax": {
+   "name": "PALMYRA BORO",
+   "general_rate": 4.589,
+   "effective_rate": 2.752
+  },
+  "eq": {
+   "name": "PALMYRA BORO",
+   "ratio": 54.58,
+   "true_value": 878798177
+  },
+  "website": {
+   "label": "Palmyra Borough",
+   "url": "https://boroughofpalmyra.com/"
+  },
+  "lea": {
+   "code": "0327",
+   "dir_name": "Palmyra Borough",
+   "enf": "Municipal",
+   "smoke_name": "Palmyra Boro Fire Prev",
+   "smoke_addr": "20 W Broad St, Palmyra NJ 08065",
+   "smoke_phone": "(856) 829-1096",
+   "page": 154
+  }
+ },
+ {
+  "slug": "pemberton-borough",
+  "name": "Pemberton Borough",
+  "census_name": "Pemberton borough",
+  "geoid": "3400557480",
+  "county": "Burlington",
+  "tax": {
+   "name": "PEMBERTON BORO",
+   "general_rate": 2.91,
+   "effective_rate": 2.038
+  },
+  "eq": {
+   "name": "PEMBERTON BORO",
+   "ratio": 65.47,
+   "true_value": 157043990
+  },
+  "website": {
+   "label": "Pemberton Borough",
+   "url": "https://www.pembertonborough.us/index.html"
+  },
+  "lea": {
+   "code": "0328",
+   "dir_name": "Pemberton Borough",
+   "enf": "State",
+   "smoke_name": "NJ Division Fire Safety",
+   "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+   "smoke_phone": "(609) 633-6132",
+   "page": 155
+  }
+ },
+ {
+  "slug": "pemberton-township",
+  "name": "Pemberton Township",
+  "census_name": "Pemberton township",
+  "geoid": "3400557510",
+  "county": "Burlington",
+  "tax": {
+   "name": "PEMBERTON TWP",
+   "general_rate": 3.253,
+   "effective_rate": 2.118
+  },
+  "eq": {
+   "name": "PEMBERTON TWP",
+   "ratio": 59.69,
+   "true_value": 2482280198
+  },
+  "website": {
+   "label": "Pemberton Township",
+   "url": "https://www.pemberton-twp.com/"
+  },
+  "lea": {
+   "code": "0329",
+   "dir_name": "Pemberton Township",
+   "enf": "State",
+   "smoke_name": "NJ Division Fire Safety",
+   "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+   "smoke_phone": "(609) 633-6132",
+   "page": 156
+  }
+ },
+ {
+  "slug": "riverside-township",
+  "name": "Riverside Township",
+  "census_name": "Riverside township",
+  "geoid": "3400563510",
+  "county": "Burlington",
+  "tax": {
+   "name": "RIVERSIDE TWP",
+   "general_rate": 4.09,
+   "effective_rate": 2.567
+  },
+  "eq": {
+   "name": "RIVERSIDE TWP",
+   "ratio": 57.31,
+   "true_value": 765704240
+  },
+  "website": {
+   "label": "Riverside Township",
+   "url": "https://riversidetwp.org/"
+  },
+  "lea": {
+   "code": "0330",
+   "dir_name": "Riverside Township",
+   "enf": "Municipal",
+   "smoke_name": "Riverside Twp",
+   "smoke_addr": "PO Box 188 - 237 S. Pavilion Ave, Riverside NJ 08075",
+   "smoke_phone": "(856) 461-1460",
+   "page": 157
+  }
+ },
+ {
+  "slug": "riverton-borough",
+  "name": "Riverton Borough",
+  "census_name": "Riverton borough",
+  "geoid": "3400563660",
+  "county": "Burlington",
+  "tax": {
+   "name": "RIVERTON BORO",
+   "general_rate": 4.087,
+   "effective_rate": 2.615
+  },
+  "eq": {
+   "name": "RIVERTON BORO",
+   "ratio": 56.72,
+   "true_value": 442315762
+  },
+  "website": {
+   "label": "Riverton",
+   "url": "https://riverton-nj.com/"
+  },
+  "lea": {
+   "code": "0331",
+   "dir_name": "Riverton Borough",
+   "enf": "Fire Dept",
+   "smoke_name": "Riverton Boro Fire Prev",
+   "smoke_addr": "505 A Howard St, Riverton NJ 08077",
+   "smoke_phone": "(856) 829-0120",
+   "page": 158
+  }
+ },
+ {
+  "slug": "shamong-township",
+  "name": "Shamong Township",
+  "census_name": "Shamong township",
+  "geoid": "3400566810",
+  "county": "Burlington",
+  "tax": {
+   "name": "SHAMONG TWP",
+   "general_rate": 3.323,
+   "effective_rate": 2.052
+  },
+  "eq": {
+   "name": "SHAMONG TWP",
+   "ratio": 56.55,
+   "true_value": 1178564103
+  },
+  "website": {
+   "label": "Shamong Township",
+   "url": "https://www.shamong.net/"
+  },
+  "lea": {
+   "code": "0332",
+   "dir_name": "Shamong Township",
+   "enf": "State",
+   "smoke_name": "Shamong Twp Constr Office",
+   "smoke_addr": "105 Willow Grove Rd, Shamong NJ 08088",
+   "smoke_phone": "(609) 268-2372",
+   "page": 159
+  }
+ },
+ {
+  "slug": "southampton-township",
+  "name": "Southampton Township",
+  "census_name": "Southampton township",
+  "geoid": "3400568610",
+  "county": "Burlington",
+  "tax": {
+   "name": "SOUTHAMPTON TWP",
+   "general_rate": 3.353,
+   "effective_rate": 1.885
+  },
+  "eq": {
+   "name": "SOUTHAMPTON TWP",
+   "ratio": 50.4,
+   "true_value": 1961025595
+  },
+  "website": {
+   "label": "Southampton Township",
+   "url": "https://www.southamptonnj.org/"
+  },
+  "lea": {
+   "code": "0333",
+   "dir_name": "Southampton Township",
+   "enf": "State",
+   "smoke_name": "Southhampton Twp Constr Office",
+   "smoke_addr": "5 Retreat Rd, Southhampton NJ 08088",
+   "smoke_phone": "(609) 859-2786",
+   "page": 160
+  }
+ },
+ {
+  "slug": "springfield-township",
+  "name": "Springfield Township",
+  "census_name": "Springfield township",
+  "geoid": "3400569990",
+  "county": "Burlington",
+  "tax": {
+   "name": "SPRINGFIELD TWP",
+   "general_rate": 3.372,
+   "effective_rate": 2.113
+  },
+  "eq": {
+   "name": "SPRINGFIELD TWP",
+   "ratio": 57.52,
+   "true_value": 682649513
+  },
+  "website": null,
+  "lea": {
+   "code": "0334",
+   "dir_name": "Springfield Township",
+   "enf": "State",
+   "smoke_name": "Springfield Twp Constr Off",
+   "smoke_addr": "PO Box 119, Jobstown NJ 08041",
+   "smoke_phone": "(609) 723-2464",
+   "page": 162
+  }
+ },
+ {
+  "slug": "tabernacle-township",
+  "name": "Tabernacle Township",
+  "census_name": "Tabernacle township",
+  "geoid": "3400572060",
+  "county": "Burlington",
+  "tax": {
+   "name": "TABERNACLE TWP",
+   "general_rate": 3.382,
+   "effective_rate": 2.112
+  },
+  "eq": {
+   "name": "TABERNACLE TWP",
+   "ratio": 56.46,
+   "true_value": 1244702621
+  },
+  "website": {
+   "label": "Tabernacle",
+   "url": "https://www.tabernacle-nj.gov/"
+  },
+  "lea": {
+   "code": "0335",
+   "dir_name": "Tabernacle Township",
+   "enf": "Municipal",
+   "smoke_name": "Tabernacle Constr Office",
+   "smoke_addr": "163 Casranza Rd, Tabernacle NJ 08088",
+   "smoke_phone": "(609) 268-1220",
+   "page": 165
+  }
+ },
+ {
+  "slug": "washington-township-burlington",
+  "name": "Washington Township",
+  "census_name": "Washington township",
+  "geoid": "3400577150",
+  "county": "Burlington",
+  "tax": {
+   "name": "WASHINGTON TWP",
+   "general_rate": 2.103,
+   "effective_rate": 1.591
+  },
+  "eq": {
+   "name": "WASHINGTON TWP",
+   "ratio": 62.49,
+   "true_value": 151881421
+  },
+  "website": null,
+  "lea": {
+   "code": "0336",
+   "dir_name": "Washington Township",
+   "enf": "State",
+   "smoke_name": "NJ Division Fire Safety",
+   "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+   "smoke_phone": "(609) 633-6132",
+   "page": 166
+  }
+ },
+ {
+  "slug": "westampton-township",
+  "name": "Westampton Township",
+  "census_name": "Westampton township",
+  "geoid": "3400578200",
+  "county": "Burlington",
+  "tax": {
+   "name": "WESTAMPTON TWP",
+   "general_rate": 3.079,
+   "effective_rate": 2.154
+  },
+  "eq": {
+   "name": "WESTAMPTON TWP",
+   "ratio": 63.33,
+   "true_value": 1975051953
+  },
+  "website": {
+   "label": "Westampton Township",
+   "url": "https://www.westamptonnj.gov/"
+  },
+  "lea": {
+   "code": "0337",
+   "dir_name": "Westampton Township",
+   "enf": "Municipal",
+   "smoke_name": "Westampton Twp Fire Prev",
+   "smoke_addr": "780 Woodlane Rd, Westampton NJ 08060",
+   "smoke_phone": "(609) 267-2041",
+   "page": 168
+  }
+ },
+ {
+  "slug": "willingboro-township",
+  "name": "Willingboro Township",
+  "census_name": "Willingboro township",
+  "geoid": "3400581440",
+  "county": "Burlington",
+  "tax": {
+   "name": "WILLINGBORO TWP",
+   "general_rate": 4.405,
+   "effective_rate": 2.717
+  },
+  "eq": {
+   "name": "WILLINGBORO TWP",
+   "ratio": 56.46,
+   "true_value": 3391817570
+  },
+  "website": {
+   "label": "Willingboro",
+   "url": "https://www.willingboronj.gov/"
+  },
+  "lea": {
+   "code": "0338",
+   "dir_name": "Willingboro Township",
+   "enf": "State",
+   "smoke_name": "NJ Division of Fire Safety",
+   "smoke_addr": "PO Box 809, Trenton NJ 08625",
+   "smoke_phone": "(609) 633-6132",
+   "page": 169
+  }
+ },
+ {
+  "slug": "woodland-township",
+  "name": "Woodland Township",
+  "census_name": "Woodland township",
+  "geoid": "3400582420",
+  "county": "Burlington",
+  "tax": {
+   "name": "WOODLAND TWP",
+   "general_rate": 2.982,
+   "effective_rate": 2.398
+  },
+  "eq": {
+   "name": "WOODLAND TWP",
+   "ratio": 67.58,
+   "true_value": 228182450
+  },
+  "website": null,
+  "lea": {
+   "code": "0339",
+   "dir_name": "Woodland Township",
+   "enf": "Municipal",
+   "smoke_name": "Woodland Twp Fire Prev",
+   "smoke_addr": "PO Box 388, Chatsworth NJ 08019",
+   "smoke_phone": "(609) 726-1700",
+   "page": 170
+  }
+ },
+ {
+  "slug": "wrightstown-borough",
+  "name": "Wrightstown Borough",
+  "census_name": "Wrightstown borough",
+  "geoid": "3400582960",
+  "county": "Burlington",
+  "tax": {
+   "name": "WRIGHTSTOWN BORO",
+   "general_rate": 3.777,
+   "effective_rate": 2.051
+  },
+  "eq": {
+   "name": "WRIGHTSTOWN BORO",
+   "ratio": 47.59,
+   "true_value": 82606220
+  },
+  "website": {
+   "label": "Wrightstown",
+   "url": "https://www.wrightstownborough.com/"
+  },
+  "lea": {
+   "code": "0340",
+   "dir_name": "Wrightstown Borough",
+   "enf": "Municipal",
+   "smoke_name": "Wrightstown Boro Fire Preventon",
+   "smoke_addr": "21 Saylors Pond Rd, Wrightstown NJ 08562",
+   "smoke_phone": "(609) 723-4450",
+   "page": 171
+  }
+ },
+ {
+  "slug": "barnegat-township",
+  "name": "Barnegat Township",
+  "census_name": "Barnegat township",
+  "geoid": "3402903050",
+  "county": "Ocean",
+  "tax": {
+   "name": "BARNEGAT TWP",
+   "general_rate": 3.083,
+   "effective_rate": 1.848
+  },
+  "eq": {
+   "name": "BARNEGAT TWP",
+   "ratio": 55.17,
+   "true_value": 4988295813
+  },
+  "website": {
+   "label": "Barnegat Township",
+   "url": "https://www.barnegat.net/"
+  },
+  "lea": {
+   "code": "1533",
+   "dir_name": "Barnegat Township",
+   "enf": "State",
+   "smoke_name": "NJ Division Fire Safety",
+   "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+   "smoke_phone": "(609) 633-6132",
+   "page": 649
+  }
+ },
+ {
+  "slug": "barnegat-light-borough",
+  "name": "Barnegat Light Borough",
+  "census_name": "Barnegat Light borough",
+  "geoid": "3402903130",
+  "county": "Ocean",
+  "tax": {
+   "name": "BARNEGAT LIGHT BORO",
+   "general_rate": 1.107,
+   "effective_rate": 0.594
+  },
+  "eq": {
+   "name": "BARNEGAT LIGHT BORO",
+   "ratio": 52.53,
+   "true_value": 2066247668
+  },
+  "website": {
+   "label": "Barnegat Light",
+   "url": "https://barnegatlight.org/"
+  },
+  "lea": {
+   "code": "1501",
+   "dir_name": "Barnegat Light Borough",
+   "enf": "County",
+   "smoke_name": "Barnegat Light Zoning Office",
+   "smoke_addr": "1010 10th St, Barnegat Light NJ 08006",
+   "smoke_phone": "(732) 494-3522",
+   "page": 601
+  }
+ },
+ {
+  "slug": "bay-head-borough",
+  "name": "Bay Head Borough",
+  "census_name": "Bay Head borough",
+  "geoid": "3402903520",
+  "county": "Ocean",
+  "tax": {
+   "name": "BAY HEAD BORO",
+   "general_rate": 1.105,
+   "effective_rate": 0.646
+  },
+  "eq": {
+   "name": "BAY HEAD BORO",
+   "ratio": 56.09,
+   "true_value": 3010330897
+  },
+  "website": {
+   "label": "Bay Head Borough",
+   "url": "https://www.bayheadnj.org/"
+  },
+  "lea": {
+   "code": "1502",
+   "dir_name": "Bay Head Borough",
+   "enf": "County",
+   "smoke_name": "Ocean County Fire Marshal",
+   "smoke_addr": "Box 2191 - Sheriff's Dept - FM Office Addr:        Supervisor Code Enfocement, PO Box 810",
+   "smoke_phone": "(732) 331-8152",
+   "page": 602
+  }
+ },
+ {
+  "slug": "beach-haven-borough",
+  "name": "Beach Haven Borough",
+  "census_name": "Beach Haven borough",
+  "geoid": "3402903940",
+  "county": "Ocean",
+  "tax": {
+   "name": "BEACH HAVEN BORO",
+   "general_rate": 1.426,
+   "effective_rate": 0.765
+  },
+  "eq": {
+   "name": "BEACH HAVEN BORO",
+   "ratio": 49.72,
+   "true_value": 4481033990
+  },
+  "website": {
+   "label": "Beach Haven Borough",
+   "url": "https://beachhaven-nj.gov/"
+  },
+  "lea": {
+   "code": "1503",
+   "dir_name": "Beach Haven Borough",
+   "enf": "County",
+   "smoke_name": "Beach Haven Boro",
+   "smoke_addr": "300 Engleside Av, Beach Haven NJ 08008",
+   "smoke_phone": "(732) 492-0111",
+   "page": 603
+  }
+ },
+ {
+  "slug": "beachwood-borough",
+  "name": "Beachwood Borough",
+  "census_name": "Beachwood borough",
+  "geoid": "3402904180",
+  "county": "Ocean",
+  "tax": {
+   "name": "BEACHWOOD BORO",
+   "general_rate": 3.187,
+   "effective_rate": 1.789
+  },
+  "eq": {
+   "name": "BEACHWOOD BORO",
+   "ratio": 52.02,
+   "true_value": 1599056709
+  },
+  "website": {
+   "label": "Beachwood Borough",
+   "url": "https://www.beachwoodusa.com/"
+  },
+  "lea": {
+   "code": "1504",
+   "dir_name": "Beachwood Borough",
+   "enf": "Municipal",
+   "smoke_name": "Beachwood Boro Fire Prev",
+   "smoke_addr": "315 Atlantic City Blvd, Beachwood NJ 08722",
+   "smoke_phone": "(732) 286-6000",
+   "page": 604
+  }
+ },
+ {
+  "slug": "berkeley-township",
+  "name": "Berkeley Township",
+  "census_name": "Berkeley township",
+  "geoid": "3402905305",
+  "county": "Ocean",
+  "tax": {
+   "name": "BERKELEY TWP",
+   "general_rate": 2.59,
+   "effective_rate": 1.498
+  },
+  "eq": {
+   "name": "BERKELEY TWP",
+   "ratio": 52.95,
+   "true_value": 10327796978
+  },
+  "website": {
+   "label": "Berkeley Township",
+   "url": "https://twp.berkeley.nj.us/"
+  },
+  "lea": {
+   "code": "1505",
+   "dir_name": "Berkeley Township",
+   "enf": "Municipal",
+   "smoke_name": "Berkeley Twp Fire Prev",
+   "smoke_addr": "627 Pinewald-Keswick Rd - Box B, Bayville NJ 08721",
+   "smoke_phone": "(732) 244-7400",
+   "page": 605
+  }
+ },
+ {
+  "slug": "brick-township",
+  "name": "Brick Township",
+  "census_name": "Brick township",
+  "geoid": "3402907420",
+  "county": "Ocean",
+  "tax": {
+   "name": "BRICK TWP",
+   "general_rate": 2.664,
+   "effective_rate": 1.575
+  },
+  "eq": {
+   "name": "BRICK TWP",
+   "ratio": 55.01,
+   "true_value": 19353213779
+  },
+  "website": {
+   "label": "Brick Township",
+   "url": "https://www.bricktownship.net/"
+  },
+  "lea": {
+   "code": "1506",
+   "dir_name": "Brick Township",
+   "enf": "District",
+   "smoke_name": "Brick Twp Dist #1,2,3",
+   "smoke_addr": "253 Brick Blvd, Brick Twp NJ 08723",
+   "smoke_phone": "(732) 458-4100",
+   "page": 608
+  }
+ },
+ {
+  "slug": "eagleswood-township",
+  "name": "Eagleswood Township",
+  "census_name": "Eagleswood township",
+  "geoid": "3402918670",
+  "county": "Ocean",
+  "tax": {
+   "name": "EAGLESWOOD TWP",
+   "general_rate": 2.987,
+   "effective_rate": 2.024
+  },
+  "eq": {
+   "name": "EAGLESWOOD TWP",
+   "ratio": 58.85,
+   "true_value": 417017842
+  },
+  "website": {
+   "label": "Eagleswood Township",
+   "url": "https://www.eagleswoodtwpnj.us/"
+  },
+  "lea": {
+   "code": "1508",
+   "dir_name": "Eagleswood Township",
+   "enf": "State",
+   "smoke_name": "NJ Division Fire Safety",
+   "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+   "smoke_phone": "(609) 633-6132",
+   "page": 610
+  }
+ },
+ {
+  "slug": "harvey-cedars-borough",
+  "name": "Harvey Cedars Borough",
+  "census_name": "Harvey Cedars borough",
+  "geoid": "3402930390",
+  "county": "Ocean",
+  "tax": {
+   "name": "HARVEY CEDARS BORO",
+   "general_rate": 1.112,
+   "effective_rate": 0.658
+  },
+  "eq": {
+   "name": "HARVEY CEDARS BORO",
+   "ratio": 52.42,
+   "true_value": 2649128386
+  },
+  "website": {
+   "label": "Harvey Cedars",
+   "url": "https://www.harveycedars.org/"
+  },
+  "lea": {
+   "code": "1509",
+   "dir_name": "Harvey Cedars Borough",
+   "enf": "County",
+   "smoke_name": "Boro of Harvey Cedars",
+   "smoke_addr": "7606 & Long Beach Blvd, Harvey Cedars NJ 08008",
+   "smoke_phone": "(732) 361-1616",
+   "page": 611
+  }
+ },
+ {
+  "slug": "island-heights-borough",
+  "name": "Island Heights Borough",
+  "census_name": "Island Heights borough",
+  "geoid": "3402934530",
+  "county": "Ocean",
+  "tax": {
+   "name": "ISLAND HEIGHTS BORO",
+   "general_rate": 2.234,
+   "effective_rate": 1.469
+  },
+  "eq": {
+   "name": "ISLAND HEIGHTS BORO",
+   "ratio": 61.06,
+   "true_value": 636236980
+  },
+  "website": {
+   "label": "Island Heights",
+   "url": "https://islandheightsborough.gov/"
+  },
+  "lea": {
+   "code": "1510",
+   "dir_name": "Island Heights Borough",
+   "enf": "Municipal",
+   "smoke_name": "Island Heights Boro Fire Prev",
+   "smoke_addr": "PO Box 797, Island Heights NJ 08752",
+   "smoke_phone": "(908) 270-0388",
+   "page": 612
+  }
+ },
+ {
+  "slug": "jackson-township",
+  "name": "Jackson Township",
+  "census_name": "Jackson township",
+  "geoid": "3402934680",
+  "county": "Ocean",
+  "tax": {
+   "name": "JACKSON TWP",
+   "general_rate": 1.386,
+   "effective_rate": 1.458
+  },
+  "eq": {
+   "name": "JACKSON TWP",
+   "ratio": 99.4,
+   "true_value": 14545011066
+  },
+  "website": {
+   "label": "Jackson Township",
+   "url": "https://www.jacksontwpnj.net/"
+  },
+  "lea": {
+   "code": "1511",
+   "dir_name": "Jackson Township",
+   "enf": "District",
+   "smoke_name": "Jackson Twp Bldg Dept",
+   "smoke_addr": "95 W Veteran's Hwy, Jackson NJ 08527",
+   "smoke_phone": "(732) 928-9100",
+   "page": 613
+  }
+ },
+ {
+  "slug": "lacey-township",
+  "name": "Lacey Township",
+  "census_name": "Lacey township",
+  "geoid": "3402937380",
+  "county": "Ocean",
+  "tax": {
+   "name": "LACEY TWP",
+   "general_rate": 2.735,
+   "effective_rate": 1.771
+  },
+  "eq": {
+   "name": "LACEY TWP",
+   "ratio": 60.11,
+   "true_value": 6791185992
+  },
+  "website": {
+   "label": "Lacey Township",
+   "url": "http://www.laceytownship.org/"
+  },
+  "lea": {
+   "code": "1512",
+   "dir_name": "Lacey Township",
+   "enf": "State",
+   "smoke_name": "NJ Division Fire Safety",
+   "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+   "smoke_phone": "(609) 633-6132",
+   "page": 617
+  }
+ },
+ {
+  "slug": "lakehurst-borough",
+  "name": "Lakehurst Borough",
+  "census_name": "Lakehurst borough",
+  "geoid": "3402937770",
+  "county": "Ocean",
+  "tax": {
+   "name": "LAKEHURST BORO",
+   "general_rate": 2.297,
+   "effective_rate": 2.083
+  },
+  "eq": {
+   "name": "LAKEHURST BORO",
+   "ratio": 85.72,
+   "true_value": 272667289
+  },
+  "website": {
+   "label": "Lakehurst",
+   "url": "https://www.lakehurst-nj.gov/"
+  },
+  "lea": {
+   "code": "1513",
+   "dir_name": "Lakehurst Borough",
+   "enf": "Municipal",
+   "smoke_name": "Lakehurst Boro Housing Office",
+   "smoke_addr": "5 Union Av, Lakehurst NJ 08733",
+   "smoke_phone": "(732) 657-4141",
+   "page": 620
+  }
+ },
+ {
+  "slug": "lakewood-township",
+  "name": "Lakewood Township",
+  "census_name": "Lakewood township",
+  "geoid": "3402938550",
+  "county": "Ocean",
+  "tax": {
+   "name": "LAKEWOOD TWP",
+   "general_rate": 2.462,
+   "effective_rate": 1.378
+  },
+  "eq": {
+   "name": "LAKEWOOD TWP",
+   "ratio": 52.27,
+   "true_value": 22457360819
+  },
+  "website": {
+   "label": "Lakewood Township",
+   "url": "https://www.lakewoodnj.gov/"
+  },
+  "lea": {
+   "code": "1514",
+   "dir_name": "Lakewood Township",
+   "enf": "County",
+   "smoke_name": "Lakewood Twp Insp Dept",
+   "smoke_addr": "231 Third St., Lakewood NJ 08701",
+   "smoke_phone": "(732) 364-3760",
+   "page": 621
+  }
+ },
+ {
+  "slug": "lavallette-borough",
+  "name": "Lavallette Borough",
+  "census_name": "Lavallette borough",
+  "geoid": "3402939390",
+  "county": "Ocean",
+  "tax": {
+   "name": "LAVALLETTE BORO",
+   "general_rate": 1.014,
+   "effective_rate": 0.619
+  },
+  "eq": {
+   "name": "LAVALLETTE BORO",
+   "ratio": 55.31,
+   "true_value": 4455576026
+  },
+  "website": {
+   "label": "Lavallette Borough",
+   "url": "https://www.lavallette.org/"
+  },
+  "lea": {
+   "code": "1515",
+   "dir_name": "Lavallette Borough",
+   "enf": "State",
+   "smoke_name": "NJ Division Fire Safety",
+   "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+   "smoke_phone": "(609) 633-6132",
+   "page": 622
+  }
+ },
+ {
+  "slug": "little-egg-harbor-township",
+  "name": "Little Egg Harbor Township",
+  "census_name": "Little Egg Harbor township",
+  "geoid": "3402940560",
+  "county": "Ocean",
+  "tax": {
+   "name": "LITTLE EGG HARBOR TWP",
+   "general_rate": 3.207,
+   "effective_rate": 1.865
+  },
+  "eq": {
+   "name": "LITTLE EGG HARBOR TWP",
+   "ratio": 53.14,
+   "true_value": 4505382292
+  },
+  "website": {
+   "label": "Little Egg Harbor Township",
+   "url": "https://www.leht.com/"
+  },
+  "lea": {
+   "code": "1516",
+   "dir_name": "Little Egg Harbor Township",
+   "enf": "State",
+   "smoke_name": "NJ Division Fire Safety",
+   "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+   "smoke_phone": "(609) 633-6132",
+   "page": 623
+  }
+ },
+ {
+  "slug": "long-beach-township",
+  "name": "Long Beach Township",
+  "census_name": "Long Beach township",
+  "geoid": "3402941250",
+  "county": "Ocean",
+  "tax": {
+   "name": "LONG BEACH TWP",
+   "general_rate": 0.913,
+   "effective_rate": 0.665
+  },
+  "eq": {
+   "name": "LONG BEACH TWP",
+   "ratio": 65.41,
+   "true_value": 17091255160
+  },
+  "website": {
+   "label": "Long Beach Township",
+   "url": "https://www.longbeachtownship.com/"
+  },
+  "lea": {
+   "code": "1517",
+   "dir_name": "Long Beach Township",
+   "enf": "County",
+   "smoke_name": "Long Beach Twp Constr Office",
+   "smoke_addr": "6805 Long Beach Blvd, Brant Beach NJ 08008",
+   "smoke_phone": "(732) 361-1000",
+   "page": 626
+  }
+ },
+ {
+  "slug": "manchester-township",
+  "name": "Manchester Township",
+  "census_name": "Manchester township",
+  "geoid": "3402943140",
+  "county": "Ocean",
+  "tax": {
+   "name": "MANCHESTER TWP",
+   "general_rate": 1.455,
+   "effective_rate": 1.514
+  },
+  "eq": {
+   "name": "MANCHESTER TWP",
+   "ratio": 101.63,
+   "true_value": 7670227098
+  },
+  "website": {
+   "label": "Manchester Township",
+   "url": "https://manchestertwp.com/"
+  },
+  "lea": {
+   "code": "1518",
+   "dir_name": "Manchester Township",
+   "enf": "Municipal",
+   "smoke_name": "Manchester Twp Insp",
+   "smoke_addr": "1 Colonial Dr, Lakehurst NJ 08733",
+   "smoke_phone": "(732) 657-6700",
+   "page": 631
+  }
+ },
+ {
+  "slug": "mantoloking-borough",
+  "name": "Mantoloking Borough",
+  "census_name": "Mantoloking borough",
+  "geoid": "3402943380",
+  "county": "Ocean",
+  "tax": {
+   "name": "MANTOLOKING BORO",
+   "general_rate": 0.912,
+   "effective_rate": 0.531
+  },
+  "eq": {
+   "name": "MANTOLOKING BORO",
+   "ratio": 58.93,
+   "true_value": 2709648057
+  },
+  "website": {
+   "label": "Mantoloking Borough",
+   "url": "https://www.mantoloking.org/"
+  },
+  "lea": {
+   "code": "1519",
+   "dir_name": "Mantoloking Borough",
+   "enf": "Municipal",
+   "smoke_name": "Mantoloking Boro Fire Prev",
+   "smoke_addr": "PO Box 247, Mantoloking NJ 08738",
+   "smoke_phone": "(732) 899-6601",
+   "page": 634
+  }
+ },
+ {
+  "slug": "ocean-township",
+  "name": "Ocean Township",
+  "census_name": "Ocean township",
+  "geoid": "3402954300",
+  "county": "Ocean",
+  "tax": {
+   "name": "OCEAN TWP",
+   "general_rate": 1.578,
+   "effective_rate": 1.567
+  },
+  "eq": {
+   "name": "OCEAN TWP",
+   "ratio": 92.47,
+   "true_value": 2493160268
+  },
+  "website": null,
+  "lea": {
+   "code": "1520",
+   "dir_name": "Ocean Township",
+   "enf": "State",
+   "smoke_name": "NJ Division Fire Safety",
+   "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+   "smoke_phone": "(609) 633-6132",
+   "page": 635
+  }
+ },
+ {
+  "slug": "ocean-gate-borough",
+  "name": "Ocean Gate Borough",
+  "census_name": "Ocean Gate borough",
+  "geoid": "3402954450",
+  "county": "Ocean",
+  "tax": {
+   "name": "OCEAN GATE BORO",
+   "general_rate": 1.821,
+   "effective_rate": 1.777
+  },
+  "eq": {
+   "name": "OCEAN GATE BORO",
+   "ratio": 91.35,
+   "true_value": 501611932
+  },
+  "website": {
+   "label": "Ocean Gate",
+   "url": "https://oceangatenjgov.com/"
+  },
+  "lea": {
+   "code": "1521",
+   "dir_name": "Ocean Gate Borough",
+   "enf": "State",
+   "smoke_name": "NJ Division Fire Safety",
+   "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+   "smoke_phone": "(609) 633-6132",
+   "page": 636
+  }
+ },
+ {
+  "slug": "pine-beach-borough",
+  "name": "Pine Beach Borough",
+  "census_name": "Pine Beach borough",
+  "geoid": "3402958590",
+  "county": "Ocean",
+  "tax": {
+   "name": "PINE BEACH BORO",
+   "general_rate": 2.028,
+   "effective_rate": 1.714
+  },
+  "eq": {
+   "name": "PINE BEACH BORO",
+   "ratio": 76.02,
+   "true_value": 507949619
+  },
+  "website": {
+   "label": "Pine Beach Borough",
+   "url": "https://www.pinebeachnj.gov/"
+  },
+  "lea": {
+   "code": "1522",
+   "dir_name": "Pine Beach Borough",
+   "enf": "State",
+   "smoke_name": "NJ Division Fire Safety",
+   "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+   "smoke_phone": "(609) 633-6132",
+   "page": 637
+  }
+ },
+ {
+  "slug": "plumsted-township",
+  "name": "Plumsted Township",
+  "census_name": "Plumsted township",
+  "geoid": "3402959790",
+  "county": "Ocean",
+  "tax": {
+   "name": "PLUMSTED TWP",
+   "general_rate": 3.15,
+   "effective_rate": 1.953
+  },
+  "eq": {
+   "name": "PLUMSTED TWP",
+   "ratio": 105.75,
+   "true_value": 1451899291
+  },
+  "website": {
+   "label": "Plumsted Township",
+   "url": "http://www.plumsted.org/"
+  },
+  "lea": {
+   "code": "1523",
+   "dir_name": "Plumstead Township",
+   "enf": "District",
+   "smoke_name": "Plumsted Twp Constr Office",
+   "smoke_addr": "121 Evergreen Rd, New Egypt NJ 08533",
+   "smoke_phone": "(609) 758-2241",
+   "page": 638
+  }
+ },
+ {
+  "slug": "point-pleasant-borough",
+  "name": "Point Pleasant Borough",
+  "census_name": "Point Pleasant borough",
+  "geoid": "3402959880",
+  "county": "Ocean",
+  "tax": {
+   "name": "POINT PLEASANT BORO",
+   "general_rate": 2.424,
+   "effective_rate": 1.437
+  },
+  "eq": {
+   "name": "POINT PLEASANT BORO",
+   "ratio": 53.53,
+   "true_value": 6392421820
+  },
+  "website": {
+   "label": "Point Pleasant Borough",
+   "url": "https://ptboro.com/"
+  },
+  "lea": {
+   "code": "1524",
+   "dir_name": "Point Pleasant Borough",
+   "enf": "County",
+   "smoke_name": "Ocean County Fire Marshal",
+   "smoke_addr": "Ocean Co Sheriff's Dept, Office of the Fire Marshal",
+   "smoke_phone": "(732) 370-7360",
+   "page": 639
+  }
+ },
+ {
+  "slug": "point-pleasant-beach-borough",
+  "name": "Point Pleasant Beach Borough",
+  "census_name": "Point Pleasant Beach borough",
+  "geoid": "3402959910",
+  "county": "Ocean",
+  "tax": {
+   "name": "PT PLEASANT BEACH BORO",
+   "general_rate": 1.803,
+   "effective_rate": 1.095
+  },
+  "eq": {
+   "name": "PT PLEASANT BEACH BORO",
+   "ratio": 106.9,
+   "true_value": 3928714219
+  },
+  "website": {
+   "label": "Point Pleasant Beach",
+   "url": "https://www.pointpleasantbeach.org/"
+  },
+  "lea": {
+   "code": "1525",
+   "dir_name": "Point Pleasant Beach Borough",
+   "enf": "Municipal",
+   "smoke_name": "Pt Pleasant Beach Boro Fire Prev",
+   "smoke_addr": "416 New Jersey Av, Pt Pleasant Beach NJ 08742",
+   "smoke_phone": "(732) 892-1118",
+   "page": 640
+  }
+ },
+ {
+  "slug": "seaside-heights-borough",
+  "name": "Seaside Heights Borough",
+  "census_name": "Seaside Heights borough",
+  "geoid": "3402966450",
+  "county": "Ocean",
+  "tax": {
+   "name": "SEASIDE HEIGHTS BORO",
+   "general_rate": 1.284,
+   "effective_rate": 1.432
+  },
+  "eq": {
+   "name": "SEASIDE HEIGHTS BORO",
+   "ratio": 110.75,
+   "true_value": 1524433228
+  },
+  "website": {
+   "label": "Seaside Heights",
+   "url": "https://www.seaside-heightsnj.org/"
+  },
+  "lea": {
+   "code": "1526",
+   "dir_name": "Seaside Heights Borough",
+   "enf": "State",
+   "smoke_name": "Seaside Heights",
+   "smoke_addr": "PO Box 386, Seaside Heights NJ 08751",
+   "smoke_phone": "(732) 793-9100",
+   "page": 641
+  }
+ },
+ {
+  "slug": "seaside-park-borough",
+  "name": "Seaside Park Borough",
+  "census_name": "Seaside Park borough",
+  "geoid": "3402966480",
+  "county": "Ocean",
+  "tax": {
+   "name": "SEASIDE PARK BORO",
+   "general_rate": 1.735,
+   "effective_rate": 1.083
+  },
+  "eq": {
+   "name": "SEASIDE PARK BORO",
+   "ratio": 55.89,
+   "true_value": 2119410091
+  },
+  "website": {
+   "label": "Seaside Park",
+   "url": "https://www.seasideparknj.org/"
+  },
+  "lea": {
+   "code": "1527",
+   "dir_name": "Seaside Park Borough",
+   "enf": "County",
+   "smoke_name": "Seaside Park Boro Fire Prev",
+   "smoke_addr": "Court House Sq - Box 2191, Toms River NJ 08754",
+   "smoke_phone": "(800) 331-8152",
+   "page": 642
+  }
+ },
+ {
+  "slug": "ship-bottom-borough",
+  "name": "Ship Bottom Borough",
+  "census_name": "Ship Bottom borough",
+  "geoid": "3402967110",
+  "county": "Ocean",
+  "tax": {
+   "name": "SHIP BOTTOM BORO",
+   "general_rate": 1.241,
+   "effective_rate": 0.702
+  },
+  "eq": {
+   "name": "SHIP BOTTOM BORO",
+   "ratio": 53.09,
+   "true_value": 2802083632
+  },
+  "website": {
+   "label": "Ship Bottom Borough",
+   "url": "https://www.shipbottom.org/"
+  },
+  "lea": {
+   "code": "1528",
+   "dir_name": "Ship Bottom Borough",
+   "enf": "County",
+   "smoke_name": "Ocean County Fire Prev",
+   "smoke_addr": "1621 Long Beach Blvd., Ship Bottom NJ 08008",
+   "smoke_phone": "(732) 494-2171",
+   "page": 643
+  }
+ },
+ {
+  "slug": "south-toms-river-borough",
+  "name": "South Toms River Borough",
+  "census_name": "South Toms River borough",
+  "geoid": "3402969510",
+  "county": "Ocean",
+  "tax": {
+   "name": "SOUTH TOMS RIVER BORO",
+   "general_rate": 3.52,
+   "effective_rate": 2.123
+  },
+  "eq": {
+   "name": "SOUTH TOMS RIVER BORO",
+   "ratio": 54.89,
+   "true_value": 422062489
+  },
+  "website": {
+   "label": "South Toms River Borough",
+   "url": "https://www.southtomsriver.org/"
+  },
+  "lea": {
+   "code": "1529",
+   "dir_name": "South Toms River Borough",
+   "enf": "County",
+   "smoke_name": "Ocean County Fire Marshal",
+   "smoke_addr": "144 Mill Street, Office of the Fire Marshal",
+   "smoke_phone": "(732) 370-7360",
+   "page": 644
+  }
+ },
+ {
+  "slug": "stafford-township",
+  "name": "Stafford Township",
+  "census_name": "Stafford township",
+  "geoid": "3402970320",
+  "county": "Ocean",
+  "tax": {
+   "name": "STAFFORD TWP",
+   "general_rate": 2.623,
+   "effective_rate": 1.465
+  },
+  "eq": {
+   "name": "STAFFORD TWP",
+   "ratio": 103.76,
+   "true_value": 9157883385
+  },
+  "website": {
+   "label": "Stafford Township",
+   "url": "https://www.staffordnj.gov/"
+  },
+  "lea": {
+   "code": "1530",
+   "dir_name": "Stafford Township",
+   "enf": "Municipal",
+   "smoke_name": "Stafford Twp Fire Prev",
+   "smoke_addr": "260 E. Bay Av, Manahawkin NJ 08050",
+   "smoke_phone": "(609) 597-1000",
+   "page": 645
+  }
+ },
+ {
+  "slug": "surf-city-borough",
+  "name": "Surf City Borough",
+  "census_name": "Surf City borough",
+  "geoid": "3402971640",
+  "county": "Ocean",
+  "tax": {
+   "name": "SURF CITY BORO",
+   "general_rate": 1.066,
+   "effective_rate": 0.65
+  },
+  "eq": {
+   "name": "SURF CITY BORO",
+   "ratio": 55.77,
+   "true_value": 3800180742
+  },
+  "website": null,
+  "lea": {
+   "code": "1531",
+   "dir_name": "Surf City Borough",
+   "enf": "County",
+   "smoke_name": "Ocean County Fire Marshal",
+   "smoke_addr": "813 Long Beach Blvd., Surf City NJ 08008",
+   "smoke_phone": "(732) 370-7360",
+   "page": 647
+  }
+ },
+ {
+  "slug": "toms-river-township",
+  "name": "Toms River Township",
+  "census_name": "Toms River township",
+  "geoid": "3402973125",
+  "county": "Ocean",
+  "tax": {
+   "name": "TOMS RIVER TWP",
+   "general_rate": 1.902,
+   "effective_rate": 1.523
+  },
+  "eq": {
+   "name": "TOMS RIVER TWP",
+   "ratio": 74.92,
+   "true_value": 27456880005
+  },
+  "website": {
+   "label": "Toms River Township",
+   "url": "https://tomsrivertownship.com/"
+  },
+  "lea": {
+   "code": "1507",
+   "dir_name": "Toms River Township",
+   "enf": "District",
+   "smoke_name": "Toms River Twp Dist 1 & 2",
+   "smoke_addr": "33 Washington St, Toms Rvier NJ 08753",
+   "smoke_phone": "(732) 240-5153",
+   "page": 609
+  }
+ },
+ {
+  "slug": "tuckerton-borough",
+  "name": "Tuckerton Borough",
+  "census_name": "Tuckerton borough",
+  "geoid": "3402974210",
+  "county": "Ocean",
+  "tax": {
+   "name": "TUCKERTON BORO",
+   "general_rate": 3.201,
+   "effective_rate": 1.958
+  },
+  "eq": {
+   "name": "TUCKERTON BORO",
+   "ratio": 55.51,
+   "true_value": 816364799
+  },
+  "website": {
+   "label": "Tuckerton",
+   "url": "https://tuckertonborough.com/"
+  },
+  "lea": {
+   "code": "1532",
+   "dir_name": "Tuckerton Borough",
+   "enf": "State",
+   "smoke_name": "NJ Division Fire Safety",
+   "smoke_addr": "PO Box 809, Trenton NJ 08625-0809",
+   "smoke_phone": "(609) 633-6132",
+   "page": 648
+  }
+ }
+]

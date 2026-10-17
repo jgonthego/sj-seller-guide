@@ -1,0 +1,37 @@
+name: Deploy to GitHub Pages
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: true
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build site into docs/
+        run: python3 build.py
+        env:
+          # Origin used for canonical URLs, sitemap and robots.txt
+          BASE: https://jgonthego.github.io
+          # Sub-path GitHub Pages serves the repo from ("" if using a custom domain)
+          PATH_PREFIX: /sj-seller-guide
+          # Set to a Formspree form id to switch on the email signup (left off for now)
+          FORM_ID: ""
+      - uses: actions/configure-pages@v5
+        with:
+          enablement: true
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+      - id: deployment
+        uses: actions/deploy-pages@v4
