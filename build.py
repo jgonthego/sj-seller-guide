@@ -51,7 +51,7 @@ def signup():
     if SHOW_FORM:
         return f'''<form class="signup" action="https://formspree.io/f/{e(FORM_ID)}" method="POST"><label for="em">Get rule-change alerts for South Jersey sellers</label><div class="row"><input id="em" type="email" name="email" placeholder="you@example.com" required><input type="hidden" name="list" value="sj-seller-alerts"><button>Subscribe</button></div></form>'''
     return '''<!-- NEWSLETTER HOOK: set FORM_ID (Formspree id) at build time to enable this form -->
-<form class="signup is-disabled" aria-disabled="true" onsubmit="return false"><label for="em">Rule-change alerts for South Jersey sellers <span class="pill">coming soon</span></label><div class="row"><input id="em" type="email" placeholder="you@example.com" disabled><button disabled>Subscribe</button></div><small>Sign-up is not active yet. No data is collected.</small></form>'''
+<form class="signup is-disabled" aria-disabled="true" onsubmit="return false"><label for="em">Rule-change alerts for South Jersey sellers <span class="pill">coming soon</span></label><div class="row"><input id="em" type="email" placeholder="you@example.com" disabled><button disabled>Subscribe</button></div><small>Sign-up is not active yet. This form collects nothing.</small></form>'''
 
 def sponsor():
     return '''<aside class="sponsor" aria-label="Featured local pros (placeholder)"><div class="sponsor-h"><span class="pill pill-muted">Placeholder</span> Featured local pros</div><div class="sponsor-grid"><div class="slot">Sponsor slot<br><small>Real estate attorney</small></div><div class="slot">Sponsor slot<br><small>Home inspector / fire-cert prep</small></div><div class="slot">Sponsor slot<br><small>Title &amp; settlement</small></div></div><p class="muted small">This space is reserved for future local sponsors and lists no businesses today. Sponsorship will never change what this guide says.<!-- SPONSOR HOOK: add a sponsorship contact link here --></p></aside>'''
@@ -74,8 +74,8 @@ def page(path, title, desc, body, crumbs=None, ld=None, active=None):
 <header class="top"><div class="wrap top-in"><a class="brand" href="{L('/')}">{LOGO}<span>South Jersey<b> Seller's Guide</b></span></a><button class="menu" aria-label="Menu" onclick="document.body.classList.toggle('nav-open')">☰</button><nav class="nav">{nav}</nav></div></header>
 <main id="main" class="wrap">{bc}{body}
 <section class="band">{signup()}</section>{sponsor()}</main>
-<footer class="foot"><div class="wrap"><div class="disc">{DISCLAIMER}</div><div class="foot-cols"><div><b>{SITE}</b><br>An independent guide for homeowners selling in Atlantic, Cape May, Cumberland, Salem, Gloucester, Camden, Burlington and Ocean counties.</div><div><a href="{L('/about/')}">About, method &amp; sources</a><br><a href="{L('/checklist/')}">Printable checklist</a><!-- CONTACT HOOK: add a corrections email/link here --></div></div></div></footer>
-<script src="{L('/assets/app.js')}" defer></script></body></html>'''
+<footer class="foot"><div class="wrap"><div class="disc">{DISCLAIMER}</div><div class="foot-cols"><div><b>{SITE}</b><br>An independent guide for homeowners selling in Atlantic, Cape May, Cumberland, Salem, Gloucester, Camden, Burlington and Ocean counties.</div><div><a href="{L('/about/')}">About, method &amp; sources</a><br><a href="{L('/checklist/')}">Printable checklist</a><!-- CONTACT HOOK: add a corrections email/link here --></div></div><p class="muted small">Anonymous visit counts via GoatCounter (no cookies).</p></div></footer>
+<script src="{L('/assets/app.js')}" defer></script><script>window.goatcounter={{path:function(){{return location.pathname||'/'}}}}</script><script data-goatcounter="https://jgonthego.goatcounter.com/count" async src="{L('/assets/gc.js')}"></script></body></html>'''
     d = OUT + path
     os.makedirs(d, exist_ok=True)
     open(d + ("index.html" if path.endswith("/") else ""), "w").write(doc)
@@ -302,6 +302,7 @@ def main():
     open(OUT + "/assets/style.css", "w").write(CSS)
     tj = json.dumps([[m["slug"], m["name"], m["county"], m["status"]] for m in M])
     open(OUT + "/assets/app.js", "w").write("window.RTF=" + json.dumps(R) + ";\n" + JS)
+    shutil.copy("site/gc.js", OUT + "/assets/gc.js")  # self-hosted GoatCounter count.js (ISC)
     open(OUT + "/favicon.svg", "w").write(LOGO.replace('width="30" height="30" aria-hidden="true"', 'xmlns="http://www.w3.org/2000/svg"'))
     open(OUT + "/.nojekyll", "w").write("")
     home(); closing_costs(); attorney(); disclosures(); smoke(); lead(); timeline(); checklist(); towns_index(); about(); county_pages()
